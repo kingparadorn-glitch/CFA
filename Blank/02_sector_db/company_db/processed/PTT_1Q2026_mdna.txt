@@ -1,0 +1,1410 @@
+PTT Public Company Limited
+                             1
+                   1Q2026
+                                                                               PTT Public Company Limited
+                                                                                                                    2
+                                                                                                  1Q2026
+
+Management’s Discussion and Analysis (MD&A) and operating results for the first quarter of 2026 ended
+March 31, 2026
+Executive Summary
+                                                                                                % Inc. (Dec.)
+ Unit: Million Baht                        1Q2025         4Q2025          1Q2026
+                                                                                           YoY               QoQ
+ Sales Revenue                             700,223        638,479         718,729          2.6%             12.6%
+ EBITDA adjusted by the impact
+                                           94,500         77,621          115,879          22.6%            49.3%
+ of hedging activities
+ Net Profit                                23,315         25,534           25,738          10.4%             0.8%
+ Earnings per share (Baht/share)            0.81           0.89             0.91           12.3%             2.2%
+ Average Dubai Price (US$/barrel)           76.9           63.8             86.3           12.2%            35.3%
+
+          Although the global economy in the first quarter of 2026 (1Q2026) continued to expand from the fourth
+quarter of 2025 (4Q2025), the overall global economy and energy markets continued to face uncertainties arising
+from geopolitical tensions in the Middle East, which adversely affected energy supply stability and caused volatility
+in global oil prices. The closing price of Dubai crude oil in 1Q2026 was US$ 121.10 per barrel, increasing from the
+closing price of US$ 61.57 per barrel in 4Q2025. Meanwhile, the average Thai Baht appreciated compared with the
+first quarter of 2025 (1Q2025), with the average exchange rate of Baht 34.1 per US$ in 1Q2025, while Thai Baht
+averaged of Baht 31.8 per US$ in 1Q2026.
+          Amid the unrest in the Middle East that began in late February 2026, PTT has closely monitored and
+managed the country’s energy security through the establishment of the PTT Incident Command System (PTT ICS)
+and coordination with group companies and government agencies. PTT also adjusted its crude oil procurement
+plan by securing additional supply from sources outside the conflict areas, enabling refinery, petrochemical, and
+power generation units to maintain full operations to ensure sufficient domestic energy supply and preserve the
+country’s energy security amid tight global market conditions. However, higher global oil prices resulted in increased
+liquidity requirements and financial costs for the PTT Group from margin calls for crude oil procurement, working
+capital for crude oil and natural gas supply, as well as outstanding receivables from the Oil Fuel Fund, reflecting
+PTT’s role in maintaining the country’s energy stability despite sudden surges in costs and market volatility in the
+short term.
+
+           However, PTT continues to implement key initiatives to enhance performance uplift across the Group
+through the MissionX project, while also driving digital transformation through the AXIS project with a focus on the
+effective and value-driven adoption of digital tools and AI. In addition, PTT continues to strengthen collaboration in
+supply chain and marketing activities both domestically and internationally through the P1 and D1 projects,
+alongside the implementation of Financial Excellence (F1) initiatives to maintain financial discipline and effectively
+                                                                                PTT Public Company Limited
+                                                                                                                   3
+                                                                                                   1Q2026
+
+manage the Group’s cash flow liquidity. These initiatives will serve as key foundations to support sustainable growth
+and deliver long-term value to shareholders.
+
+         As a result, PTT and its subsidiaries continued to maintain strong operating performance and financial
+position, details of which are as follows:
+        In 1Q2026, PTT and its subsidiaries reported Earnings before Interest, Tax, Depreciation and Amortization
+(EBITDA), adjusted by the impact of hedging activities of Baht 115,879 million, increased by Baht 21,379 million or
+22.6% from 1Q2025 at Baht 94,500 million, mainly from the Petrochemical and Refining business. The Refining
+business improved from higher Market Gross Refining Margin (Market GRM) and increased sales volume,
+as well as higher stock gain adjusted to Net Realizable Value (NRV). In 1Q2026, PTT and its subsidiaries’ stock
+gain adjusted to NRV was approximately Baht 46,000 million, whereas in 1Q2025, there was a gain of approximately
+Baht 1,500 million. In addition, the Petrochemical business improved from higher product spreads and sales volume
+in the Aromatics’ product. Exploration and Production business performance also increased, mainly from higher
+sales revenue. Furthermore, Gas business performance improved mainly from GSP business following higher gross
+profit, driven by a reduction in feed costs from the new gas pricing structure, which was effective since 1 January
+2026, together with an overall increase in sales volume, despite lower average selling price in line with the reference
+exchange rate as Thai Baht appreciation in 1Q2026, and most petrochemical reference prices. However, S&T
+business’s performance declined mainly due to the recognition of expenses related to the gas quality specification
+adjustment (C-day) in 1Q2026. In 1Q2026, Net income of PTT and its subsidiaries was reported at Baht 25,738 million,
+increased by Baht 2,423 million or 10.4% from the 1Q2025 at Baht 23,315 million. However, in 1Q2026, PTT
+recognized non-recurring items (PTT’s portion) after tax as a loss of approximately Baht 2,900 million, mainly from
+an impairment loss on assets of GC Polyols Company Limited (GCP) recognized by PTT Global Chemical Public
+Company Limited (GC). In comparison, in 1Q2025, PTT recognized a loss of approximately Baht 200 million,
+primarily due to IRPC Public Company Limited (IRPC)’s share of impairment loss of UBE Chemicals (Asia) Public
+Company Limited (UCHA).
+        In 1Q2026, PTT and its subsidiaries reported EBITDA, adjusted by the impact of hedging activities, of Baht
+115,879 million, increased by Baht 38,258 million or 49.3% compared to the 4Q2025 at Baht 77,621 million. The
+increase was mainly from Petrochemical and Refining business. The Refining business improved from higher Market
+GRM and increased sales volume, as well as higher stock gain adjusted to NRV. In 1Q2026, PTT and its
+subsidiaries’ stock gain adjusted to NRV was approximately Bath 46,000 million, whereas in 4Q2025, there was a
+loss of approximately Bath 8,200 million. In addition, the Petrochemical business improved from higher product
+spreads and sales volume in the Aromatics’ product. In addition, the Exploration and Production business’s
+performance improved mainly from higher sales revenue, combined with lower operating expenses and
+                                                                                PTT Public Company Limited
+                                                                                                                   4
+                                                                                                   1Q2026
+
+depreciation expenses. Moreover, Gas business’s performance improved, mainly from GSP business following
+higher gross profit, supported by a reduction in feed costs following the implementation of the new gas pricing
+structure as well as an increase in overall sales volume and average selling prices. However, Transmission System
+Operator (TSO) business’s performance declined from lower sales revenue following a decrease in reserved
+volume, as well as the reduction of the adjustment of gas pipeline tariff on the Commodity Charge (Tc), which was
+effective since 1 February 2026. Furthermore, the performance of S&T business decreased from the recognition of
+expenses related to C-day in 1Q2026. In 1Q2026, net income of PTT and its subsidiaries was Baht 25,738 million,
+which increased by Baht 204 million or 0.8% from 4Q2025 at Baht 25,534 million. However, in 1Q2026, PTT
+recognized non-recurring items (PTT’s portion) after tax as a loss of approximately Baht 2,900 million, mainly from
+an impairment loss on assets of GCP recognized by GC. In contrast, in 4Q2025, PTT recognized a gain of
+approximately Baht 9,300 million, primarily from gains on the disposal and change in investment status in Lotus
+Pharmaceutical Company Limited (Lotus) by PTT Global Management Company Limited (PTTGM).
+        As of 31 March 2026, PTT and its subsidiaries had the total assets amounting to Baht 3,583,216 million,
+increased by Baht 313,556 million or 9.6% from 31 December 2025 which had the total assets amounting to Baht
+3,269,660 million mainly from higher other current assets from margin call deposits of PTT International Trading Pte.
+Ltd. (PTTT), as well as higher trade receivable driven by increased sales volume and selling price. In addition, cash
+and short-term investments increased from financing activities and cash generated from operating activities. The total
+liabilities as of 31 March 2026 were reported at Baht 1,844,505 million, increasing by Baht 227,329 million or 14.1%
+from 31 December 2025 at Baht 1,617,176 million primarily due to increases in current derivative liabilities as well as
+short-term and long-term borrowings. Moreover, the total shareholders’ equity as of 31 March 2026 was Baht 1,738,711
+million, increased by Baht 86,227 million from 31 December 2025 at Baht 1,652,484 million primarily from the issuance
+of subordinated perpetual debentures by Thai Oil Public Company Limited (TOP) and foreign currency translation
+adjustments resulting from the depreciation of the Thai Baht, while higher retained earnings from PTT and its
+subsidiaries’ operating results for the three-month period ended 31 March 2026.
+                                                                                PTT Public Company Limited
+                                                                                                                  5
+                                                                                                   1Q2026
+
+Economic Overview in the First Quarter of 2026
+        The global economy in 1Q2026 continued to expand from 4Q2025, amid rising pressures toward the end of
+the quarter following the escalating tensions in the middle east, which affected energy prices and global supply
+chains. The Eurozone economy grew at a pace similar to the previous quarter, supported by low unemployment,
+although higher energy prices pushed inflation above the target range in March, prompting the European Central
+Bank (ECB) to hold policy interest rates to curb inflation. Meanwhile, China’s economy accelerated, driven by strong
+exports and manufacturing, supported by government policies promoting large-scale equipment renewal and
+monetary easing. In addition, China’s high reliance on alternative energy and coal, as well as sufficient oil reserves
+to handle short-term supply volatility, helped limit the impact of Middle East tensions. The U.S. economy also
+expanded at a faster pace, underpinned by a resilient labor market, continued investment flows related to AI
+technologies, relatively low dependence on energy imports from conflict-affected regions, and robust domestic
+energy infrastructure. The International Monetary Fund (IMF), in April 2026, revised down its global growth forecast
+for 2026 to a range of 2.0–3.1%, depending on the duration and severity of the Middle East conflict, from its previous
+projection of 3.3% in January 2026.
+
+        According to S&P Global's report in April 2026, global oil demand in 1Q2026 averaged 104.8 million barrels
+per day (MMBD), decrease from average 107.0 MMBD in 4Q2025. The decline reflected supply-side constraints
+amid heightened tensions in the Middle East, including disruptions to transportation and refining activities, together
+with higher oil prices and seasonal effects following the end of the winter period in the Northern Hemisphere. As a
+result, the petrochemical, aviation, and logistics sectors were among the first to experience demand impacts.
+Compared with 1Q2025 at 104.2 MMBD, overall demand continued to expand in line with economic growth and
+increased consumption from Non‑OECD countries.
+
+                                                                                       % Inc. (Dec.)
+           Unit: US$/barrel                    1Q2025      4Q2025      1Q2026
+                                                                                     YoY           QoQ
+           Average Dubai Crude Oil Price        76.9        63.8        86.3       12.2%          35.3%
+           Gasoline Crack Spread                 7.7        15.7         9.6       24.7%         (38.9%)
+           Diesel Crack Spread                  14.3        24.5        35.4      >100.0%         44.5%
+           FO Crack Spread (180 – 3.5%S)        (2.0)       (7.0)       (8.1)     <(100.0%)      (15.7%)
+           GRM-Singapore Crack                   3.2         7.4         9.2      >100.0%         24.3%
+
+
+        Dubai crude oil price in 1Q2026 averaged US$ 86.3 per barrel, an increase from US$ 63.8 per barrel in
+4Q2025 and from US$ 76.9 per barrel in 1Q2025 amid escalating geopolitical tensions in the Middle East led to
+                                                                                      PTT Public Company Limited
+                                                                                                                        6
+                                                                                                         1Q2026
+
+heightened volatility in the oil market, particularly as energy shipments through the Strait of Hormuz, a critical strategic
+route from the Persian Gulf, were severely constrained. As a result, oil producers in the Gulf were forced to reduce
+production, while such measures may not be sufficient to fully offset the loss of supply.
+         Petroleum product prices at Singapore spot market
+
+           • Gasoline crack spread averaged US$ 9.6 per barrel in 1Q2026, decreased from US$ 15.7 per barrel in
+                 4Q2025, reflected higher crude oil prices, together with seasonal demand softening after the year‑end
+                 travel period, rising retail fuel prices that began to pressure consumption, and energy management
+                 measures implemented in some countries. However, compared with US$ 7.7 per barrel in 1Q2025,
+                 gasoline cracks increased on the back of tighter supply conditions, driven by refinery run cuts in the
+                 Middle East and Asia, constraints on crude supply previously transported through the Strait of Hormuz,
+                 and export restriction measures on refined products imposed by certain countries.
+
+           • Diesel crack spread averaged US$ 35.4 per barrel in 1Q2026, increased from US$ 24.5 per barrel in
+                 4Q2025 and US$ 14.3 per barrel in 1Q2025. The increase reflected significantly tighter supply
+                 conditions resulting from constraints on refined product exports from the Middle East to Asian and
+                 European markets, particularly Europe, which has relied heavily on diesel imports from Middle East
+                 following the reduction in imports from Russia. This was compounded by refinery run cuts across both
+                 the Middle East and Asia due to disruptions in crude supply and logistics. Meanwhile, diesel demand
+                 remained relatively inelastic, as diesel serves as a key fuel for transportation, logistics and industrial
+                 activities.
+
+           • High-Sulfur Fuel Oil 3. 5% crack spread ( HSFO) averaged US$ -8.1 per barrel in 1Q2026, declined
+                 from US$ -7.0 per barrel in 4Q2025 and US$ -2.0 per barrel in 1Q2025. The weaker crack spread
+                 reflected pressure from elevated crude oil prices. However, the downside was partially cushioned by
+                 supply side factors, including refinery run cuts across regions, logistical tightness, and the use of high
+                 sulfur fuel oil as a substitute fuel for natural gas in power generation in certain countries.
+
+         Singapore Gross Refining margin (GRM) averaged at US$ 9.2 per barrel in 1Q2026, increaesd from US$ 7.4
+per barrel in 4Q2025 and US$ 3.2 per barrel in 1Q2025, supported by strong margins for Diesel and Jet fuel amid a
+supply tightness and refinery run cuts across regions, despite ongoing pressure from volatile crude oil prices and
+freight costs.
+                                                                        PTT Public Company Limited
+                                                                                                           7
+                                                                                           1Q2026
+
+                                                                            % Inc. (Dec.)
+                Unit : $/Ton        1Q2025      4Q2025     1Q2026
+                                                                         YoY           QoQ
+        HDPE: CFR SEA                 978        871        1,044       6.7%         19.9%
+        PP: CFR SEA - Film           1,023       868        1,050       2.6%         21.0%
+        BZ: FOB Korea                 875        666         842       (3.8%)        26.4%
+           BZ-Naphtha                 217        102         122       (43.8%)       19.6%
+        PX: CFR Taiwan                861        829        1,006       16.8%        21.4%
+           PX-Naphtha                 203        265         286        40.9%        7.9%
+        Naphtha: MOPJ                 658        564         720        9.4%         27.7%
+        Propane (C3): ARAMCO CP       625        488         538       (13.9%)       10.2%
+        Asian Spot LNG: ($/MMBTU)     14.1       10.6        14.2       0.7%         34.0%
+
+
+Petrochemical product prices for Olefins and Aromatics are as follows:
+
+ • Olefins: High Density Polyethylene (HDPE) prices in 1Q2026 increased from 4Q2025, primarily
+     supported by higher feedstock costs in line with crude oil and naphtha prices, as well as tighter regional
+     supply following planned maintenance shutdowns by several producers in Asia. In addition, in early
+     March, market sentiment was further strengthened by geopolitical tensions in the Middle East and
+     concerns over potential supply disruptions through the Strait of Hormuz, a key export route for HDPE
+     from Middle East. This led to front-loading activities by buyers to secure supply, providing additional
+     upward pressure on HDPE prices. However, the upside was partially limited by the gradual recovery in
+     downstream demand. As a result, the average HDPE price in 1 Q2 0 2 6 was US$ 1 ,0 4 4 per ton.
+     Polypropylene (PP) prices in 1Q2026 also increased, driven by higher feedstock costs and supply
+     tightness. Similarly, concerns over potential logistics disruptions through the Strait of Hormuz toward
+     the end of the quarter contributed to an increase in risk premium to PP price, given the Middle East’s
+     role as a key exporting region. Nevertheless, the market continued to face pressure from regional
+     oversupply and relatively weak downstream demand, limiting the extent of price increases. The average
+     PP price in 1Q2026 stood at US$ 1,050 per ton.
+
+ • Aromatics: Benzene (BZ) prices in 1Q2026 increased from the 4Q2025, in line with higher feedstock
+     costs and improved demand from certain downstream sectors, particularly styrene monomer. In
+     addition, geopolitical tensions in the Middle East supported market sentiment, raising concerns over
+     feedstock availability and prompting some producers to reduce operating rates, which helped support
+     BZ prices. However, regional supply remained elevated, especially due to continued capacity additions
+                                                                                PTT Public Company Limited
+                                                                                                                    8
+                                                                                                   1Q2026
+
+              in China, which has limited the upside in benzene (BZ) prices. While, Paraxylene (PX) prices in 1Q2026
+              increased, supported by short-term supply tightness resulting from maintenance shutdowns at certain
+              plants, along with improved demand from Purified Terephthalic Acid (PTA) producers following margin
+              recovery. Moreover, PX was more positively impacted by geopolitical factors compared to other
+              Aromatics products, particularly toward the end of the quarter, as concerns over potential supply
+              disruptions led to front-loading activities and added risk premium to prices. Nonetheless, downstream
+              polyester demand remained constrained due to the off-peak season and high inventory levels. The
+              average prices of BZ and PX in 1Q2026 were approximately US$ 842 and US$ 1,006 per ton,
+              respectively.
+
+         Compared to the same quarter last year, overall petrochemical prices showed a mixed upward trend. HDPE,
+PP, and PX prices increased, while BZ declined slightly. Price increases in certain products were supported by higher
+feedstock costs and geopolitical factors toward the end of the quarter, particularly concerns over potential
+transportstion disruptions in the Strait of Hormuz, which led to short-term buying acceleration. However, overall price
+movements remained constrained by oversupply, especially from new capacity additions in China, and a limited
+recovery in downstream demand. As a result, BZ continued to face relatively great pricing pressure compared to
+other products in the group.
+
+         The price of propane in 1Q2026 increased from 4Q2025, supported by colder-than-usual weather in many
+countries at the beginning of the year, which led to higher demand for propane for heating. At the same time, supply
+from the U.S. and the Middle East faced production and export constraints during certain periods due to unfavorable
+weather conditions, such as refinery maintenance shutdowns and a decline in non-associated gas propane
+production during the winter season. In addition, the conflict in the Middle East, which began on 28 February 2026,
+is expected to have a significant impact on propane prices (Aramco CP) starting from the second quarter onward.
+
+         Compared to the same quarter last year, Propane prices in 1Q2026 decreased, partly due to increased
+supply driven by exports from the U.S. and Middle Eastern countries prior to the closure of the Strait of Hormuz.
+
+         The price of Spot LNG in 1Q2026 increased compared to 4Q2025, driven primarily by escalating geopolitical
+tensions in the Middle East, which significantly disrupted global energy supply. Key factors included interruptions to
+shipments through the Strait of Hormuz, accounting for around 20% of global LNG trade as well as attacks on energy
+infrastructure. Damage to the LNG facilities at Ras Laffan in Qatar, the world’s largest LNG production hub, impacted
+capacity of approximately 12.5 million tons per year, or about 17% of Qatar’s LNG exports. The affected facilities are
+expected to face shutdowns for an estimated 3–5 years. At the same time, colder-than-expected weather in early
+                                                                               PTT Public Company Limited
+                                                                                                                 9
+                                                                                                  1Q2026
+
+2026 boosted demand for LNG stock replenishment across several regions, including Europe, Japan, and South
+Korea. However, some price pressure was alleviated by increased supply from North America, particularly the U.S,
+and Canada, where production has been running consistently at levels exceeding nameplate capacity. In addition,
+LNG import demand from China remained weak due to ample domestic gas supply and high pipeline gas imports.
+In some markets, demand contraction was also observed as elevated LNG prices prompted countries to limit gas
+consumption and switch to alternative energy sources such as coal, renewables, and nuclear power.
+
+        Compared to the same period last year, spot LNG prices increased slightly. This was supported by
+heightened geopolitical tensions in the Middle East, which added uncertainty to the global energy market outlook. At
+the same time, gas storage levels in Europe stood at 27.7% at the end of the first quarter, lower than 33.8% in the
+same period last year, further supporting prices.
+
+        The Thai economy in 1Q2026 continued to expand from 4Q2025, mainly supported by robust merchandise
+exports amid the ongoing upswing in the electronic cycle and temporary relief from the U.S. tariff pressure after the
+U.S. government invoked Section 122 of the Trade Act of 1974 to impose a 10% import tariff for 150 days (ending 24
+July 2026), replacing the prior reciprocal tariffs ruled unlawful by the U.S. Supreme Court. Private consumption also
+grew despite lower consumer confidence from tension in the Middle East during the end of first quarter, promoted by
+accelerated EV 3.0 vehicle deliveries, government cost of living relief measures, and election-related spending
+stimulus. Furthermore, private investment expanded in line with rising investment promotion approvals. Tourism
+sector saw gradual recovery following the revisit of Chinese tourist. While public spending slightly slowed after the
+government accelerated budget disbursement ahead of parliament’s dissolution. The Bank of Thailand in April 2026
+maintained its 2026 Thai economic growth forecast at 1.5%.
+                                                                                PTT Public Company Limited
+                                                                                                                  10
+                                                                                                   1Q2026
+
+Non-recurring Items in the first quarter of 2026 until Present
+Summary of non-recurring items in the first quarter of 2026 until present are as follows:
+   January 2026        • PTT: On 1 January, following the resolution of the National Energy Policy Committee
+                         (NEPC) on 26 November 2025 approving the criteria for the natural gas pricing structure,
+                         the new pricing structure became effective from 1 January 2026 onward, with details as
+                         follows: (1) Natural gas entering and exiting gas separation plants shall use the average
+                         Gulf gas price (Gulf Price) as the natural gas cost. (2) Natural gas used for liquefied
+                         petroleum gas (LPG) production for fuel consumption shall use the Gulf Price as the
+                         natural gas cost. (3) Natural gas for the power sector, transportation sector (NGV), and
+                         industrial sector shall apply the Pool Price, which is a weighted average price based on
+                         the price and volume of natural gas, comprising: (i) Gulf gas price used in the Pool Price
+                         calculation at 10% lower than the average Gulf gas price. (ii) Imported natural gas from
+                         Myanmar based on gas prices including natural gas pipeline transportation tariffs into
+                         Thailand. (iii) Imported liquefied natural gas (LNG) prices including import costs and
+                         LNG terminal service fees. In addition, should natural gas prices materially change or
+                         significantly affect gas separation plant operations, the Energy Policy and Planning
+                         Office (EPPO), the Energy Regulatory Commission (ERC), and PTT will jointly review the
+                         natural gas pricing structure for further consideration by the NEPC.
+                       • TOP: On 6 January, TOP announced a tender offer to repurchase the outstanding senior
+                         unsecured US dollar-denominated notes, prior to their maturity dates with an aggregate
+                         principal amount of up to US$ 550 million, issued by Thai Oil Treasury Center Company
+                         Limited (TTC), a wholly owned subsidiary of the Company. The tender offer period is
+                         from 6 January - 4 February 2026.
+                       • TOP: On 16 January, TOP announced that on 15 January 2026 TTC has issued and
+                         offered subordinated perpetual debentures to offshore investors in the total amount of
+                         US$ 600 million, fully guaranteed by TOP, with a coupon rate of 6.1% per annum for the
+                         first 5 years and 3 months from issue date. For the period thereafter, the distribution rate
+                         for the debentures shall be in accordance with the details stated under the relevant
+                         offering document. The debentures have been listed on the Singapore Exchange
+                         Securities Trading Limited (SGX-ST).
+   February 2026       • GPSC: On 12 February, the Board of Directors Meeting No.2/2026 on 11 February 2026
+                         approved IRPC Clean Power Company Limited (IRPCCP), a subsidiary in which GPSC
+                         holds a 51% stake, to enter into a land lease agreement with IRPC with a total area of
+                         approximately 716 rai in Songkhla Province for a period of 30 years, with a total contract
+                                                                     PTT Public Company Limited
+                                                                                                       11
+                                                                                        1Q2026
+
+                 value of not more than Baht 400.87 million. The leased land will be used for the
+                 development of a 74.88 MW ground-mounted solar power project. The lease amount is
+                 referred to market prices and be assessed by independent appraisers.
+March 2026   • GC: On 27 March, GC reported the progress of the Non-Core Asset Monetization project
+               by completing the partial sale of shares in Thai Tank Terminal Co., Ltd. (“TTT”),
+               representing approximately 35.43 percent of the total issued and paid-up shares of TTT,
+               to PTT Tank Terminal Co., Ltd. (“PTT Tank”) at a total value of Baht 4,403 million. GC may
+               be entitled to receive an earn out subject to a maximum amount of baht 604 million once
+               GC has entered into the Ethane storage tank service agreement with TTT, in accordance
+               with the conditions set forth in the share sale and purchase agreement. In addition, GC
+               has completed the transfer of assets related to the jetty and tank farm storage business
+               in the Buffer Tank Farm to Tank Infra Co., Ltd. (a subsidiary of PTT Tank) and received
+               payment of Baht 4,840 million. The parties are in the process of transferring the relevant
+               licenses, which is expected to be completed within the first quarter of 2027. GC will lease
+               back storage tanks and receive the services for the jetty to support its operations.
+             • OR: On 31 March, OR announced that Modulus Venture Company Limited (“Modulus”),
+               a wholly-owned subsidiary of OR, invested in Thai Pipeline Network Company Limited
+               (“TPN”), which operates a petroleum pipeline transportation system, by acquiring all
+               existing shares of TPN held by Biggas Technology Company Limited and subscribing
+               for newly issued TPN shares, for a total amount not exceeding approximately Baht 2,200
+               million. Upon completion of the Share Acquisition Transaction, Modulus will hold 55.41%,
+               and Electricity Generating Public Company Limited (“EGCO”) will hold 44.59% of TPN’s
+               issued shares. The Share Acquisition Transaction was completed on 30 March 2026.
+               This investment will strengthen infrastructure, improve operational efficiency, and
+               enhance the Mobility Business’s competitiveness. In addition, the Board of Directors
+               approved Modulus’s loan guarantee under the loan agreement between TPN and the
+               financial institutions in proportion to Modulus’s shareholding in TPN, with a total
+               guarantee amount not exceeding approximately Baht 6,203 million, to support project
+               development and long-term business operations.
+April 2026   • PTT: On 28 April, PTT clarified the proactive measures undertaken by PTT Group to
+               mitigate energy security risks during the crisis of the unrest in the Middle East and the
+               closure of the Strait of Hormuz, which have disrupted the supply chains of crude oil,
+               refined products, and other products across global markets. The measures included:
+               (1) implementation of Business Continuity Management (BCM) through the
+               establishment of PTT Incident Command System (PTT ICS) and close coordination with
+               government authorities. (2) Diversification of crude oil procurement from alternative
+                                                                           PTT Public Company Limited
+                                                                                                               12
+                                                                                              1Q2026
+
+                     sources, including the United States, West Africa, Latin America, and Malaysia, to
+                     reduce reliance on the Middle East. (3) Operation of refineries within PTT Group at an
+                     average utilization rate of over 105% to support domestic demand, particularly diesel
+                     demand. (4) Maintaining inventories of crude oil and refined products at levels
+                     exceeding the legal reserve requirements in order to support increased diesel demand.
+                     (5) Supplying refined petroleum products to regular jobbers at selling prices equivalent
+                     to the retail prices at oil stations to support continuous distribution to the transportation
+                     sector, the agricultural sector, and consumers nationwide. (6) Securing additional
+                     liquidity of more than Baht 230 billion to support margin call, working capital
+                     requirements, and outstanding receivables from the Oil Fuel Fund, while absorbing
+                     related costs to ensure the country’s energy security. (7) Operating and reporting
+                     transparently by affirming that there had been no stockpiling of refined products, while
+                     continuously disclosing data on oil volumes throughout the supply chain as well as
+                     procurement, production, import-export, and inventory information to relevant
+                     government authorities. (8) Appointing an Audit Committee on refinery operations and
+                     oil trading processes of PTT Group companies to oversee and audit the supply chain
+                     from crude oil procurement, production processes, storage, to distribution, in
+                     compliance with applicable laws, government policies, and good corporate governance
+                     principles.
+                 • GC: On 29 April, GC has entered into a non-binding Memorandum of Understanding
+                   (MoU) with SCG Chemicals Public Company Limited (SCGC) to comprehensively
+                   explore a potential strategic formation of a joint venture of their respective olefins and
+                   polyolefins businesses in Thailand. The scope of the Potential Joint Venture includes
+                   olefins business, polyethylene (PE) production facilities, and polypropylene (PP)
+                   production facilities of both companies. The objective of the Potential Joint Venture is to
+                   enhance scale, strengthen feedstock efficiency, and enhance the competitiveness of
+                   Thailand’s petrochemical business in the region. The evaluation of the Potential Joint
+                   Venture is expected to be completed within the third quarter of 2026 and remains
+                   subject to further negotiations, due diligence, and receipt of the relevant regulatory
+                   approvals.
+Supplementary    • On 7 April 2026, amid escalating unrest in the Middle East, the government enacted the
+ Clarification     Emergency Decree on the Prevention and Correction of Fuel Shortage B.E. 2516,
+                   mandating stepwise reductions in ex-refinery diesel prices:
+                     • Reduction of Baht 2 per litre (9–23 April 2026)
+                     • Reduction of Baht 5 per litre (24 April–9 May 2026)
+                     • Reduction of Baht 3 per litre (10–19 May 2026).
+                                                    PTT Public Company Limited
+                                                                                      13
+                                                                       1Q2026
+
+PTT Group has strictly complied with these measures and continues to cooperate closely
+with relevant government authorities. The unrest situation in the Middle East have led to
+elevated and significantly more volatile crude oil prices and petroleum product spreads
+in global markets. Nevertheless, PTT Group has effectively managed feedstock
+procurement to ensure uninterrupted refinery operations and to meet domestic energy
+demand. PTT Group estimates the impact from diesel price controls during the period at
+approximately Baht 6,470 million.
+                                                                                  PTT Public Company Limited
+                                                                                                                     14
+                                                                                                     1Q2026
+
+Financial Results of PTT Group by Business
+      Financial performance of 1Q2026 compared with 1Q2025 and 4Q2025 are summarized as follows:
+                                                                                             % Inc. (Dec.)
+      Unit : Million Baht                             1Q2025     4Q2025      1Q2026
+                                                                                          YoY           QoQ
+      Sales revenue                                    700,223    638,479     718,729         2.6%           12.6%
+      : Exploration & Production                        71,166     70,372      76,087         6.9%            8.1%
+      : Natural Gas                                    125,467    107,724     119,913       (4.4%)           11.3%
+      : Oil & Retail                                   182,699    155,675     176,497       (3.4%)           13.4%
+      : International trading                          407,893    364,198     444,809         9.1%           22.1%
+      : Petrochemical & Refining                       310,338    267,141     344,999        11.2%           29.1%
+      : New Business & Sustainability                   28,197     19,600      16,837      (40.3%)         (14.1%)
+      : Others                                           2,976      3,834       3,042         2.2%         (20.7%)
+      EBITDA                                            93,527     74,892     185,587       98.4%        >100.0%
+      : Exploration & Production                        52,281     47,642      55,558        6.3%          16.6%
+      : Natural Gas                                     13,801     13,156      16,431       19.1%          24.9%
+      : Oil & Retail                                     6,547      4,254       7,228       10.4%          69.9%
+      : International trading
+           - Excluding effect of FX and derivatives      1,068     (3,444)     41,223     >100.0%       >100.0%
+           - Including effect of FX and derivatives      2,639       1,115      (151)    <(100.0%)     <(100.0%)
+      : Petrochemical & Refining                        13,375     10,146      67,916     >100.0%       >100.0%
+      : New Business & Sustainability                    6,604      3,276       3,652      (44.7%)         11.5%
+      : Others                                           (341)      (582)       (307)       10.0%          47.3%
+      Depreciation and amortization expenses            44,800     44,564      42,012       (6.2%)         (5.7%)
+      Operating income                                  48,727     30,328     143,575     >100.0%        >100.0%
+      : Exploration & Production                        29,227     24,390      34,447       17.9%          41.2%
+      : Natural Gas                                      9,166      8,208      11,635       26.9%          41.8%
+      : Oil & Retail                                     4,757      2,462       5,249       10.3%       >100.0%
+      : International trading
+           - Excluding effect of FX and derivatives       611      (3,894)     40,795     >100.0%       >100.0%
+           - Including effect of FX and derivatives      2,182        665       (579)    <(100.0%)     <(100.0%)
+      : Petrochemical & Refining                         2,320      (787)      57,291     >100.0%       >100.0%
+      : New Business & Sustainability                    3,449        725       1,173      (66.0%)         61.8%
+      : Others                                           (995)     (1,220)      (901)        9.4%          26.1%
+      Share of net income from investments in joint
+                                                          325       4,455       2,054     >100.0%         (53.9%)
+      ventures and associates
+      Loss (Reversal) on impairment of assets            (673)      3,295      10,271     >100.0%        >100.0%
+      Gain (loss) on derivatives                         (960)      6,683     (70,810)   <(100.0%)     <(100.0%)
+      Gain on foreign exchange                           4,507        200       1,121      (75.1%)       >100.0%
+      EBIT                                              58,873     51,525      73,734       25.2%          43.1%
+      Finance costs                                     10,985      8,916       8,239      (25.0%)         (7.6%)
+      Income taxes                                      16,074     11,976      23,872       48.5%          99.3%
+      Net income                                        23,315     25,534      25,738       10.4%           0.8%
+      Earnings per share (Baht/share)                     0.81       0.89        0.91       12.3%           2.2%
+                                                                                            PTT Public Company Limited
+                                                                                                                                           15
+                                                                                                               1Q2026
+
+Segmentation Performance of PTT Group
+      The details of Revenue, EBITDA and Operating Income by segmentation of 1Q2026 are as follows:
+
+                                                                                                                      Unit: Million Baht
+                   Revenue                                       EBITDA                            Operating Income
+
+                      1%     0.3%
+                                                                    (0.2%)                                    (1%)
+                                                                                                     1%
+                            10%                                    2%
+                                                                        9%                                      8%
+             29%
+                                                                             21%
+                                                           35%                                     38%
+                                                                                                                         27%
+                   718,729                                       185,587                                 143,575
+                                    38%
+
+               15%                                            4%
+                       7%                                            29%                                 4%
+                                                                                                                23%
+
+
+
+      GAS*       International Trading*         Exploration    Oil and Retail*     Petrochemical   New Business                Others*
+                                                and Production                     and Refining    and Sustainability*
+
+     * Including PTT own operation and PTT’s affiliates
+
+
+1. PTT Own Operation Businesses
+
+1.1 Gas Business Group
+       The details of PTT’s natural gas sales volume by customers, Pool Gas price, and product sales volume from
+GSPs are as follows:
+                                                                                                                     PTT Public Company Limited
+                                                                                                                                                                         16
+                                                                                                                                        1Q2026
+
+The details of PTT gas business group’s EBITDA separated by sub-business units are as follows:
+                                                                                                                                                   Unit: Million Baht
+
+
+
+
+Remark: S&T: Natural Gas supply and trading business / TSO: Transmission system operator business / GSP: Gas separation plant business / NGV: Natural gas for vehicles
+            business / Others: Subsidiaries in gas business group mainly PTTLNG and PTTNGD
+
+
+
+First quarter of 2026 compared with First quarter of 2025
+             In 1Q2026, Gas business reported sales revenue of Baht 119,913 million, decreased by Baht 5,554 million
+or 4.4% from 1Q2025. The decrease was primarily from the reduction in S&T business’s sales revenue, where
+the average selling price declined in line with the Pool Gas price, as well as the average selling price to industrial
+customers decreased following the reference price. Meanwhile, the average gas sales volume (calculated at heating
+value of 1,000 BTU per cubic feet) increased by 156 MMSCFD or 4.0% from 3,863 MMSCFD in 1Q2025 to 4,019
+MMSCFD in 1Q2026. The increase was mainly driven by higher demand from power plant customers, which
+increased in response to weather conditions. In addition, there was the retirement of Mae Moh power plant Unit 9-10
+since 1 January 2026 resulted in higher dispatch demand for gas-fired power plants. Moreover, TSO business’s sale
+revenue declined from reduced reserved volume, as well as the reduction of the adjustment of gas pipeline tariff on
+the Commodity Charge (Tc) which was effective since 1 February 2026.
+
+             Meanwhile, GSP business’s sales revenue increased, driven by higher overall sales volume of GSP products
+(including NGL derived from Dew Point Control units) from 1,669,382 tons in 1Q2025 to 1,909,296 tons in 1Q2026 or
+14.4%. This was mainly attributed to higher LPG and Propane demand from customers, together with higher Ethane’s
+sales volume, supported by increased gas offtake in the Gulf of Thailand. Moreover, there was no planned
+maintenance shutdown of GSP in 1Q2026. However, the average selling price declined due to the exchange rate as
+Thai Baht appreciation in 1Q2026, and most petrochemical reference prices decreased.
+                                                                               PTT Public Company Limited
+                                                                                                                 17
+                                                                                                  1Q2026
+
+        In 1Q2026, EBITDA of Gas business was reported at Baht 16,431 million, increased by Baht 2,630 million or
+19.1%. The operating profit was Baht 11,635 million, increased by Baht 2,469 million or 26.9%. The increase was
+mainly attributable to higher gross profit of GSP business, driven by a reduction in feed costs following the
+implementation of the new gas pricing structure effective on 1 January 2026, in which the GSP’s feed cost was
+reverted to Gulf gas price, together with an overall increase in sales volume, despite a decline in average selling
+price as as aforementioned. However, the performance of S&T business decreased mainly from the recognition of
+expenses related to the gas quality specification adjustment (C-day) in 1Q2026.
+
+First quarter of 2026 compared with Fourth quarter of 2025
+        In 1Q2026, Gas business reported sales revenue of Baht 119,913 million, increased by Baht 12,189 million
+or 11.3%. This was mainly due to higher sales revenue of GSP business, mainly driven from an increase in overall
+sales volume of GSP products (including NGL derived from Dew Point Control units) from 1,671,658 tons in 4Q2025
+to 1,909,296 tons in 1Q2026 or 14.2%. This was mainly attributed to higher LPG, Propane and NGL demand from
+customers, together with higher Ethane’s sales volume supported by increased gas offtake in the Gulf of Thailand.
+Moreover, there was no planned maintenance shutdown of GSP in 1Q2026. Additionally, the average selling price
+rose in line with petrochemical reference prices.
+
+        S&T business’s sales revenue increased, driven by the average gas sales volume (calculated at heating
+value of 1,000 BTU per cubic feet) increased by 294 MMSCFD from 3,725 MMSCFD in 4Q2025 to 4,019 MMSCFD in
+1Q2026 or 7.9%. The increase was mainly driven by higher demand from power plant customers due to seasonality.
+In addition, there was the retirement of Mae Moh power plant Unit 9-10 since 1 January 2026 resulted in higher
+dispatch demand for gas-fired power plants, despite the average selling price to industrial customer declined in line
+with reference prices.
+
+        In 1Q2026, EBITDA of Gas business was reported at Baht 16,431 million, increased by Baht 3,275 million or
+24.9%. The operating profit was reported at Baht 11,635 million, increased by Baht 3,427 million or 41.8%. The
+improvement was mainly due to higher gross profit of GSP business, supported by a reduction in feed costs following
+the implementation of the new gas pricing structure as well as an increase in overall sales volume and average selling
+prices as aforementioned . However, TSO business’s performance declined from lower sales revenue following a
+decrease in reserved volume, as well as the reduction of the adjustment of gas pipeline tariff on the Tc, which was
+effective since 1 February 2026. Furthermore, the performance of S&T business decreased from the recognition of
+expenses related to C-day in 1Q2026.
+                                                                                  PTT Public Company Limited
+                                                                                                                        18
+                                                                                                     1Q2026
+
+1.2 International Trading Business Group
+                                                                                                    % Inc. (Dec.)
+ Unit: Million Liter                         1Q2025           4Q2025           1Q2026
+                                                                                                 YoY              QoQ
+
+ Average sales volume                        24,214           26,806           26,438            9.2%           (1.4%)
+
+
+
+
+First quarter of 2026 compared with First quarter of 2025
+          In 1Q2026, sales revenue of International Trading business was Baht 444,809 million, increased by Baht
+36,916 million or 9.1% from 1Q2025. This increase was attributable to higher product selling prices in line with
+reference oil prices, together with an increase in sales volume by 2,224 million liters or 9.2% from 24,214 million liters
+or equivalent to 1,692,274 barrels per day in 1Q2025 to 26,438 million liters or equivalent to 1,847,705 barrels per
+day in 1Q2026. The increase was primarily driven by higher international trading volume of crude oil and refined
+products (out-out trading), in line with stronger customer demand in the Asian market.
+
+          EBITDA, adjusted by the impact of foreign exchange rate and hedging activities in 1Q2026, recorded a loss
+of Baht 151 million, decreased by Baht 2,790 million or more than 100.0%. The operating loss, including these
+adjustments, in 1Q2026 was Baht 579 million, decreased by Baht 2,761 million or more than 100.0%. The loss was
+primarily driven by unrealized loss from price risk management amid volatility in the global energy market, despite
+higher gain from product spreads of international trading of refined products and crude oil, together with higher sales
+volume as aforementioned.
+
+First quarter of 2026 compared with Fourth quarter of 2025
+          In 1Q2026, sales revenue of International Trading business was Baht 444,809 million increased by Baht
+80,611 million or 22.1% from 4Q2025. This growth was primarily attributed to higher product selling prices in line with
+reference oil prices, despite a decline in sales volume by 368 million liters or 1.4% from 26,806 million liters or
+equivalent to 1,832,697 barrels per day in 4Q2025 to 26,438 million liters or equivalent to 1,847,705 barrels per day
+in 1Q2026. The decrease was primarily driven by lower international trading volumes of LNG and refined products,
+in line with the customer demand.
+          EBITDA, adjusted by the impact of foreign exchange rate and hedging activities in 1Q2026, recorded a loss
+of Baht 151 million, decreased by Baht 1,266 million or more than 100.0%. The operating loss, including these
+adjustments, in 1Q2026 was Baht 579 million, decreased by Baht 1,244 million, or more than 100.0%. The decline
+was primarily driven by unrealized loss from price risk management amid volatility in the global energy market,
+                                                                                  PTT Public Company Limited
+                                                                                                                     19
+                                                                                                     1Q2026
+
+together with lower sales volume as aforementioned, despite a higher gain from product spreads of international
+trading of refined products and crude oil.
+
+2. Businesses Operated Through Subsidiaries
+
+2.1 Petroleum Exploration and Production Business Group
+                                                                                                   % Inc. (Dec.)
+                                                        1Q2025       4Q2025       1Q2026
+                                                                                                YoY            QoQ
+ Average selling price (US$/BOE1/)                       45.7          42.6         46.0        0.7%          8.0%
+
+ Average sales volume (BOED2/)                          484,218      539,523      553,369      14.3%          2.6%
+
+Note: 1/BOE: Barrels of Oil Equivalent
+      2/
+           BOED: Barrels of Oil Equivalent per Day
+
+
+First quarter of 2026 compared with First quarter of 2025
+
+              In 1Q2026, sales revenue of PTTEP was Baht 76,087 million, increased by Baht 4,921 million or 6.9% from
+1Q2025 as the overall average sales volume increased by 14.3% from 484,218 BOED in 1Q2025 to 553,369 BOED
+in 1Q2026, primarily from the expansion of investments in MTJDA A18 Project, Algeria Touat Project, Malaysia SK408
+Project, and projects in the Gulf of Thailand following higher gas nomination, including higher crude oil sales volume
+of G1/61 Project. Meanwhile, the overall average selling price increased by 0.7% from US$ 45.7 per BOE in 1Q2025
+to US$ 46.0 per BOE in 1Q2026, primarily due to a higher in crude oil and condensate selling price following global
+market price.
+
+              EBITDA in 1Q2026 was Baht 55,558 million, increased by Baht 3,277 million or 6.3% from 1Q2025 and the
+operating income in 1Q2026 was Baht 34,447 million, increased by Baht 5,220 million or 17.9% from 1Q2025 mainly
+due to an increase in sales revenue as aforementioned, together with lower depreciation from a downward revision
+of estimated decommissioning costs and operating expenses decreased from lower maintenance activities of
+projects in the Gulf of Thailand.
+
+              The overall performance of Exploration and Production business decreased primarily due to a loss from oil
+price hedging contracts, which was mostly a mark-to-market loss following an upward trend of forward oil prices.
+However, the operating income increased as aforementioned.
+                                                                              PTT Public Company Limited
+                                                                                                                  20
+                                                                                                 1Q2026
+
+First quarter of 2026 compared with Fourth quarter of 2025
+         In 1Q2026, sales revenue of PTTEP was Baht 76,087 million, increased by Baht 5,715 million or 8.1% from
+4Q2025 as the overall average sales volume increased by 2.6% from 539,523 BOED in 4Q2025 to 553,369 BOED in
+1Q2026, primarily from MTJDA B17-01 Project and Arthit Project following higher nomination, together with the
+expansion of investments in Malaysia SK408 Project. Meanwhile, the overall average selling price increased by 8.0%
+from US$ 42.6 per BOE in 4Q2025 to US$ 46.0 per BOE in 1Q2026, primarily due to a higher in crude oil and
+condensate selling price following global market price.
+         EBITDA in 1Q2026 was Baht 55,558 million, increased by Baht 7,916 million or 16.6% from 4Q2025 and the
+operating income in 1Q2026 was Baht 34,447 million, increased by Baht 10,057 million or 41.2% from 4Q2025 mainly
+due to an increase in sales revenue as aforementioned, together with operating expenses decreased from lower
+maintenance activities of projects in the Gulf of Thailand, and lower depreciation from a downward revision of
+estimated decommissioning costs, primarily driven by the 10-year production period extension of Contract 4 Project
+and the upward revision of reserves in late 2025.
+         The overall performance of Exploration and Production business decreased primarily due to a loss from oil
+price hedging contracts, which was mostly a mark-to-market loss following an upward trend of forward oil prices.
+Also, there was a gain on recognition of non-recurring items after tax of approximately Baht 3,000 million in 4Q2025
+(see appendix), while there was no such transaction in 1Q2026. However, the operating income increased as
+aforementioned.
+
+2.2 Oil and Retail Business Group
+                                                                                                % Inc. (Dec.)
+                                                    1Q2025      4Q2025       1Q2026
+                                                                                             YoY            QoQ
+ Average Sales Volume
+                                                    6,708        6,194        6,633         (1.1%)        7.1%
+ (Unit: Million Liter)
+ Average selling price
+ (Unit: US$ per barrel)
+ Gasoline                                            84.7        79.5          95.9         13.2%         20.6%
+ Jet                                                 90.1        88.4         122.6         36.1%         38.7%
+ Diesel                                              91.2        88.3         121.7         33.4%         37.8%
+
+
+
+First quarter of 2026 compared with First quarter of 2025
+         In 1Q2026, sales revenue of Oil and Retail business was Baht 176,497 million, decreased by Baht 6,202
+million or 3.4% from 1Q2025 due to the decline in average selling prices, together with a decline in sales volume by
+                                                                                  PTT Public Company Limited
+                                                                                                                     21
+                                                                                                     1Q2026
+
+75 million liters or 1.1% from 6,708 million liters or equivalent to 468,810 barrels per day in 1Q2025 to 6,633 million
+liters or equivalent to 463,569 barrels per day in 1Q2026. Nevertheless, Non-Oil business’s revenue increased mainly
+from higher sales volumes, following the expansion of food and beverage outlets.
+
+         In 1Q2026, EBITDA was Baht 7,228 million, increased from 1Q2025 by Baht 681 million or 10.4%. The
+operating income in 1Q2026 was Baht 5,249 million, increased by Baht 492 million or 10.3% from 1Q2025, mainly
+from Non-Oil business’s gross margin increased from the food and beverage business, following higher sales volume
+as aforementioned. Nevertheless, Oil business experienced a decline in the average gross margin per liter due to
+loss on derivatives related to oil price hedging amid high price volatility, particularly in aviation fuel, of which most
+were unrealized losses.
+
+         As a result, the overall performance of Oil and Retail business group decreased, despite the increase in
+operating income as aforementioned.
+
+First quarter of 2026 compared with Fourth quarter of 2025
+         In 1Q2026, sales revenue of Oil and Retail business was Baht 176,497 million, increased by Baht 20,822
+million or 13.4% from 4Q2025 due to the overall sales volume increased by 439 million liters or 7.1% from 6,194
+million liters or equivalent to 423,477 barrels per day in 4Q2025 to 6,633 million liters or equivalent to 463,569 barrels
+per day in 1Q2026, together with an increase in average oil prices in the global market. Nevertheless, Non- Oil
+business revenue decreased mainly from food and beverage business, due to lower sales of non-beverage products
+following seasonal factors.
+
+         In 1Q2026, EBITDA was Baht 7,228 million, increased by Baht 2,974 million or 69.9% from 4Q2025. The
+operating income in 1Q2026 was Baht 5,249 million, increased by Baht 2,787 million or more than 100.0% from
+4Q2025, mainly driven by lower operating expenses in Non-Oil business, particularly from reduction in marketing
+expenses despite Oil business declined due to lower average gross margin per liter as aforementioned.
+
+         As a result, the overall performance of Oil and Retail business group increased from higher operating income
+as aforementioned. Also, there was a loss on recognition of non-recurring items after tax of approximately Baht 400
+million in 4Q25, while there was no such transaction in 1Q26 (see appendix).
+                                                                                   PTT Public Company Limited
+                                                                                                                         22
+                                                                                                      1Q2026
+
+2.3 Petrochemical and Refining Business Group
+                                                                                                   % Inc. (Dec.)
+ Unit: US$ per barrel                                1Q2025          4Q2025   1Q2026
+                                                                                             YoY                QoQ
+ Market GRM*                                           3.1             8.0     13.1       >100.0%              63.8%
+ Inventory gain (loss) excl. NRV                       0.6            (3.2)    16.9       >100.0%             >100.0%
+ Hedging gain (loss)                                   0.4            (0.8)    (4.8)      <(100.0%)          <(100.0%)
+ Accounting GRM                                        4.1             4.0     25.2       >100.0%             >100.0%
+ Refinery Utilization rate** (%)                     103.8%          93.6%    105.5%        1.7%               11.9%
+*Excluding operating costs, interest expenses, depreciation and FX
+**From 3 Refineries: TOP, GC and IRPC
+
+                                                                                                   % Inc. (Dec.)
+ Unit: US$ per Ton                                   1Q2025          4Q2025   1Q2026
+                                                                                             YoY                   QoQ
+ Olefins
+ Naphtha (MOPJ)                                         658           564      720          9.4%               27.7%
+ HDPE                                                   978           871     1,044         6.7%               19.9%
+ LDPE                                                  1,194         1,048    1,198         0.3%               14.3%
+ LLDPE                                                 1,020          865     1,027         0.7%               18.7%
+ PP                                                    1,023          868     1,050         2.6%               21.0%
+ Aromatics
+ Condensate                                            641            553      707          10.3%              27.8%
+ PX (TW)                                               861            829     1,006         16.8%              21.4%
+ PX (TW) – Condensate                                  220            276      299          35.9%               8.3%
+ BZ                                                    875            666      842          (3.8%)             26.4%
+ BZ – Condensate                                       234            113      135         (42.3%)             19.5%
+
+
+
+First quarter of 2026 compared with First quarter of 2025
+           In 1Q2026, sales revenue of Petrochemical and Refining business was Baht 344,999 million, increased by
+Baht 34,661 million or 11.2% from 1Q2025 mainly due to Refining business following the increase in average selling
+price of refined products in line with crude oil price and the increase in sales volume. In this regard, PTT Group
+refineries’ utilization rate increased from 103.8% in 1Q2025 to 105.5% in 1Q2026.
+
+           However, sales revenue of Petrochemical business decreased from Olefins business due to lower sales volume
+mainly from GC following lower utilization rate, even higher selling price. While Aromatics business had higher sales
+revenue due to the increase in selling price of PX and higher sales volume.
+                                                                                PTT Public Company Limited
+                                                                                                                   23
+                                                                                                   1Q2026
+
+         EBITDA of Petrochemical and Refining business in 1Q2026 was Baht 67,916 million, increased by Baht
+54,541 million or more than 100.0%. Also, there was operating income of Baht 57,291 million in 1Q2026, increased
+by Baht 54,971 million or more than 100.0%, details are as follows:
+
+           • Refining performance increased due to higher Market GRM which increased from US$ 3.1 per barrel in
+              1Q2025 to US$ 13.1 per barrel in 1Q2026, mainly from the increase in product spreads of Jet fuel,
+              Gasoil and Gasoline. Also, sales volume increased as aforementioned as well as stock gain increased
+              in this period (there was a stock gain of US$ 16.9 per barrel in 1Q2026 versus gain of US$ 0.6 per
+              barrel in 1Q2025). However, in 1Q2026, there was loss on derivatives related to oil price hedging.
+
+           • Petrochemical performance increased mainly from Aromatics business due to the higher sales volume
+              as well as higher PX spread. Nonetheless, Olefins business’s performance remained stable compared
+              to 1Q2025.
+
+         The overall performance of Petrochemical and Refining business in 1Q2026 increased compared with
+1Q2025 due to the increase in operating income as aforementioned. However, there was a loss on recognition of
+non-recurring items after tax of approximately Baht 5,500 million in 1Q2026, while there was a loss of Baht 200 million
+in 1Q2025 (see appendix).
+
+First quarter of 2026 compared with Fourth quarter of 2025
+
+         In 1Q2026, sales revenue of Petrochemical and Refining business was Baht 344,999 million, increased by
+Baht 77,858 million or 29.1% mainly due to Refining business from higher sales volume as a result of GC’s planned
+maintenance shutdowns of the refinery in 4Q2025. In this regard, PTT Group refineries’ utilization rate increased from
+93.6% in 4Q2025 to 105.5% in 1Q2026. Moreover, average selling price of most refined products increased following
+crude oil price.
+
+         Sales revenue of Petrochemical business also increased mainly from Aromatics business due to higher sales
+volume from GC’s planned maintenance shutdowns of the Aromatics unit 2 in 4Q2025 as well as higher selling price of
+BZ and PX. Furthermore, Olefins business had higher sales revenue due to higher selling price.
+
+         EBITDA of Petrochemical and Refining business in 1Q2026 was Baht 67,916 million, increased by
+Baht 57,770 million or more than 100.0%. There was an operating income of Baht 57,291 million in 1Q2026, increased
+by Baht 58,078 million or more than 100.0%, details are as follows
+
+           • Refining performance increased due to higher Market GRM which increased from US$ 8.0 per barrel
+              in 4Q2025 to US$ 13.1 per barrel in 1Q2026 mainly from the increase in product spreads of Jet fuel
+                                                                                PTT Public Company Limited
+                                                                                                                       24
+                                                                                                   1Q2026
+
+              and Gasoil together with the increase in sales volume as aforementioned. Also, stock gain increased in
+              this period (there was a stock gain of US$ 16.9 per barrel in 1Q2026 versus loss of US$ 3.2 per barrel
+              in 4Q2025). However, in 1Q2026, there was loss on derivatives related to oil price hedging.
+
+           • Petrochemical performance increased mainly from Aromatics business due to the higher sales volume
+              as aforementioned as well as higher BZ and PX spread. Nonetheless, Olefins business’s performance
+              increased following higher product spread.
+
+         The overall performance of Petrochemical and Refining business in 1Q2026 increased compared with
+4Q2025 following higher operating income a aforementioned. However, there was a loss on recognition of non-
+recurring items after tax of approximately Baht 5,500 million in 1Q2026, while there was a loss of Baht 300 million in
+4Q2025 (see appendix).
+
+Post 1Q2026 Impact from escalating tensions in the Middle East
+
+         Rising geopolitical tensions in the Middle East began to have a material impact on crude oil costs from April
+2026 onward, driving increases in both crude oil prices and actual traded crude premiums in the market. As a result,
+crude oil feedstock costs in 2Q2026 increased significantly. The refining business may therefore recognize stock loss
+if the conflict situation eases and global oil prices subsequently decline. In addition, elevated crude oil costs are
+expected to exert downward pressure on future GRM should refined product prices adjust downward following a
+normalization of the situation.
+
+2.4 New Business and Sustainability Group
+
+                                                                                                 % Inc. (Dec.)
+                                        1Q2025          4Q2025         1Q2026
+                                                                                        YoY                      QoQ
+
+ Power sales volume (GWh)                4,628           4,979          3,602          (22.2%)               (27.7%)
+ Steam sales volume (Thousand tons)      3,343           3,413          3,629            8.6%                  6.3%
+
+
+
+First quarter of 2026 compared with First quarter of 2025
+         In 1Q2026, sales revenue for New Business and Sustainability was Baht 16,837 million, which decreased by
+Baht 11,360 million or 40.3%. This decline was primarily attributable to lower total revenue from GPSC, mainly driven
+by reduced revenue from Independent Power Producer (IPP) due to lower availability payment revenue following
+planned maintenance shutdown and plant efficiency improvement of Gheco-One over an 88-days period in 1Q2026.
+                                                                                 PTT Public Company Limited
+                                                                                                                   25
+                                                                                                    1Q2026
+
+Moreover, revenue from Small Power Producer (SPP) also contracted, reflecting a lower average electricity selling
+price following the reduction of the Fuel Adjustment Charge (Ft), together with the expiration of the power purchase
+agreements with EGAT for GSPP3 and GSPP11 Phase 1. The decrease was also influenced by a decline in PTTGM’s
+revenue, mainly arising from the pharmaceutical business impact associated with the change in investment status in
+Lotus Pharmaceutical Company Limited (Lotus) since 4Q2025.
+
+        EBITDA in 1Q2026 amounted to Baht 3,652 million, decreased by Baht 2,952 million or 44.7% and the
+operating income in 1Q2026 was Baht 1,173 million, decreased by Baht 2,276 million or 66.0%. The decline was
+mainly due to lower gross profit from GPSC’s IPP power plant due to lower availability payment revenue during
+planned maintenance shutdowns of Gheco-One as aforementioned. In addition, gross profit from PTTGM declined,
+primarily due to the change in status of investment in pharmaceutical business as aforementioned.
+
+        The overall performance of New Business and Sustainability in 1Q2026 decreased compared to 1Q2025,
+mainly due to the decline in operating income as aforementioned. Additionally, there was a loss on recognition of
+non-recurring items after tax of approximately Baht 500 million in 1Q2026, while there was a loss of approximately
+Baht 100 million in 1Q2025 (see appendix).
+
+First quarter of 2026 compared with Fourth quarter of 2025
+        In 1Q2026, New Business and Sustainability recorded sales revenue of Baht 16,837 million, a decrease of
+Baht 2,763 million or 14.1%. The decline was primarily attributable to lower total revenue from GPSC, particularly from
+IPP power plants, as availability payment revenue decreased. This was the result of planned maintenance shutdown
+and plant efficiency improvement of Gheco-One in 1Q2026 as aforementioned.
+
+        EBITDA in 1Q2026 was Baht 3,652 million, increased by Baht 376 million or 11.5%, while operating income
+was Baht 1,173 million, rose by Baht 448 million or 61.8%. The improvement was primarily driven by GPSC’s lower
+selling and administrative expenses following seasonal factor, together with gross profit remaining stable. In addition,
+there was higher gross profit from GPSC’s SPP power plants, supported by an increase in electricity and steam sales
+volume for industrial customers, reflecting seasonal demand. Nevertheless, revenue from IPP power plants declined
+due to lower availability payment revenue as aforementioned.
+
+        However, the overall performance of New Business and Sustainability in 1Q2026 declined compared with
+4Q2025, despite the increase in operating income as aforementioned. Furthermore, In 4Q2025, there was a gain on
+recognition of non-recurring items after tax of approximately Baht 7,800 million, while there was a loss of
+approximately Baht 500 million in 1Q2026 (see appendix).
+                                                                               PTT Public Company Limited
+                                                                                                                 26
+                                                                                                  1Q2026
+
+Overall Performance of PTT and its Subsidiaries
+First quarter of 2026 compared with First quarter of 2025
+        In 1Q2026, sales revenue of PTT and its subsidiaries was Baht 718,729 million, increased from 1Q2025 by
+Baht 18,506 million or 2.6%. The increase was mainly from International Trading business, Petrochemical and Refining
+business and Exploration and Production business, due to higher selling prices in line with reference oil prices,
+together with higher sales volumes. However, Gas business’s sales revenue decreased mainly from S&T business’s
+sales revenue, where the average selling price declined in line with the Pool Gas price as well as the average selling
+price to industrial customers decreased following the reference price despite the increase in average gas sales
+volume. Moreover, TSO business’s sale revenue also declined from lower reserved volume as well as the adjustment
+of gas pipeline tariff on the Tc which was effective since 1 February 2026. Meanwhile, GSP business’s product sales
+revenue increased, driven by higher overall sales volume of GSP products, mainly from LPG and Propane following
+higher customer demand.
+        EBITDA, adjusted by the impact of hedging activities in 1Q2026 was Baht 115,879 million, increased by Baht
+21,379 million or 22.6%, mainly from the Petrochemical and Refining business. The Refining business improved from
+higher Market GRM and increased sales volume, as well as higher stock gain adjusted to NRV. In 1Q2026, PTT and
+its subsidiaries’ stock gain adjusted to NRV was approximately Baht 46,000 million, whereas in 1Q2025, there was a
+gain of approximately Baht 1,500 million. In addition, the Petrochemical business improved from higher product
+spreads and sales volume in the Aromatics’ product. Exploration and Production business performance also
+increased, mainly from higher sales revenue as aforementioned. Furthermore, Gas business performance improved
+mainly from GSP business following higher gross profit, driven by a reduction in feed costs from the new gas pricing
+structure, which was effective since 1 January 2026, together with an overall increase in sales volume, despite lower
+average selling price in line with the reference exchange rate as Thai Baht appreciation in 1Q2026, and most
+petrochemical reference prices. However, S&T business’s performance declined mainly due to the recognition of
+expenses related to C-day in 1Q2026.
+
+        Depreciation and amortization expenses of 1Q2026 were Baht 42,012 million, decreased by Baht 2,788
+million or 6.2%, mainly from PTTEP due to a downward revision of estimated decommissioning costs.
+                                                                                 PTT Public Company Limited
+                                                                                                                     27
+                                                                                                    1Q2026
+
+                       Share of profit (loss) from investments in joint ventures and associates
+
+                                                                                Unit: Million Baht
+                                       >100.0%             2,054
+                                                                                   Others
+                           325                                611
+                                                                                   New Business and Sustainability
+                             67
+                                                              700
+                            776                                                    Gas
+                                                              211
+                            221                               665                  Oil and Retail
+                            377
+                                                             (126)                 Exploration and Production
+                                                              (7)
+                           (1,109)                                                 Petrochemical and Refining
+
+                             (7)
+
+
+                          1Q2025                           1Q2026
+
+
+
+
+         In 1Q2026, the share of gain from investments in joint ventures and associates was Baht 2,054 million,
+increased by Baht 1,729 million or more than 100.0% mainly from improved performance of associates in the
+Petrochemical and Refining business, due to IRPC’s share of impairment loss of UBE Chemicals (Asia) Public
+Company Limited (UCHA) in 1Q2025.
+
+         In 1Q2026, there was loss on financial derivatives amounting to Baht 1,102 million, decreased by Baht 831
+million or 43.0%.
+
+         In 1Q2026, gain on foreign exchange rate was Baht 1,121 million, decreased by Baht 3,386 million or 75.1%,
+mainly from an unrealized loss on USD debts as a result of depreciation of Thai Baht (Thai Baht depreciation in 1Q2026
+was Baht 1.25 per US$, while Thai Baht appreciation in 1Q2025 was Baht 0.06 per US$).
+
+         In 1Q2026, there was loss on recognition of non- recurring items ( PTT’ s portion) after tax mainly from
+approximately Baht 2,900 million. While in 1Q2025, there was loss recognition approximately Baht 200 million.
+
+         Finance costs were Baht 8,239 million in 1Q2026, decreased by Baht 2,746 million or 25.0%, mainly from
+debt repayments and repurchase of debentures of GC.
+         In 1Q2026, Corporate income taxes were Baht 23,872 million, increased by Baht 7,798 million or 48.5%
+mainly from TOP and IRPC following increasing performance.
+         As a result, PTT and its subsidiaries’ net profit in this quarter amounting to Baht 25,738 million, increased by
+Baht 2,423 million or 10.4% from net profit of Baht 23,315 million in 1Q2025.
+                                                                                PTT Public Company Limited
+                                                                                                                  28
+                                                                                                   1Q2026
+
+First quarter of 2026 compared with Fourth quarter of 2025
+          In 1Q2026, sales revenue of PTT and its subsidiaries was reported at Baht 718,729 million, increased from
+4Q2025 by Baht 8 0 ,2 5 0 million or 1 2 . 6 %. The increase was mainly attributable to higher sales revenue from
+International Trading business, driven by higher product selling prices in line with reference oil prices, despite
+a decrease in sales volume. In addition, sales revenue from Petrochemical and Refining business, as well as Oil and
+Retail business, increased following higher product selling prices and sales volume. Furthermore, Gas business
+recorded higher sales revenue mainly driven by an increase in overall sales volume of GSP business. This was mainly
+attributed to higher LPG, Propane and NGL demand from customers. Moreover, there was no planned maintenance
+shutdown of GSP in 1Q2026. Additionally, the average selling price rose in line with petrochemical reference prices.
+For S&T business, sales revenue increased from higher average gas sales volume, mainly due to higher demand
+from power plant customers due to seasonal factor. In addition, there was the retirement of Mae Moh power plant
+Unit 9-10 from 1 January 2026 resulted in higher dispatch demand for gas-fired power plants, despite the average
+selling price to industrial customer declined in line with reference prices.
+
+          In 1Q2026, EBITDA adjusted by the impact of hedging activities was reported at Baht 115,879 million,
+increased by Baht 38,258 million or 49.3% from 4Q2025. The increase was mainly from Petrochemical and Refining
+business. The Refining business improved from higher Market GRM and increased sales volume, as well as higher
+stock gain adjusted to NRV. In 1Q2026, PTT and its subsidiaries recognized a gain of approximately Bath 46,000
+million, whereas in 4Q2025, there was a loss of approximately Bath 8,200 million. In addition, the Petrochemical
+business improved from higher product spreads and sales volume in the Aromatics’ product. In addition, the
+Exploration and Production business’s performance improved mainly from higher sales revenue, combined with lower
+operating expenses and depreciation expenses. Moreover, Gas business’s performance improved, mainly from GSP
+business following higher gross profit, supported by a reduction in feed costs following the implementation of the new
+gas pricing structure as well as an increase in overall sales volume and average selling prices as aforementioned.
+However, TSO business’s performance declined from lower sales revenue following a decrease in reserved volume,
+as well as the reduction of the adjustment of gas pipeline tariff on the Tc, which was effective since 1 February 2026.
+Furthermore, the performance of S&T business decreased from the recognition of expenses related to C-day in
+1Q2026.
+
+          The depreciation and amortization expenses in 1Q2026 were Baht 42,012 million, decreased by Baht 2,552
+million or 5.7%, mainly from PTTEP due to a downward revision of estimated decommissioning costs.
+                                                                              PTT Public Company Limited
+                                                                                                                  29
+                                                                                                 1Q2026
+                     Share of profit (loss) from investments in joint ventures and associates
+
+
+                          4,455               53.9%                          Unit: Million Baht
+                                                                                Others
+                           1,235
+                                                                                New Business and Sustainability
+                            789
+                            150
+                                                          2,054                 Gas
+
+                           3,346                             611                Oil and Retail
+                                                             700
+                                                             211                Exploration and Production
+                                                             665
+                          (1,057)                           (126)               Petrochemical and Refining
+                                                             (7)
+                               (8)
+
+
+
+                          4Q2025                          1Q2026
+
+
+
+
+        In 1Q2026, the share of profit from investments in joint ventures and associates was Baht 2,054 million,
+decreased by Baht 2,401 million or 53.9%, mainly from the gain on bargain purchase from PTTEP’s Algeria Touat
+project recognized in 4Q2025.
+
+        In 1Q2026, there was loss on financial derivatives amounting to Baht 1,102 million, increased by Baht 5,056
+million or more than 100.0%.
+
+        In 1Q2026, there was gain on foreign exchange rate amounting to Baht 1,121 million, increased by Baht 921
+million or more than 100.0% mainly from unrealized gain on USD deposits as a result of Thai Baht depreciation (Thai
+Baht depreciation in 1Q2026 was Baht 1.25 per US$, while Thai Baht appreciation in 4Q2025 was Baht 0.72 per US$).
+
+        In 1Q2026, there was loss on recognition of non-recurring items (PTT’s portion) after tax of approximately
+Baht 2,900 million. While in 4Q2025, there was gain on recognition of approximately by Baht 9,300 million (see
+appendix).
+
+        Finance costs were Baht 8,239 million in 1Q2026, decreased by Baht 677 million or 7.6%, mainly from interest
+expenses of PTTEP.
+
+        The corporate income taxes in 1Q2026 were Baht 23,872 million, increased by Baht 11,896 million or 99.3%,
+mainly from higher tax expenses from PTTEP’s domestic petroleum projects, as well as TOP and IRPC, following
+increasing performance.
+
+        As a result, PTT and its subsidiaries’ net profit in 1Q2026 amounting to Baht 25,738 million, increased by
+Baht 204 million or 0.8% from net profit of Baht 25,534 million in 4Q2025.
+                                                                                           PTT Public Company Limited
+                                                                                                                                 30
+                                                                                                              1Q2026
+
+           The Analysis of PTT Group Consolidated Financial Position
+           As of 31 March 2026, compared with 31 December 2025
+                                                                                                                     Unit: Million Baht
+
+
+                                             Assets                 9.6%                  Liabilities & Equity
+                                                 3,583,216                                         3,583,216
+                                3,269,660                                        3,269,660
+                                                      485,723
+                                                                                                      791,074    Other Liabilities
+Cash & Short-term investments     402,817
+                                                                                    631,371
+   Trade Receivables & Other                          696,951
+                                  502,380
+              Current Assets
+                                                                                                                 Interest-Bearing Debt
+                                                                                                     1,053,431
+                                                                                    985,805                      (including current portion)
+
+
+Property, Plant and Equipment    1,513,937            1,536,194
+
+
+                                                                                   1,652,484         1,738,711    Equity
+
+    Others Non-Current Assets     850,526             864,348
+
+
+                                31 Dec 2025      31 Mar 2026                     31 Dec 2025       31 Mar 2026
+           Assets
+                    As of 31 March 2026, total assets of PTT and its subsidiaries were Baht 3,583,216 million, increased by
+           Baht 313,556 million or 9.6% compared with 31 December 2025 from the followings;
+                    : Cash and short-term investments increased by Baht 82,906 million or 20.6% primarily from financing
+           activities and cash generated from operating activities, offset by the investment of PTTEP.
+                    : Trade receivables and other current assets increased by Baht 194,571 million or 38.7% mainly from
+                      - Other current assets increased by Baht 102,410 million, mainly from the increase in margin call of PTTT
+                          and outstanding receivables from the Oil Fuel Fund compensation.
+                      - Trade receivables and inventories increased by Baht 58,130 million and Baht 34,031 million
+                          respectively due to higher selling price and sales volume.
+                    : Property, plant and equipment increased by Baht 22,257 million or 1.5% mainly from investment in Ghasha
+           concession, G1/61 and G2/61 Projects of PTTEP as well as the Clean Fuel Project (CFP) of TOP, offset by depreciation
+           for the period and asset impairment of GC.
+                    : Other non-current assets increased by Baht 13,822 million or 1.6% primarily from the increase in long-term
+           investments of OR, share of profit from joint ventures and associates, as well as increases in fair value adjustments.
+                                                                                    PTT Public Company Limited
+                                                                                                                      31
+                                                                                                       1Q2026
+
+Liabilities
+            As of 31 March 2026, PTT and its subsidiaries had total liabilities of Baht 1,844,505 million, increased by
+Baht 227,329 million or 14.1% from 31 December 2025, mainly from the followings;
+            : Interest-bearing debts increased by Baht 67,626 million or 6.9% mainly from the increase in short-term and
+long-term borrowings of PTTT, GC and PTT TANK, including exchange differences on translation, offset by
+repayments of long-term borrowings of TOP, OR and GPSC.
+            : Other liabilities increased by Baht 159,703 million or 25.3% mainly from trade payables due to higher selling
+price and sales volume, along with the increase in current derivative liabilities, particularly from PTTT and PTTT LDN,
+as well as the increase in long-term provision for decommissioning costs of PTTEP.
+Equity
+            As of 31 March 2026, PTT and its subsidiaries had total shareholders’ equity of Baht 1,738,711 million
+increased by Baht 86,227 million or 5.2% from 31 December 2025 mainly from the operating results of PTT and its
+subsidiaries for the three-month period ended 31 March 2026, which reported a profit of Baht 25,738 million which
+resulted in higher retained earnings, together with the issuance of subordinated perpetual debentures of TOP and
+exchange differences on translation.
+Liquidity
+            For the three-month period ended 31 March 2026, PTT and its subsidiaries had net increase in cash and
+cash equivalents amounting to Baht 78,614 million. There was cash and cash equivalents at the beginning of
+the period of Baht 346,817 million. As a result, cash and cash equivalents at the end of the period was Baht 425,431
+million. Details of cash flow by activities are as follows:
+
+                                                                                          Unit: Million Baht
+                                                                                         Consolidated
+                                                                                      Financial statement
+                 Net cash provided by operating activities                                            58,157
+                 Net cash used in investing activities                                              (53,235)
+                 Net cash provided by financing activities                                            62,465
+                 Effects of exchange rates on cash and cash equivalents                                8,856
+                 Exchange differences on translation                                                   2,360
+                 Cash and cash equivalents classified as held for sale                                    11
+                 Net increase in cash and cash equivalents during the period                          78,614
+                 Cash and cash equivalents at the beginning of the period                           346,817
+                 Cash and cash equivalents at the end of the period                                 425,431
+                                                                                  PTT Public Company Limited
+                                                                                                                   32
+                                                                                                     1Q2026
+
+           Net cash provided by operating activities of Baht 58,157 million was derived from Baht 65,495 million of
+profit before income taxes, adjusted by non-cash adjustments of Baht 90,236 million. The increase in cash flow
+resulted mainly from Baht 61,214 million of loss on derivatives, Baht 42,012 million of depreciation and amortization
+expenses and Baht 10,266 million of loss on impairment of assets. However, the decrease in cash flow mainly resulted
+from Baht 15,280 million of unrealized gain on fair value of commodity contracts, Baht 5,729 million of gain on reversal
+of allowance for changes in value of inventories, Baht 3,485 million of gain on foreign exchange rates and the change
+in net operating assets resulted in the decrease in cash flow of Baht 89,826 million, while there was income tax paid
+of Baht 7,748 million.
+
+           Net cash used in investing activities was Baht 53,235 million mainly resulted from the followings;
+
+           : The net cash outflow of investments in property, plant and equipment, investment property, intangible
+assets and exploration and evaluation assets amounting to Baht 52,001 million mainly from the investment in
+exploration and production assets in Ghasha concession, G1/61 and G2/61 Projects of PTTEP, as well as the
+investment in CFP of TOP.
+           : Payment for long-term investments amounting to Baht 2,523 million mainly from the investment in joint
+ventures and associates of OR.
+           : Cash inflow from dividend and interest amounting to Baht 2,263 million mainly from PTTEP, PTT and PTTGM.
+
+           Net cash provided by financing activities was Baht 62,465 million mainly from the followings;
+
+           : The net cash inflow of short-term and long-term borrowings amounting to Baht 50,962 million mainly from
+PTTT, PTT TANK and GC.
+           : The cash proceeds from issuance of subordinated perpetual debentures of TOP amounting to Baht 18,900
+million.
+           : Payment for finance costs amounting to Baht 6,304 million mainly from GC, GPSC and PTT.
+                                                                            PTT Public Company Limited
+                                                                                                            33
+                                                                                               1Q2026
+
+Financial ratios and earnings per share of PTT Group
+          Financial Ratio                                  Unit           1Q2025              1Q2026
+
+          Profitability Ratios
+          Gross profit margin                               %              11.06              23.99
+          Net profit margin                                 %               4.54               5.79
+
+          Solvency Ratios
+          Interest coverage                               Times            8.51               22.53
+
+          Earnings per share
+          Earnings per share                            Baht/share         0.81                0.91
+
+          Financial Ratio                                  Unit        31 Dec 2025        31 Mar 2026
+
+          Liquidity Ratios
+          Current ratio                                   Times            1.60                1.47
+          Quick ratio                                     Times            1.08                0.93
+
+          Solvency Ratios
+          Interest Bearing Debt to equity                 Times            0.60                0.61
+
+
+          Note:
+          Gross profit margin               = Gross profit divided by Sales and service income
+          Net profit margin                 = Net profit divided by Sales and service income
+          Interest coverage                 = EBITDA divided by Finance costs
+          Earnings per share                = Net income attributable to ordinary shareholders divided by
+                                              the weighted average number of ordinary shares which are
+                                              held by third parties during the periods
+          Current ratio                     = Current assets divided by Current liabilities
+          Quick ratio                       = (Cash and cash equivalent + Current investments + Trade
+                                              receivables) divided by Current Liabilities
+          Interest Bearing Debt to equity   = Interest bearing debt divided by Total shareholder’s equity
+                                                                                  PTT Public Company Limited
+                                                                                                                     34
+                                                                                                     1Q2026
+
+Economic Outlook in the Second Quarter of 2026
+         The global economy in the second quarter of 2026 (2Q2026) is expected to moderate from 1Q2026
+expansion, amid the ongoing Middle East conflict. The impact on the global economy is transmitted through following:
+1) the direct effect from higher energy prices has raised the cost of goods and services, particularly energy-intensive
+sectors such as fertilizers, chemicals, food, transportation, and heating, leading to an acceleration in inflation and a
+decline in household purchasing power. 2) indirect or second-round effects have emerged, as firms and workers
+seek higher wages and prices to compensate for rising inflation, especially in economies where inflation expectations
+remain poorly anchored. 3) global financial markets may enter a risk-off period amid geoeconomic uncertainty and
+an appreciation of the U.S. dollar, prompting investors to shift away from high-risk assets, resulting in capital outflows
+from emerging markets. However, the situation still needs to be closely monitored, particularly the outcome of the
+peace negotiations between the U.S. and Iran specifically whether a permanent ceasefire can be achieved and when
+the Strait of Hormuz can be reopened.
+
+         According to the S&P Global’s report in April 2026, global oil demand in 2026 is expected to decrease by
+2.0 MMBD, to an average of 104.1 MMBD, due to supply-side constraints amid the impact of the Middle East conflict.
+The market has shifted from an initial phase of export disruptions to a more pronounced supply-tight environment,
+with pressures increasingly transmitted to the demand side. These impacts are most evident during March–June,
+when the petrochemical, aviation, and transportation sectors are particularly affected by higher energy prices,
+feedstock shortages, and logistical constraints. In 2026, Dubai crude oil price is expected to average US$ 82-92 per
+barrel, and Singapore GRM is expected to average US$ 12.5-13.5 per barrel.
+         Petrochemical product prices in 2Q2026 for both olefins and aromatics are expected to trend upward,
+supported by crude oil and naphtha prices, which are likely to remain elevated amid geopolitical tensions in the
+Middle East, before easing toward the middle of the quarter. However, the upside is expected to be limited by
+persistent global oversupply and a gradual recovery in downstream demand. Despite the seasonal turnaround
+activities at some plants in Asia, market fundamentals remain largely unchanged.
+
+          • Olefins prices in 2Q2026 are expected to increase from the previous quarter, with HDPE and PP
+              projected to move within the ranges of US$ 1,450–1,550 per ton and US$ 1,340–1,440 per ton,
+              respectively. Prices are supported by elevated feedstock costs and tighter supply during certain
+              periods, driven by the closer of the Strait of Hormuz, maintenance shutdowns and operating rate
+              adjustments by regional producers. Nonetheless, new capacity additions particularly from China and
+                                                                                 PTT Public Company Limited
+                                                                                                                    35
+                                                                                                    1Q2026
+
+              the U.S. continued inflows in Asia market even the gradual improvement in downstream demand, these
+              factors are likely to cap further price increases.
+          • Aromatics prices in 2Q2026 are also expected to increase from the previous quarter, with BZ projected
+              in the range of US$ 1,010–1,110 per ton and PX in the range of US$ 1,105–1,205 per ton. Price support
+              is mainly driven by elevated naphtha costs and temporary supply tightness due to maintenance
+              activities, alongside increased market volatility stemming from geopolitical developments in the Middle
+              East. However, ongoing capacity expansions, particularly in China, will continue to exert downward
+              pressure. At the same time, downstream demand, especially in the polyester and styrene chains, is
+              expected to recover only gradually, limiting the overall upside and keeping prices within a narrow
+              range.
+
+         The price of Propane (C3) in 2Q2026 are expected to increase compared to 1Q2026, with prices projected
+to move within the range of US$ 630 – 730 per ton. The key driver is a significant disruption to propane supply in the
+Middle East following the closure of the Strait of Hormuz, a major transportation route for LPG exports from the Persian
+Gulf, accounting for more than 3.5 million tons per month, or over 30% of global exports. Although Saudi Arabia has
+increased propane exports from Yanbu via the Red Sea—an alternative route to bypass restrictions at the Strait of
+Hormuz—combined with rising export volumes from the U.S. and other regions, these increases can only partially
+offset the lost supply. The overall volume remains insufficient to fully compensate for the supply disruption caused by
+the Strait’s closure. However, despite tight supply conditions, demand for propane has started to show signs of
+softening. This is particularly evident in the petrochemical sector, where production cuts or delayed restarts have
+been implemented to manage high feedstock costs. In addition, energy consumption control measures in the
+residential and commercial sectors are further weighing on short-term demand growth.
+
+         The price of Spot LNG in 2Q2026 is expected to remain elevated compared to 1Q2026, moving within a
+high range of US$ 16.5 – 19.5 per MMBTU. LNG shipments through the Strait of Hormuz are anticipated to remain
+subdued in April before gradually recovering, amid ongoing security risks and export constraints. As a result, global
+LNG supply is expected to stay tight throughout the second quarter. However, prices are likely to face downward
+pressure from the demand side. Warmer weather in Asia, reduced gas consumption, and increased switching to
+alternative energy sources are expected to weigh on demand. In addition, expectations of a potential easing of
+geopolitical tensions in the Middle East may also help limit further price increases, despite the persistently high level
+of uncertainty.
+                                                                                 PTT Public Company Limited
+                                                                                                                   36
+                                                                                                    1Q2026
+
+         The Thai economy in 2Q2026 is expected to moderate from 1Q2026, due to the more pronounced impact
+of the Middle East tension, as rising energy prices and inflation has boost production and transportation costs, thereby
+constraining household consumption and private investment. Likewise, the tourism sector is expected to slow,
+reflecting a projected decline in tourist arrivals amid flight disruptions and travel safety concerns. Meanwhile,
+merchandise exports are expected to decelerate following softer global demand despite the electronics cycle upturn
+and temporary relief from the U.S. tariff pressure. The formation of new government, under the same coalition supports
+policy continuity and enhances political stability. However, the outlook for Thailand’s economic expansion still faces
+downside risks from further tension in the Middle East and uncertainty around the U.S. import tariffs, especially
+enforcement of Section 301 of the Trade Act of 1974 which used to investigate and respond to trade policies deemed
+unfair, remains a key risk to Thailand’s export sector in the second half of the year, given the potential for the
+reimposition of product-specific import tariffs in certain major industries.
+                                                                           PTT Public Company Limited
+                                                                                                            37
+                                                                                              1Q2026
+
+Major Project Plan
+Gas Business Group: The progress of major projects
+Pipelines Transmission Projects
+        Total project progress as of 31 March 2026
+          • The 5th Transmission Pipeline (Rayong - Sai Noi - North/South Bangkok power plants) was at 99.11%
+              (Including 3 construction phases).
+          • The natural gas pipeline system of Bang Pakong to South Bangkok power plants was at 94.35%.
+Gas Separation Plant Unit 7 (GSP#7)
+        PTT is constructing the Gas Separation Plant Unit 7 (GSP#7) in Map Ta Phut Industrial Estate, Rayong
+Province to replace Gas Separation Plant Unit 1 (GSP#1) and to increase the efficiency of the GSP's production
+process. The GSP#7 is designed to have a maximum capacity of 460 MMSCFD and is currently under construction.
+LNG Project
+        LNG Receiving Terminal 3 Project: Gulf MTP LNG Terminal Company Limited (GMTP) is a joint venture
+between PTT Tank Terminal Company Limited (holding 30%) and Gulf Development Public Company Limited (holding
+70%), responsible for the land reclamation under Phase 1 of the Map Ta Phut Industrial Port Development Project,
+Phase 3. The investment for the land reclamation portion is approximately Baht 12,900 million, and the rights to
+construct LNG Terminal 3 Phase 1 with a capacity of 8 million tons, including connecting pipelines, represent
+an investment of approximately Baht 60,000 million. The terminal is expected to commence commercial operations
+in the second quarter of 2029.
+        Project progress as of 31 March 2026
+        Phase 1 Construction: Land Reclamation (Infrastructure Work) The project was completed on March 2025
+and the reclaimed land was handed over on schedule under the Public-Private Partnership (PPP) contract.
+
+        Phase 2 Construction: LNG Terminal ( Superstructure Work) The project started construction on
+17 November 2025, with project progress at 14.66%.
+                                                                            PTT Public Company Limited
+                                                                                                         38
+                                                                                               1Q2026
+
+Summary Planned Shutdown for Gas Separation Plants in 2026
+
+      Plant              1Q2026            2Q2026                    3Q2026               4Q2026
+     GSP #6                                                            TA
+                                                             (11 Aug.-5 Sep.: 26 Days)
+                                                                    TD 50%
+                                                               (6-15 Sep.: 10 Days)
+    NOTE:   TD: Turndown
+            TA: Turnaround
+                                                                                         PTT Public Company Limited
+                                                                                                                      39
+                                                                                                            1Q2026
+
+Appendix
+Exploration and Production Business is PTT Exploration and Production Public Co., Ltd. (PTTEP)
+
+Natural Gas Business consists of PTT Natural Gas Business unit, PTT Natural Gas Distribution Co., Ltd. (PTTNGD),
+PTT LNG Co., Ltd. (PTTLNG) and PTT Global Management Co., Ltd. (PTTGM)
+
+Oil and Retail Business is PTT Oil and Retail Business Public Co., Ltd. (OR)
+
+International Trading Business consists of PTT International Trading Business unit, PTT International Trading Pte. Ltd.
+(PTTT), PTT International Trading London Ltd. (PTTT LDN) and PTT International Trading USA Inc. (PTTT USA)
+
+Petrochemical and Refining Business consists of PTT Global Chemical Public Co., Ltd. (GC), Thai Oil Public Co., Ltd.
+(TOP), IRPC Public Co., Ltd. (IRPC), and PTT Tank Terminal Co., Ltd. (PTT TANK)
+
+New Business and Sustainability consists of PTT New Business and Sustainability unit, Global Power Synergy Public
+Co., Ltd. (GPSC), PTT Energy Solution Co., Ltd. (PTTES) and PTT Global Management Co., Ltd. (PTTGM)
+
+Other Business consists of Business Services Alliance Co. , Ltd. ( BSA) , PTT Green Energy Pte. Ltd. ( PTTGE) ,
+PTT Treasury Center Co., Ltd. (PTT TCC), PTT Energy Resources Co., Ltd. (PTTER), Energy Complex Co., Ltd.
+(EnCo), PTT Digital Solutions Co., Ltd. (PTT DIGITAL) and PTT Global Management Co., Ltd. (PTTGM)
+
+Note: PTTGM, a holding company, owns shares in many companies which operate in various businesses such as Natural Gas
+     Business, New Business and Sustainability, and Other Business.
+     PTTES and PTTER have registered their dissolution and currently in the process of liquidation.
+                                                                                       PTT Public Company Limited
+                                                                                                                     40
+                                                                                                          1Q2026
+
+ Appendix
+         The key of non-recurring items (PTT’s portion after tax) in 1Q2026 compared with 4Q2025 and 1Q2025 are
+summarized as follows:
+                                                                                                       Unit: Million Baht
+     Business                                      Item                                1Q2025     4Q2025     1Q2026
+ Exploration and
+                       Gain on bargain purchase from Algeria Touat                                 ~ 2,000
+ Production business
+                       (Loss)/Reversal on impairment loss on assets of Vencorex
+                                                                                        ~ 100      ~ 300
+                       (GC)
+                       (Loss)/Reversal of provision for financial support on ceasing
+                                                                                                   ~ 1,000
+                       operation of PTTAC (GC)
+                       Impairment loss on investment in PTT MCC Biochem (GC)                       ~ (200)
+                       Impairment loss on assets of GC Polyols (GC)                               ~ (1,100)
+                       Provision for business restructuring plan of PTTMCC (GC)                                ~ (800)
+ Petrochemical and     Impairment loss on assets of GCP (GC)                                                  ~ (1,700)
+ Refining business
+                       Impairment loss on assets of GCA LLC (GC)                                               ~ (700)
+                       Gain on repurchase of debentures of TOP                          ~ 100                   ~ 900
+                       Gain on bargain purchase of TOP’s associate                                 ~ 200
+                       (Loss)/ Reversal on impairment of investment in UCHA (IRPC)       ~ 200
+                       Share of loss from investment in UCHA (IRPC)                     ~ (400)
+                       Impairment loss on assets of PTT Tank                                       ~ (100)
+                       Impairment loss on investment in associates of OR                           ~ (300)
+                       Impairment loss on assets of OR                                             ~ (100)
+                       Profit-sharing compensation (PTTGM)                              ~ (200)
+                       Impairment loss on assets of PTTGM                                          ~ (100)     ~ (500)
+ New Business and      Gain on Horizon Plus restructuring (PTTGM)                       ~ 100
+ Sustainability        Gain on disposal/status change of investment in Lotus
+                                                                                                   ~ 7,500
+                       Pharmaceutical (PTTGM)
+                       Gain on bargain purchase from RPCL (GPSC)                                   ~ 300
+

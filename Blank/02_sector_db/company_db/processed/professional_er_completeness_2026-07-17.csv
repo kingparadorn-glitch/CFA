@@ -1,0 +1,13 @@
+area,MSFT,AMZN,PTT,status_definition,residual_gap
+event_metadata,complete,complete,complete,report date information cutoff and evaluation window are explicit,None
+reported_financials,complete,complete,complete,official or regulatory actuals with source IDs,None
+company_specific_surprise,complete,complete,complete,actual and estimate source IDs plus comparable basis,None
+pre_event_estimates,complete,complete,complete,dated public estimate evidence before cutoff,PTT uses a single broker house rather than historical IAA aggregate
+pit_peer_multiples,complete,complete,complete,peer table date is before information cutoff,US table is one common academic research snapshot rather than licensed FactSet export
+forecast_history,complete,complete,complete,at least two comparable forecast versus actual rows,US history retains mixed analyst and management-guidance series and must be filtered by source_type
+text_corpus,complete,partial,complete,official text or presentation available,AMZN has official release and slides but no locally archived first-party full call transcript
+valuation_reference,complete,complete,complete,dated and explicitly typed reference,PTT reference is a single house view not aggregate consensus
+post_event_ground_truth,complete,complete,complete,post-event target rating and realized direction have separate evidence,MSFT and AMZN consensus snapshots are later than the immediate event window
+field_provenance,complete,complete,complete,all runtime-required fields map to verified source IDs,None
+licensed_consensus_history,not_available,not_available,not_available,provider-native historical consensus export,Requires FactSet Bloomberg Visible Alpha LSEG or SETSMART/IAA licensed/manual export
+real_agent_runtime,not_applicable,not_applicable,not_applicable,data pack only,LangGraph LLM retrieval UI and observability remain implementation work outside this data task

@@ -1,0 +1,325 @@
+Amazon.com, Inc. (AMZN)
+
+NASDAQ: AMZN · Real-Time Price · USD
+
+[] Full Chart
+
+[] Watchlist
+
+[] Alerts
+
+[] Compare
+
+248.79
+
+-1.10 (-0.44%)
+
+Jul 17, 2026, 1:09 PM EDT - Market open
+
+- Overview
+
+- Financials
+
+- Forecast
+
+- Statistics
+
+- Metrics
+
+- Dividends
+
+- History
+
+- Profile
+
+- Chart []
+
+- Statistics
+- Market Cap
+- Revenue
+
+Amazon Statistics
+
+Total Valuation
+
+Amazon has a market cap or net worth of $2.68 trillion. The enterprise
+value is $2.77 trillion.
+
+  ------------------ -------
+  Market Cap         2.68T
+  Enterprise Value   2.77T
+  ------------------ -------
+
+Important Dates
+
+The next confirmed earnings date is Thursday, July 30, 2026, after
+market close.
+
+  ------------------ --------------
+  Earnings Date      Jul 30, 2026
+  Ex-Dividend Date   n/a
+  ------------------ --------------
+
+Share Statistics
+
+Amazon has 10.76 billion shares outstanding. The number of shares has
+increased by 0.89% in one year.
+
+  --------------------------- --------
+  Current Share Class         10.76B
+  Shares Outstanding          10.76B
+  Shares Change (YoY)         +0.89%
+  Shares Change (QoQ)         +0.10%
+  Owned by Insiders (%)       8.97%
+  Owned by Institutions (%)   66.92%
+  Float                       9.78B
+  --------------------------- --------
+
+Valuation Ratios
+
+The trailing PE ratio is 29.89 and the forward PE ratio is 29.87.
+Amazon's PEG ratio is 1.40.
+
+  ------------- -------
+  PE Ratio      29.89
+  Forward PE    29.87
+  PS Ratio      3.60
+  Forward PS    3.16
+  PB Ratio      6.08
+  P/TBV Ratio   6.39
+  P/FCF Ratio   n/a
+  P/OCF Ratio   18.01
+  PEG Ratio     1.40
+  ------------- -------
+
+Financial Ratio History
+
+Enterprise Valuation
+
+  --------------- -------
+  EV / Earnings   30.49
+  EV / Sales      3.73
+  EV / EBITDA     17.76
+  EV / EBIT       32.41
+  EV / FCF        n/a
+  --------------- -------
+
+Financial Position
+
+The company has a current ratio of 1.18, with a Debt / Equity ratio of
+0.53.
+
+  ------------------- -------
+  Current Ratio       1.18
+  Quick Ratio         0.97
+  Debt / Equity       0.53
+  Debt / EBITDA       1.36
+  Debt / FCF          n/a
+  Interest Coverage   33.72
+  ------------------- -------
+
+Financial Efficiency
+
+Return on equity (ROE) is 24.28% and return on invested capital (ROIC)
+is 13.49%.
+
+  ----------------------------------------- -----------
+  Return on Equity (ROE)                    24.28%
+  Return on Assets (ROA)                    6.85%
+  Return on Invested Capital (ROIC)         13.49%
+  Return on Capital Employed (ROCE)         12.21%
+  Weighted Average Cost of Capital (WACC)   11.36%
+  Revenue Per Employee                      $471,305
+  Profits Per Employee                      $57,613
+  Employee Count                            1,576,000
+  Asset Turnover                            0.95
+  Inventory Turnover                        10.14
+  ----------------------------------------- -----------
+
+Taxes
+
+In the past 12 months, Amazon has paid $24.09 billion in taxes.
+
+  -------------------- --------
+  Income Tax           24.09B
+  Effective Tax Rate   20.97%
+  -------------------- --------
+
+Stock Price Statistics
+
+The stock price has increased by +11.27% in the last 52 weeks. The beta
+is 1.46, so Amazon's price volatility has been higher than the market
+average.
+
+  ------------------------------- ------------
+  Beta (5Y)                       1.46
+  52-Week Price Change            +11.27%
+  50-Day Moving Average           252.16
+  200-Day Moving Average          234.07
+  Relative Strength Index (RSI)   52.49
+  Average Volume (20 Days)        59,458,833
+  ------------------------------- ------------
+
+Short Selling Information
+
+The latest short interest is 100.35 million, so 0.93% of the outstanding
+shares have been sold short.
+
+  ----------------------------- ---------
+  Short Interest                100.35M
+  Short Previous Month          98.95M
+  Short % of Shares Out         0.93%
+  Short % of Float              1.03%
+  Short Ratio (days to cover)   1.60
+  ----------------------------- ---------
+
+Income Statement
+
+In the last 12 months, Amazon had revenue of $742.78 billion and earned
+$90.80 billion in profits. Earnings per share was $8.36.
+
+  -------------------------- ---------
+  Revenue                    742.78B
+  Gross Profit               375.88B
+  Operating Income           85.42B
+  Pretax Income              114.89B
+  Net Income                 90.80B
+  EBITDA                     155.86B
+  EBIT                       85.42B
+  Earnings Per Share (EPS)   $8.36
+  -------------------------- ---------
+
+Full Income Statement
+
+Balance Sheet
+
+The company has $143.09 billion in cash and $235.54 billion in debt,
+with a net cash position of -$92.45 billion or -$8.59 per share.
+
+  ------------------------- ---------
+  Cash & Cash Equivalents   143.09B
+  Total Debt                235.54B
+  Net Cash                  -92.45B
+  Net Cash Per Share        -$8.59
+  Equity (Book Value)       441.91B
+  Book Value Per Share      41.09
+  Working Capital           38.40B
+  ------------------------- ---------
+
+Full Balance Sheet
+
+Cash Flow
+
+In the last 12 months, operating cash flow was $148.53 billion and
+capital expenditures -$151.00 billion, giving a free cash flow of -$2.47
+billion.
+
+  ----------------------------- ----------
+  Operating Cash Flow           148.53B
+  Capital Expenditures          -151.00B
+  Depreciation & Amortization   70.44B
+  Net Borrowing                 62.48B
+  Free Cash Flow                -2.47B
+  FCF Per Share                 -$0.23
+  ----------------------------- ----------
+
+Full Cash Flow Statement
+
+Margins
+
+Gross margin is 50.60%, with operating and profit margins of 11.50% and
+12.22%.
+
+  ------------------ --------
+  Gross Margin       50.60%
+  Operating Margin   11.50%
+  Pretax Margin      15.47%
+  Profit Margin      12.22%
+  EBITDA Margin      20.98%
+  EBIT Margin        11.50%
+  FCF Margin         n/a
+  ------------------ --------
+
+Dividends & Yields
+
+Amazon does not appear to pay any dividends at this time.
+
+  -------------------------- --------
+  Dividend Per Share         n/a
+  Dividend Yield             n/a
+  Dividend Growth (YoY)      n/a
+  Years of Dividend Growth   n/a
+  Payout Ratio               n/a
+  Buyback Yield              -0.89%
+  Shareholder Yield          -0.89%
+  Earnings Yield             3.39%
+  FCF Yield                  -0.09%
+  -------------------------- --------
+
+Dividend Details
+
+Analyst Forecast
+
+The average price target for Amazon is $314.23, which is 26.31% higher
+than the current price. The consensus rating is "Strong Buy".
+
+  ------------------------------ ------------
+  Price Target                   $314.23
+  Price Target Difference        26.31%
+  Analyst Consensus              Strong Buy
+  Analyst Count                  65
+  Revenue Growth Forecast (3Y)   13.99%
+  EPS Growth Forecast (3Y)       20.62%
+  ------------------------------ ------------
+
+Stock Forecasts
+
+Fair Value
+
+There are several formulas that can be used to estimate the intrinsic
+value of a stock.
+
++-----------------------------------+-----------------------------------+
+| Lynch Fair Value                  | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+| Lynch Upside                      | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+| Graham Number                     | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+| Graham Upside                     | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+
+Stock Splits
+
+The last stock split was on June 6, 2022. It was a forward split with a
+ratio of 20:1.
+
+  ----------------- -------------
+  Last Split Date   Jun 6, 2022
+  Split Type        Forward
+  Split Ratio       20:1
+  ----------------- -------------
+
+Scores
+
+Amazon has an Altman Z-Score of 4.54 and a Piotroski F-Score of 6.
+
+  ------------------- ------
+  Altman Z-Score      4.54
+  Piotroski F-Score   6
+  ------------------- ------
+
+[] Data Source: S&P Global Market Intelligence Last updated: Jul 17,
+2026 []
+
+Financial statistics are provided by S&P Global Market Intelligence.
+Financial numbers update within hours after each earnings release, while
+price-based statistics and ratios update throughout each trading day.
+
+Update frequency:
+    Daily
+
+Last checked:
+    Jul 17, 2026
+
+Data Sources [] Report a data error

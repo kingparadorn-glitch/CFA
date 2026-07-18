@@ -1,0 +1,4 @@
+company_id,ticker,event_date,pre_date,pre_close,post_date,post_close,post_return_pct,source_file,source_provider,note
+MSFT,MSFT,2026-04-29,2026-04-28,429.25,2026-04-30,407.7799987792969,-5.002912340291929,raw/market_prices/MSFT_yahoo_chart_2026-04-27_2026-05-02.json,Yahoo chart API,"Earnings release after/around 2026-04-29; uses close before report date and close next trading day."
+AMZN,AMZN,2026-04-29,2026-04-29,263.0400085449219,2026-04-30,265.05999755859375,0.7679406797625027,raw/market_prices/AMZN_yahoo_chart_2026-04-27_2026-05-02.json,Yahoo chart API,"Official result article dated 2026-04-29; 10-Q filed 2026-04-30."
+PTT,PTT.BK,2026-05-20,2026-05-19,36.5,2026-05-21,37.25,2.0547945205479454,raw/market_prices/PTT.BK_yahoo_chart_2026-05-15_2026-05-25.json,Yahoo chart API,"Uses Analyst Meeting 1Q/2026 date as current demo event window; financial statement date window can be added separately."

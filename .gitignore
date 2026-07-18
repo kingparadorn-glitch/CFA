@@ -1,0 +1,5 @@
+.env
+
+# workshop recordings (large media, not versioned)
+*.mp4
+*.m4a

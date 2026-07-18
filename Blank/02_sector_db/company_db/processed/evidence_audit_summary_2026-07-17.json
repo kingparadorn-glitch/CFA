@@ -1,0 +1,45 @@
+{
+  "as_of_date": "2026-07-17",
+  "fixtures": [
+    {
+      "ticker": "MSFT",
+      "professional_ready": true,
+      "missing_evidence": [],
+      "unknown_source_ids": [],
+      "pit_violations": [],
+      "unverified_source_ids": []
+    },
+    {
+      "ticker": "AMZN",
+      "professional_ready": true,
+      "missing_evidence": [],
+      "unknown_source_ids": [],
+      "pit_violations": [],
+      "unverified_source_ids": []
+    },
+    {
+      "ticker": "PTT",
+      "professional_ready": true,
+      "missing_evidence": [],
+      "unknown_source_ids": [],
+      "pit_violations": [],
+      "unverified_source_ids": []
+    }
+  ],
+  "counts": {
+    "source_catalog": 32,
+    "required_field_provenance_rows": 75,
+    "nested_row_provenance_rows": 75,
+    "automated_tests": 11
+  },
+  "smoke": {
+    "companies": 3,
+    "all_schema_contracts_ok": true,
+    "retrieval_corpus_ready_all": true
+  },
+  "non_public_or_non_data_dependencies": [
+    "Provider-native historical aggregate consensus export",
+    "Amazon licensed/full call Q&A transcript for deep tone NLP",
+    "Real AI valuation and rating runtime"
+  ]
+}

@@ -1,0 +1,305 @@
+Amazon stock forecast: Q1 earnings and AI spending focus
+
+Amazon heads into its Q1 2026 earnings release with investor focus on
+whether recent AI investment, including its $5bn Anthropic commitment,
+is supporting revenue growth across the business. Explore third-party
+AMZN price targets. Past performance is not a reliable indicator of
+future results.
+
+AMZN -0.53%
+
+[]
+
+By Dan Mitchell10:04 (UTC), 4 May 2026
+
+[]
+
+[]
+
+[]
+
+[]
+
+[Amazon logo displayed on a smartphone screen with a blurred warehouse
+background]
+
+Amazon.com, Inc. (AMZN) is trading at $259.80 as of 12:32pm UTC on 29
+April 2026, within an intraday range of $256.95–$261.69. Past
+performance is not a reliable indicator of future results.
+
+Sentiment around AMZN is being shaped by several converging factors
+ahead of the company's Q1 2026 earnings report, due after the close on
+29 April (Amazon News, 15 April 2026). Investors are focused on whether
+Amazon's substantial AI infrastructure spending, including an additional
+$5 billion commitment to Anthropic announced on 19 April 2026, is
+translating into revenue growth (Amazon News, 20 April 2026). The
+earnings release coincides with the Federal Reserve's April 28–29 FOMC
+meeting decision, adding a macroeconomic overlay to an already
+event-heavy session (Federal Reserve, 7 April 2026). At the same time,
+the S&P 500 has been trading near record highs after 81.3% of reporting
+companies beat expectations this season (Reuters, 24 April 2026). AWS's
+recently disclosed partnership with OpenAI, aimed at expanding
+enterprise AI services, has also drawn attention to Amazon's competitive
+position in cloud computing amid ongoing US trade-policy uncertainty
+affecting third-party marketplace sellers (Fortune, 29 April 2026).
+
+Third-party Amazon outlook: Q1 earnings, AI spend
+
+As of 29 April 2026, third-party Amazon stock forecasts for 2026–2030
+reflect a broadly positive outlook heading into the company's Q1 2026
+earnings report, with most active broker calls carrying buy-equivalent
+ratings and targets ranging from $285 to $325. The following briefs
+summarise the most recent dated estimates from this period.
+
+Truist Financial Securities (buy, target raise)
+
+Truist Financial Securities analyst Youssef Squali raised his 12-month
+AMZN price target to $285 from $280, while maintaining a buy rating
+ahead of the company's 29 April earnings call. The revision reflects
+Squali's expectation that AWS revenue growth will accelerate to
+approximately 25% in Q1 2026, up from 23% in Q4 2025, driven by
+expanding AI partnerships with Anthropic and OpenAI (Watcher.Guru, 21
+April 2026).
+
+Arete Research (buy, target raise)
+
+Arete Research raised its AMZN price target to $301 from $285,
+maintaining a buy rating. The firm cited improved long-term AWS demand
+visibility following Amazon's deeper commitment to Anthropic, while
+noting that near-term capital expenditure intensity and free cash flow
+timing remain key watchpoints if AI monetisation lags the investment
+cycle (MarketBeat, 23 April 2026).
+
+Public.com (consensus snapshot)
+
+Public.com aggregates 41 active analyst ratings on AMZN, producing a
+consensus price target of $287.24 and an overall buy rating. The
+breakdown shows 46% of contributing analysts at strong buy and 49% at
+buy, with 5% at hold and none at sell, reflecting broadly constructive
+sentiment across the sell side ahead of Q1 results (Public.com, 28 April
+2026).
+
+Mizuho (outperform, target raise)
+
+Mizuho raised its AMZN price target to $325 from $315, maintaining an
+outperform rating, making it the highest active target among brokers in
+this period. The increase followed Amazon's previously reported Q4 2025
+revenue beat of $213.39 billion, up 13.6% year on year, with Mizuho
+noting continued positive sentiment around AWS's AI infrastructure
+expansion and supply arrangements with major hyperscaler clients
+(MarketBeat, 28 April 2026).
+
+Takeaway: across these Amazon stock predictions, active AMZN price
+targets range from $285 (Truist) to $325 (Mizuho), with the Public.com
+consensus mean at $287.24. AWS growth acceleration and AI infrastructure
+positioning are the most frequently cited drivers, while capital
+expenditure discipline and free cash flow trajectory are the most common
+risk considerations.
+
+Predictions and third-party forecasts are inherently uncertain, as they
+cannot fully account for unexpected market developments. Past
+performance is not a reliable indicator of future results.
+
+Amazon Q1 2026 earnings
+
+Amazon is scheduled to report its Q1 2026 financial results on 29 April
+2026 after the US markets close, with a conference call set for 2:30pm
+PT / 5:30pm ET; the webcast is available via Amazon's investor relations
+page (Amazon News, 15 April 2026).
+
+Analyst consensus heading into the release places Q1 2026 revenue at
+approximately $177.10 billion, representing roughly 14% year-on-year
+growth, with earnings per share estimated at $1.63, up from $1.59 in Q1
+2025 (Investing.com, 29 April 2026). Advertising revenue consensus sits
+near $16.84 billion, approximately 21% above the year-ago period, while
+AWS segment revenue is expected at around $36.80 billion, with consensus
+operating margin at 35.7% within a range that analysts note has widened
+to 30.9%–40%, reflecting debate around AI and cloud demand (S&P Global,
+23 April 2026).
+
+The Q4 2025 results, reported on 4 February 2026, showed AWS growing 24%
+year on year to $35.60 billion – the fastest growth in 13 quarters at
+that time – and net income of $21.20 billion, or $1.95 per diluted
+share; CEO Andy Jassy also noted approximately $200 billion in planned
+capital expenditure across Amazon for full-year 2026 (Business Wire, 5
+February 2026).
+
+Past performance is not a reliable indicator of future results
+
+AMZN stock price: Technical overview
+
+The AMZN stock price is trading at $259.80 as of 12:32pm UTC on 29 April
+2026, holding well above its key moving-average cluster – the 20-, 50-,
+100- and 200-day SMAs sit at approximately $239, $221, $226 and $227
+respectively – with a 20-over-50 alignment intact across both the simple
+and exponential families, which keeps the near-term trend structure
+constructive.
+
+Momentum readings are stretched. The 14-day RSI stands at 73.73, a level
+that typically signals overbought conditions, while the average
+directional index (14) registers 34.10, consistent with an established
+directional trend rather than a ranging market (TradingView). The Hull
+moving average (9), at $263.69, sits above the last price and represents
+the nearest overhead reference within the moving-average set.
+
+On the topside, the classic R1 pivot at $219.45 has already been
+cleared. The R2 level at $230.62 is also below the current price,
+leaving the R3 pivot at $251.95 as the next classic resistance
+reference. The classic pivot (P) at $209.29 marks initial support on a
+pullback, with the 100-day SMA near $225.77 forming a broader
+moving-average shelf below. The S1 level at $198.12 represents the next
+reference if that shelf comes under pressure (TradingView, 29 April
+2026).
+
+This technical analysis is for informational purposes only and does not
+constitute financial advice or a recommendation to buy or sell any
+instrument.
+
+Amazon share price history (2024–2026)
+
+AMZN’s stock price opened April 2024 around $177 before rallying sharply
+through the early summer, touching an intraday high of $201.30 on 11
+July 2024 as enthusiasm around AWS and AI spending strengthened. That
+advance reversed abruptly in early August, when a weak US jobs report
+and an unwinding of the yen carry trade sent global equities lower. AMZN
+hit an intraday low of $151.70 on 5 August 2024. The stock then
+recovered steadily through the rest of the year, closing 2024 at $219.85
+as broader market sentiment improved alongside stronger big-tech
+earnings.
+
+AMZN extended those gains into the new year, briefly pushing above $249
+in January 2026 before Q4 2025 results triggered a reset in sentiment.
+Shares fell sharply from $233.80 on 4 February to close at $198.14 on 5
+February 2026, as guidance and capital expenditure plans disappointed
+some investors. A second leg lower followed in early April 2026, when
+renewed US tariff escalation dragged the stock to an intraday low of
+$209.14 on 7 April, before a partial trade-policy reversal and improving
+sentiment lifted AMZN back towards the $260 area.
+
+AMZN closed at $259.35 on 29 April 2026, approximately 14.4% higher year
+to date and approximately 46.2% above its level of $177.35 at the close
+of April 2024.
+
+[]
+
+Past performance is not a reliable indicator of future results. Share
+prices are indicative and may differ from live market prices.
+
+Amazon (AMZN): Capital.com analyst view
+
+Amazon’s performance over the past two years reflects the company’s
+expanding footprint across cloud computing, advertising and AI
+infrastructure. AWS continues to post strong growth rates, while
+Amazon’s advertising segment has emerged as a high-margin contributor.
+Together, these factors have supported upward price momentum in AMZN
+shares. The stock’s recovery from the early April 2026 tariff-driven
+sell-off to near the $260 area ahead of Q1 2026 earnings also shows how
+quickly sentiment can shift when macroeconomic concerns ease. At the
+same time, that volatility illustrates how exposed the stock remains to
+trade-policy developments, given Amazon’s heavy reliance on third-party
+marketplace sellers sourcing goods from China.
+
+On the risk side, Amazon’s commitment to approximately $200bn in capital
+expenditure for 2026 – focused on AI and cloud infrastructure – could
+weigh on near-term free cash flow if those investments take longer than
+expected to generate returns. At the same time, some analysts argue that
+this level of spending is consistent with Amazon’s efforts to capture
+long-term cloud and enterprise AI market share. Tariff uncertainty adds
+another layer of complexity: cost pressures on marketplace sellers could
+weigh on retail volumes, while Amazon’s logistics infrastructure and
+Prime ecosystem may offer some relative resilience compared with smaller
+e-commerce competitors.
+
+CFDs are complex instruments and come with a high risk of losing money
+rapidly due to leverage. Past performance is not a reliable indicator of
+future results.
+
+Capital.com’s client sentiment for Amazon CFDs
+
+As of 29 April 2026, Capital.com client positioning in Amazon CFDs shows
+93.6% of open positions are buyers versus 6.4% sellers, putting buyers
+ahead by 87.2 percentage points and placing sentiment firmly in
+one-sided territory. This snapshot reflects open positions on
+Capital.com at the time of writing and can change rapidly as market
+conditions evolve.
+
+[Image]
+
+Summary – Amazon 2026
+
+- AMZN is trading at $259.80 as of 12:32pm UTC on 29 April 2026, up
+  approximately 46% from $177.35 in April 2024 and 14.4% year to date.
+- Technical indicators on TradingView show the price holding above all
+  major moving averages, with the 14-day RSI at 73.73, signalling
+  stretched momentum and an established uptrend according to the ADX
+  reading of 34.10.
+- Key drivers include AWS growth, Amazon’s $200bn 2026 capital
+  expenditure commitment to AI infrastructure, and ongoing US tariff
+  uncertainty affecting third-party marketplace sellers.
+- Amazon reports Q1 2026 earnings on 29 April after the US markets
+  close. Analyst consensus points to revenue of about $177.10bn and EPS
+  of $1.63, with AWS growth remaining the central focus.
+
+Past performance is not a reliable indicator of future results.
+
+FAQ
+
+Who owns the most Amazon stock?
+
+Amazon’s largest individual shareholder is Jeff Bezos, the company’s
+founder and executive chair. Among institutional investors, Vanguard and
+BlackRock are also major holders, each owning large passive stakes
+through index funds and ETFs. Ownership can change over time as insiders
+sell shares or funds rebalance portfolios, so this is best viewed as a
+snapshot rather than a fixed ranking.
+
+What is the five-year Amazon share price forecast?
+
+There is no single five-year AMZN stock forecast that investors can rely
+on with certainty. In practice, most published forecasts focus on the
+next 12 months rather than a five-year horizon. Over longer periods,
+Amazon’s share price is likely to depend on factors such as AWS growth,
+advertising revenue, AI-related spending, margins, regulation and
+broader market conditions. Long-term forecasts should therefore be
+treated as scenarios, not predictions.
+
+Is Amazon a good stock to buy?
+
+Whether Amazon is a good stock to buy depends on an investor’s
+objectives, time horizon and tolerance for risk. In this article, the
+balance of analyst targets is broadly positive, and Amazon continues to
+benefit from exposure to cloud computing, advertising and AI
+infrastructure. At the same time, the stock also faces risks, including
+heavy capital expenditure, valuation pressure and trade-policy
+uncertainty. That means it may suit some market participants, but not
+others.
+
+Could Amazon stock go up or down?
+
+Amazon stock could move in either direction, depending on how
+company-specific and macroeconomic factors develop. In the near term,
+traders are watching earnings, AWS performance, AI-related investment
+returns and guidance. Broader influences, such as interest-rate
+expectations, equity market sentiment and US trade policy, may also
+affect price action. Technical indicators can help map momentum and
+support or resistance levels, but they do not remove uncertainty or
+guarantee future outcomes.
+
+Should I invest in Amazon stock?
+
+This is a personal decision rather than a question with a universal
+answer. An investment in Amazon would need to fit your own financial
+circumstances, risk tolerance and overall portfolio approach. This
+article is for informational purposes only and does not provide
+financial advice or a recommendation. If you are considering direct
+exposure, it may help to review Amazon’s business drivers, valuation,
+earnings outlook and risks before making any decision.
+
+Can I trade Amazon CFDs on Capital.com?
+
+Yes, you can trade Amazon CFDs on Capital.com. Trading share CFDs lets
+you speculate on price movements without owning the underlying asset and
+to take long or short positions. However, contracts for difference
+(CFDs) are traded on margin, and leverage amplifies both profits and
+losses. You should ensure you understand how CFD trading works, assess
+your risk tolerance, and recognise that losses can occur quickly.

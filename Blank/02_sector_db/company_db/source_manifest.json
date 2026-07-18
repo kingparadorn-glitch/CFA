@@ -1,0 +1,39 @@
+{
+  "_doc": "Machine-readable manifest for the professional public-data evidence pack. Canonical row-level inventory is source_catalog.csv; runtime field mapping is generated in processed/field_provenance_2026-07-17.csv.",
+  "as_of_date": "2026-07-17",
+  "canonical_artifacts": {
+    "source_catalog": "source_catalog.csv",
+    "field_provenance": "processed/field_provenance_2026-07-17.csv",
+    "row_source_provenance": "processed/row_source_provenance_2026-07-17.csv",
+    "event_inputs": "processed/professional_er_event_inputs_2026-07-17.csv",
+    "pit_peer_multiples": "processed/peer_multiples_pit_2026-07-17.csv",
+    "forecast_history": "processed/forecast_history_professional_2026-07-17.csv",
+    "retrieval_corpus": "processed/retrieval_corpus_2026-07-17.jsonl",
+    "completeness_matrix": "processed/professional_er_completeness_2026-07-17.csv",
+    "evidence_audit": "processed/evidence_audit_summary_2026-07-17.json"
+  },
+  "fixtures": {
+    "MSFT": "../../07_implementation/data/raw/MSFT_FY26Q3_golden.json",
+    "AMZN": "../../07_implementation/data/raw/AMZN_FY26Q1_golden.json",
+    "PTT": "../../07_implementation/data/raw/PTT_1Q2026_demo.json"
+  },
+  "policies": {
+    "point_in_time": "Any evidence with purpose=pre_decision must have published_at on or before event.information_cutoff.",
+    "citation": "Every runtime-required field must map to a verified source_id.",
+    "basis": "Actual and estimate must share an explicit comparable basis; GAAP and adjusted EPS are never mixed.",
+    "event_window": "PTT price reaction is labeled analyst_meeting_update, not earnings_release.",
+    "no_fabrication": "Unavailable licensed consensus is reported as unavailable and never replaced with an unlabeled proxy."
+  },
+  "known_external_dependencies": [
+    {
+      "gap": "Provider-native historical aggregate consensus",
+      "status": "not_available_in_public_pack",
+      "options": ["FactSet", "Bloomberg", "Visible Alpha", "LSEG", "SETSMART/IAA manual export"]
+    },
+    {
+      "gap": "Amazon first-party full call transcript",
+      "status": "not_locally_archived",
+      "impact": "Official release and slides are sufficient for numeric I/O; full tone/Q&A NLP needs a licensed transcript or manual transcription of the official replay."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+field,value,currency_or_unit,source_file,source_sheet,source_row,note
+sales_and_service_income,718729054591,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,11,Consolidated financial statements 2026
+cost_of_sales_and_services,546299228825,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,12,Consolidated financial statements 2026
+gross_profit,172429825766,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,13,Consolidated financial statements 2026
+other_income,12633140495,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,14,Consolidated financial statements 2026
+loss_on_derivatives,-70810299230,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,15,Consolidated financial statements 2026
+fx_gain_loss,1121349975,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,16,Consolidated financial statements 2026
+selling_and_distribution_expenses,11424498977,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,18,Consolidated financial statements 2026
+administrative_expenses,28963195733,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,19,Consolidated financial statements 2026
+petroleum_royalties,3306297211,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,20,Consolidated financial statements 2026
+operating_profit,71680025085,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,21,Consolidated financial statements 2026
+share_of_profit_jv_associates,2053814498,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,22-23,Consolidated financial statements 2026
+profit_before_finance_costs_and_income_taxes,73733839583,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,24,Consolidated financial statements 2026
+finance_costs,8238689111,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,25,Consolidated financial statements 2026
+profit_before_income_taxes,65495150472,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,26,Consolidated financial statements 2026
+income_tax_expenses,23871700568,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,27,Consolidated financial statements 2026
+profit_for_period,41623449904,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,28,Consolidated financial statements 2026
+profit_attributable_to_equity_holders,25738298847,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,31,Consolidated financial statements 2026
+profit_attributable_to_non_controlling_interests,15885151057,THB,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,32,Consolidated financial statements 2026
+basic_eps,0.91,THB/share,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,PL_Accum,35,Consolidated financial statements 2026
+ordinary_shares,28562996250,shares,raw/ir/PTT/files/financials_unzipped/FINANCIAL_STATEMENTS.XLSX,BS-Equity,7-10,Issued and fully paid-up ordinary shares of Baht 1 each

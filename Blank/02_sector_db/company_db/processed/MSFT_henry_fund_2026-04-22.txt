@@ -1,0 +1,1417 @@
+The Henry Fund
+Henry B. Tippie College of Business
+Josh Smiley jmsmiley@uiowa.edu
+
+MICROSOFT CORPORATION (MSFT)                                                                                                 April 22nd, 2026
+Information Technology - Enterprise Services                                                   Stock Rating                         BUY
+                                Investment Thesis                                              Target Price                         $470
+                                                                                        Henry Fund DCF                                 $473.46
+We recommend a BUY rating for Microsoft Corporation (MSFT) with a target                Henry Fund DDM                                 $424.67
+price of $470, implying 11% upside from $432. Microsoft is the most defensively         Relative Multiple                              $453.95
+positioned way to own AI exposure, with a $281 billion revenue base that grows          Price Data
+at double digits with or without AI tailwinds. Trading at 23.89x forward earnings,
+                                                                                        Current Price                                  $432.91
+its lowest Magnificent Seven multiple after two years of underperformance, we
+believe the market is mispricing the durability of Microsoft's non-AI business
+                                                                                        52wk Range                             $555.45 – 356.28
+while undervaluing its AI optionality.                                                  Consensus 1yr Target                           $594.02
+Drivers of Thesis                                                                       Key Statistics
+                                                                                        Market Cap (B)                               $3,149.65
+• Even if Azure growth decelerates materially, P&B alone generates $120                 Shares Outstanding (M)                           7,433
+    billion in high-margin recurring revenue growing at high single digits,             Institutional Ownership                        76.30%
+    providing an earnings floor most pure-play cloud or AI peers cannot match.          Beta                                               1.01
+• Microsoft’s commercial backlog of $625 billion, with the non-OpenAI portion           Dividend Yield                                   0.86%
+    growing at 28% organically is already contracted at a scale no competitor           Est. 5yr Growth                                16.30%
+    approaches. A single enterprise AI adoption generates revenue across Azure,         Price/Earnings (TTM)                             26.54
+    Copilot, GitHub, and Dynamics simultaneously.
+                                                                                        Price/Earnings (FY1)                             23.89
+• The July 2026 M365 price increase of 10 to 33% and Copilot at only 3.3%
+                                                                                        Price/Sales (TTM)                                10.36
+    penetration create FY2027 P&B growth acceleration that requires no AI bull
+    scenario to materialize.
+Risks to Thesis                                                                         Profitability
+                                                                                        Operating Margin                                46.67%
+• Sustained CapEx at $100+ billion largely into short lived assets creates              Profit Margin                                   39.04%
+  massive depreciation amounts which compress gross margins.                            Return on Assets (TTM)                          18.00%
+• Approximately $280 billion of the $625 billion RPO is attributable to cash-           Return on Equity (TTM)                          33.28%
+  flow negative OpenAI. Financial deterioration at OpenAI simultaneously hits
+  Azure revenue and Microsoft's $135 billion equity stake, making this a highly                     MSFT             PEERS
+                                                                                        50.0
+  correlated risk.
+• Google Cloud growing at approximately 35% poses the most credible threat              40.0
+  to Azure's share gain narrative. Our IC CAGR of approximately 28% through                                                  38.9
+  FY2028 assumes continued share gains                                                  30.0                          33.3
+                                                                                        20.0     23.8
+                               Earnings Estimates                                                             22.2                   22.8
+                                                                                                                                            20.1
+ Year         2023        2024           2025        2026E        2027E        2028E    10.0
+  EPS         $9.72      $11.86         $13.70       $16.48       $19.01       $22.52
+                                                                                         0.0
+HF est.                                              $16.60       $18.06       $21.31
+                                                                                                        P/E              ROE          EV/EBITDA
+growth       0.21%       22.02%         15.51%       21.37%       8.45%        17.07%
+                              12 Month Performance                                                      Company Description
+                                        MSFT          S&P 500
+ 40%
+                                                                                        Founded in 1975, Microsoft Corporation is a
+ 30%                                                                                    global technology leader headquartered in
+                                                                                        Redmond, Washington, generating $281.7 billion
+ 20%                                                                                    in revenue in FY2025. The company operates
+                                                                                        across three segments: Productivity and Business
+ 10%                                                                                    Processes (P&B), including Microsoft 365 and
+                                                                                        LinkedIn, Intelligent Cloud (IC), anchored by its
+   0%
+                                                                                        Azure platform, and More Personal Computing
+ -10%                                                                                   (MPC), spanning Windows, Xbox, and Bing.
+        A    M     J      J      A       S       O    N       D     J      F    M
+
+
+
+                                     Important disclosures appear on the last page of this report.
+             COMPANY DESCRIPTION                              highest gross margins in the portfolio and growing through
+                                                              a combination of seat expansion, pricing power, and
+Founded in 1975 by Bill Gates and Paul Allen, Microsoft       Copilot monetization that does not require AI
+Corporation is a global technology leader headquartered       infrastructure returns to materialize.
+in Redmond, Washington. In FY2025 the company
+generated $281.7 billion in revenue, growing                  The July 2026 M365 commercial price increase of 10 to
+approximately 15% year over year, across three reporting      33% across all enterprise tiers flows into FY2027 revenue
+segments: Productivity and Business Processes (P&B),          with high fidelity given enterprise lock-in and no credible
+including Microsoft 365, LinkedIn, and Dynamics,              at-scale alternative. We forecast segment growth
+Intelligent Cloud (IC), anchored by its Azure cloud           accelerating from 11% in FY2026 to 13% in FY2027 driven
+computing platform, and More Personal Computing               by this pricing tailwind alone. Microsoft 365 Copilot paid
+(MPC), spanning Windows, Xbox, Bing, and Surface              seats reached 15 million growing 160% year over year, yet
+devices.                                                      overall paid seat penetration remains at only 3.3% of the
+                                                              installed base, with more than 90% of the Fortune 500 now
+Microsoft serves customers ranging from individual            using Microsoft 365 Copilot in some form, meaning the
+consumers to the largest Fortune 500 enterprises across       monetization ramp has years of runway ahead entirely
+approximately 50 markets worldwide, with revenue split        independent of the AI infrastructure debate.³ We forecast
+roughly equally between the United States at                  an 8.49% CAGR for P&B over the forecast horizon, which
+approximately 51% and international markets at 49%. The       we view as conservative given these tailwinds. LinkedIn
+company is one of only two AAA-rated corporations in the      continues growing in the high single digits, though Talent
+United States and the second largest company in the world     Solutions remains pressured by a soft hiring market.³
+by market capitalization at approximately $3.15 trillion.
+What makes Microsoft structurally unique is the degree to     Intelligent Cloud
+which its product ecosystem reinforces itself. Azure is
+more compelling to an enterprise already running              Intelligent Cloud (IC) generated $106.3 billion in FY2025,
+Microsoft 365 and Active Directory. Copilot is embedded       growing 26% year over year, and is on pace to become the
+in tools billions of workers already use. GitHub Copilot is   largest segment in the portfolio. Azure grew 39% in Q2
+the dominant AI coding tool by adoption. As AI spending       FY2026 at the high end of guidance, with Q3 FY2026
+accelerates across the enterprise, Microsoft is often the     guided at 37 to 38%.³ For context, AWS grew
+default beneficiary rather than a vendor that must be         approximately 20% in the comparable period.
+competed for.¹
+                                                              Critically, AI services contributed 16 percentage points of
+                                                              Azure growth in Q4 FY2025, implying the core non-AI
+         Revenue by Segment (FY2025)                          Azure business grew independently in the high teens.³
+                                                              Even in a bear scenario for AI spending, cloud migration
+                    19%                                       and digital transformation remain structural demand
+                                                              drivers that predate the AI cycle. Azure holds
+                                          43%                 approximately 21% global cloud infrastructure market
+                                                              share behind AWS at approximately 30%, leaving
+                                                              substantial runway for continued share gain.⁴ We model
+                   38%                                        Azure growth decelerating from 39% to approximately
+                                                              28% in FY2026 as supply constraints persist, before
+                         P&B   IC   MPC                       accelerating to 33% in FY2027-2028 as capacity additions
+                                                              come online, then gradually declining toward 20% by
+Productivity and Business Processes                           FY2032 as the law of large numbers takes effect.
+
+Productivity and Business Processes (P&B) generated           More Personal Computing
+$120.8 billion in FY2025, growing approximately 13% year
+over year. This segment is the bedrock of our thesis          More Personal Computing (MPC) generated $54.6 billion
+regardless of how the AI debate resolves, carrying the        in FY2025, growing approximately 7%. The segment
+
+                                                         Page 2
+comprises Windows, Search and News Advertising,                                           of total depreciation from this line, reflecting that virtually
+Devices, and Gaming. Its role in our thesis is not as a                                   all of Microsoft's capital-intensive server and data center
+growth driver but as a stability contributor, generating                                  assets support the service business rather than product.
+steady cash flow without requiring any AI-driven                                          On this basis, our ex-depreciation product cost ratio runs
+inflection. Management guided MPC to decline in Q3                                        at approximately 22.43% of product revenue historically,
+FY2026 as Windows OEM faces headwinds as the Windows                                      consistent with the structural shift away from hardware
+10 end of support tailwind normalizes.³                                                   toward higher-margin Windows OEM and on-premises
+                                                                                          licenses that management describes each quarter. We
+Gaming is the most dynamic subsegment. Microsoft has                                      hold this at approximately 15 to 16% throughout the
+exited the console hardware war and is focused on Game                                    forecast as the hardware mix continues to decline
+Pass subscriptions, cloud gaming, and cross-platform                                      gradually.
+distribution of first-party titles following the $69 billion
+Activision Blizzard acquisition in FY2024.⁵ Near-term                                     Service and Other Cost of Revenue
+gaming revenue is guided to decline in the mid to high
+single digits against an elevated Activision comparable                                   Cost of service and other revenue covers Azure, Microsoft
+before recovering. Search advertising is guided to grow in                                365 subscriptions, LinkedIn, Dynamics 365, Xbox Game
+the high single digits in Q3 FY2026 with AI-driven                                        Pass, and Search. We allocate approximately 90% of total
+engagement gains in Bing and Edge providing gradual                                       depreciation to from line, reflecting that virtually all of
+improvement from a low base.³ We anticipate a next-                                       Microsoft's capital-intensive server, GPU, and data center
+generation Xbox console release in FY2029, consistent                                     assets support the service business. On an ex-depreciation
+with Microsoft's approximate 7-year console cycle, which                                  basis, service costs run at approximately 26.0% of service
+historically drives a step-up in hardware revenue and                                     revenue historically, and we forecast it at 20.0% reflecting
+Game Pass subscriber additions before normalizing.                                        the operating leverage inherent in the cloud business
+                                                                                          before the AI depreciation cycle is layered on top. We hold
+                                                                                          this ratio flat throughout the forecast, which we view as
+          Revenue Growth by Segment (Billions)                                            conservative given Hood's consistent language about
+                                                                                    232   ongoing efficiency gains in Azure and M365 Commercial
+                                                                                          cloud appearing as a partial offset to margin pressure
+                                                                   176                    every quarter.³ Upside to our gross margin forecast exists
+                                                                              166
+                                                             151                          if utilization rates on AI infrastructure normalize faster
+                                             134 134
+                          121                                                             than expected and drive the service cost ratio below our
+          107                   106
+                87                                                                        flat assumption in the outer forecast years.
+     51              55                 53              54               56
+                                                                                          Depreciation and Gross Margin Recovery
+
+
+      2024            2025              2026E               2027E        2028E                            Depreciation VS. GM %
+                                      MPC      P&B     IC                                    120                                                    70.0%
+                                                                                             100                                                    68.0%
+                                                                                                                                                    66.0%
+Cost Structure Analysis                                                                      80
+                                                                                                                                                    64.0%
+                                                                                             60
+Product Cost of Revenue                                                                                                                             62.0%
+                                                                                             40                                                     60.0%
+Microsoft reports cost of revenue across two lines, cost of                                  20                                                     58.0%
+product revenue and cost of service and other revenue.                                        0                                                     56.0%
+These have fundamentally different cost structures and                                             2023   2024   2025 2026E 2027E 2028E 2029E
+must be analyzed separately. Cost of product revenue                                                  Historical Depreciation   Forecast Depreciation
+covers Windows OEM, Surface hardware, Xbox consoles,
+                                                                                                      GM %
+and on-premises licenses. We allocate approximately 10%
+
+                                                                                    Page 3
+                                                                 Target Market and Strategic Positioning
+
+The gross margin compression from 70.8% in Q2 FY2025 to          Microsoft competes across three distinct markets
+68.6% in Q2 FY2026 is almost entirely a depreciation story       simultaneously. In enterprise software and productivity it
+concentrated in service costs, not an underlying cost            holds a near-monopoly position through Microsoft 365,
+efficiency problem.² Hood confirmed on the Q2 FY2026             which has over 450 million paid commercial seats and no
+call that margins on GPU hardware improve over time as           credible at-scale alternative for large enterprises.³ In cloud
+utilization rises on already-depreciated assets, and that        infrastructure it is the number two provider globally at
+most GPU contracts are sold for the entire useful life of the    approximately 21% market share, competing primarily
+hardware, meaning depreciation and revenue are                   against AWS and Google Cloud.⁴ In developer tooling it
+essentially matched.³ Our model transitions the short-           holds a dominant position through GitHub, which now has
+lived asset capex mix from two-thirds in FY2026 toward           over 180 million developers and is growing at the fastest
+50/50 in FY2028, reducing the annual depreciation burden         rate in its history.³ Across all three markets Microsoft's
+per dollar of capex.                                             strategic positioning is identical. Embed deeply into
+                                                                 enterprise workflows, raise switching costs, and then
+                                                                 expand wallet share through adjacent products. The AI
+                                                                 cycle accelerates this playbook because enterprises
+                                                                 adopting AI default to the tools they already use.
+
+                                                                 Competitive Differentiation
+
+                                                                 Microsoft's primary differentiation from peers is full stack
+                                                                 depth. AWS is a superior infrastructure provider but has no
+                                                                 productivity software or developer ecosystem. Google has
+                                                                 strong infrastructure and productivity software but lacks
+                                                                 depth in enterprise applications, identity management,
+                                                                 and developer tooling. Salesforce and SAP have deep
+                                                                 enterprise application expertise but no cloud
+                                                                 infrastructure or productivity suite. Microsoft is the only
+Additional Company Analysis                                      vendor that competes credibly across all of these
+                                                                 dimensions simultaneously, which is why a single
+Revenue Model and Pricing Structure                              enterprise AI adoption decision generates revenue across
+Microsoft generates revenue through three primary                Azure, Copilot, GitHub, and Dynamics at the same time. No
+mechanisms: subscription fees, consumption-based                 competitor can replicate this cross-selling dynamic, and it
+pricing, and transactional licensing. Subscription revenue       becomes more valuable as AI workloads require tighter
+is the largest and most predictable component. This              integration across the full technology stack.
+includes Microsoft 365 commercial seats, LinkedIn                Competitive Moat and Switching Costs
+Premium, Dynamics 365, and Xbox Game Pass.
+Consumption-based revenue is the fastest growing                 Microsoft's competitive advantage is not any single
+component. This is primarily Azure where customers pay           product but instead the integration cost of leaving its
+for compute, storage, and networking used. Transactional         ecosystem entirely. An enterprise running Azure Active
+revenue includes on-premises server licenses, Office             Directory, Microsoft 365, Azure compute, Dynamics,
+perpetual licenses, and Surface and Xbox hardware. The           GitHub, and Power BI faces a migration cost that is
+mix is shifting structurally toward subscription and             multiples of any individual software contract value. Every
+consumption, which carry higher margins and better               workload added to the Microsoft stack raises the floor on
+revenue visibility than transactional licensing. This shift is   future revenue retention, and this dynamic compounds
+the underlying driver of margin improvement independent          independently of whether AI spending accelerates or
+of the AI cycle and is why the business compounds                disappoints. Hood has described Azure as supply
+earnings even in periods of modest reported growth.              constrained for multiple consecutive quarters, meaning
+
+
+                                                            Page 4
+demand is exceeding capacity, which is a signal of              cash and short-term investments against $40.1 billion in
+structural rather than cyclical demand strength.³               long-term debt.¹ It is one of only two AAA-rated
+                                                                corporations in the United States, a distinction that
+Beyond contractual lock-in, Microsoft benefits from a           reflects both the quality of its earnings and the
+behavioral moat that competitors cannot replicate               predictability of its cash generation. In FY2025, Microsoft
+regardless of product quality or pricing. Enterprise workers    generated $136.2 billion in operating cash flow,
+have used Word, Excel, Outlook, and PowerPoint                  comfortably covering $64.6 billion in capital expenditures,
+throughout their academic and professional careers,             $24.1 billion in dividends, $18.4 billion in share
+creating deeply embedded cognitive familiarity that makes       repurchases, and $6.0 billion in acquisitions
+switching genuinely disruptive at the organizational level.     simultaneously without accessing debt markets.¹ This
+An IT department migrating from Microsoft 365 to a              financial strength is directly relevant to our thesis. In a
+competing suite is not just changing a contract, it is asking   scenario where AI spending disappoints and peers face
+thousands of employees to relearn fundamental daily             capital constraints, Microsoft can sustain its infrastructure
+workflows, introducing productivity losses and internal         buildout and continue returning capital to shareholders
+resistance that most organizations are unwilling to absorb.     without modification. The balance sheet is not just a safety
+Microsoft's deeply discounted academic licensing                net, it is a competitive weapon that allows Microsoft to out
+programs ensure the next generation of enterprise               invest peers through an uncertain cycle while maintaining
+workers enters the workforce already fluent in Microsoft        the flexibility to pursue acquisitions or accelerate
+tools, continuously refreshing this behavioral moat             shareholder returns as conditions evolve.
+without incremental marketing spend. AWS and Google
+Cloud cannot replicate this dynamic regardless of how           Capital Expenditure Intensity
+competitive their infrastructure or productivity offerings
+become.
+
+Business Model Viability and Sustainability
+
+Microsoft's business model is among the most durable in
+large-cap technology for three reasons. First, its revenue
+base is overwhelmingly recurring. Subscription and
+consumption revenue, which renews automatically and
+compounds with seat and usage growth, represents the
+vast majority of total revenue and is growing as a share
+over time. Second, its cost structure has genuine operating
+leverage. As software revenue scales, incremental margins
+are high because the marginal cost of adding a seat or          Microsoft spent $37.5 billion on capital expenditure in Q2
+serving an additional query is near zero once infrastructure    FY2026, with approximately two-thirds allocated to short-
+is in place. Third, its capital allocation is self-funding.     lived assets including GPUs and CPUs.³ Hood guided that
+Microsoft generates sufficient operating cash flow to fund      the short-lived asset mix will remain similar to Q2 in Q3
+both its $80 billion plus annual capex program and $12 to       FY2026, and our model holds two-thirds short-lived
+$13 billion in annual shareholder returns without               through FY2026 before transitioning toward 50/50 in
+accessing debt markets, an advantage very few technology        FY2028. The key free cash flow inflection point in our
+peers can match. These characteristics make Microsoft's         model is FY2028 to FY2029, where free cash flow
+business model more resilient in a downturn than pure-          accelerates from $68.9 billion to $104.7 billion. Even if
+play AI or cloud peers whose economics depend entirely          normalization is delayed, P&B's pricing-driven growth
+on continued growth momentum.                                   provides a buffer that pure-play AI peers do not have.
+
+Balance Sheet and Financial Strength
+
+Microsoft's balance sheet is among the strongest in
+corporate America. The company holds $94.6 billion in
+
+
+                                                           Page 5
+Debt Maturity Analysis                                        for the first time, and operating income of $38.3 billion
+                                                              grew 21%.³ Despite beating every headline metric, the
+                                                              stock declined approximately 10% driven by the $37.5
+                                                              billion capital expenditure figure and gross margin
+                                                              compression to 68.6%. This market reaction illustrates
+                                                              exactly the dynamic our thesis exploits. Near-term capital
+                                                              expenditure noise is obscuring a fundamentally sound and
+                                                              growing business. Q3 FY2026 guidance calls for revenue of
+                                                              $80.65 to $81.75 billion and Azure growth of 37 to 38% in
+                                                              constant currency.
+
+                                                              Effective July 1, 2026, Microsoft is raising list prices across
+As of June 2025, Microsoft carried $43.2 billion in long-
+                                                              its entire commercial M365 suite by 10 to 33% by tier.² This
+term debt with a current ratio of 1.77. Microsoft is one of
+                                                              is the company's most significant pricing action in several
+only two AAA-rated U.S. corporations, providing access to
+                                                              years and the clearest expression of our thesis. Microsoft's
+capital markets on favorable terms regardless of the rate
+                                                              installed base is deeply embedded in enterprise workflows
+environment. Near-term maturities are well covered by
+                                                              with no credible at-scale alternative, meaning this pricing-
+operating cash flow and pose no refinancing risk.¹
+                                                              driven revenue acceleration in FY2027 exists entirely
+                                                              independent of how the AI spending debate resolves.
+ESG Analysis
+Microsoft holds a sector-leading environmental, social,       OPENAI
+and governance profile relative to Magnificent Seven
+                                                              Microsoft's relationship with OpenAI represents the AI
+peers. On the environmental front, the company has
+                                                              upside optionality embedded in our thesis. Following
+committed to carbon neutrality and becoming water
+                                                              restructuring in October 2025, Microsoft holds a 27%
+positive by 2030, though the AI infrastructure buildout
+                                                              equity stake in OpenAI, with the fair value remeasured
+creates tension given GPU-dense data center power
+                                                              upward in Q2 FY2026 following OpenAI's conversion to a
+demands, which Microsoft is addressing through long-
+                                                              public benefit corporation, producing a $7.6 billion non-
+term renewable energy agreements. On the social front,
+                                                              cash GAAP gain. The equity stake on the balance sheet
+diversity and inclusion initiatives and a pledge to train 2
+                                                              increased from $15.4 billion at June 30, 2025 to $21.2
+million workers globally in AI skills are the primary
+                                                              billion as of December 31, 2025. This is roughly a 10x
+commitments. On governance, robust data privacy
+                                                              return on cumulative investment of $13.8 billion, with
+policies, anti-corruption controls, and independent board
+                                                              exclusive rights to OpenAI models through 2032.³ OpenAI
+oversight meet the highest institutional standards.
+                                                              has committed $250 billion to Azure cloud services, and
+Environmental, social, and governance quality is an
+                                                              Microsoft is the only cloud provider permitted to offer
+increasingly relevant factor for large institutional
+                                                              OpenAI models via API until at least 2030. If OpenAI
+allocators, where Microsoft's profile compares favorably
+                                                              continues scaling, Microsoft captures infrastructure
+to peers given its long-standing commitments and public
+                                                              revenue, model licensing revenue, and equity appreciation
+reporting transparency.¹
+                                                              simultaneously.
+
+                                                              The primary risk is concentration. OpenAI is currently cash-
+                                                              flow negative at approximately $20 billion in annualized
+             RECENT DEVELOPMENTS                              revenue, and financial deterioration would create a
+                                                              simultaneous Azure revenue shortfall and equity stake
+Recent Earnings Announcement                                  impairment. Hood addressed this directly on the Q2
+Microsoft reported Q2 FY2026 results on January 28, 2026.     FY2026 call, noting that the majority of GPU contracts
+Revenue of $81.3 billion grew 17% year over year, beating     including those for Microsoft's largest customers are sold
+consensus of $80.3 billion. Non-GAAP earnings per share       for the entire useful life of the hardware, meaning much
+of $4.14 beat estimates of $3.97 by 5.3%. Azure grew 39%,     of the OpenAI-related revenue risk is already hedged at
+Microsoft Cloud crossed $50 billion in quarterly revenue      the contract level.³ Even so, our core thesis does not
+
+                                                         Page 6
+depend on OpenAI. Microsoft began hedging this                           MARKETS AND COMPETITION
+dependency further by integrating Anthropic's Claude
+models into Office 365 Copilot in September 2025,               How the Industry Got Here
+signaling a deliberate multi-model strategy.³
+                                                                The enterprise technology industry has undergone two
+Activision Blizzard Integration                                 transformational shifts in the past fifteen years. The first
+                                                                was the migration from on-premises software licensing to
+Now in its second full fiscal year post-acquisition,            cloud-delivered services beginning around 2010, which
+Activision's portfolio including Call of Duty, World of         restructured the competitive landscape entirely. Vendors
+Warcraft, and Candy Crush is fully integrated into the More     that failed to transition lost relevance while Microsoft,
+Personal Computing segment. The acquisition created an          Amazon, and Google emerged as the dominant
+elevated revenue comparable suppressing reported                hyperscalers. The second shift began in 2022 with the
+gaming growth through FY2026, with the strategic value          public release of large language models. This is the AI-
+playing out longer-dated through Game Pass content              driven replatforming currently underway. Every layer of
+enrichment, mobile gaming exposure via King, and                the enterprise technology stack is being rebuilt around AI
+predictable subscription engagement from annual                 capabilities, from infrastructure to applications to
+franchise releases.                                             developer tooling. Microsoft's position today is a direct
+                                                                product of having successfully navigated the first
+                 INDUSTRY TRENDS                                transition under Nadella's leadership beginning in 2014,
+                                                                and the company is now better positioned than any peer
+AI Diffusion Favors Incumbents                                  to capitalize on the second.
+Gartner forecasts worldwide AI spending will reach $2.52
+                                                                Industry and Competitive Dynamics
+trillion in 2026, growing 44% year over year, with
+generative AI model spending expected to grow 80.8%.            The enterprise technology industry is best understood as
+Simultaneously, Gartner characterizes 2026 as the trough        several overlapping markets rather than a single
+of disillusionment, noting enterprise AI will increasingly be   competitive landscape. In cloud infrastructure, three
+sold by incumbent software providers rather than                hyperscalers dominate globally with AWS at
+purchased as new initiatives.⁸ This is central to our thesis.   approximately 30% market share, Azure at approximately
+Enterprise buyers seeking AI embedded in existing               21%, and Google Cloud at approximately 12%, with the
+workflows default to Microsoft 365 Copilot, Azure AI            remainder fragmented across Oracle Cloud and smaller
+Foundry, and GitHub Copilot. The disillusionment phase          regional providers.⁴ This is not an equilibrium market. All
+may actually accelerate Microsoft's relative share of           three hyperscalers are aggressively investing to capture
+enterprise AI wallet compared to pure-play AI vendors.          on-premises workloads migrating to cloud and to take
+                                                                share from each other, with Azure growing fastest among
+Broad IT Spending Growth                                        the top three at 39% in Q2 FY2026 compared to AWS at
+                                                                approximately 19% and Google Cloud at approximately
+Global IT spending is expected to reach $6.15 trillion in
+                                                                35%.³ In enterprise productivity software Microsoft holds
+2026, up 10.8%, with data center spending surpassing
+                                                                a near-monopoly position with over 450 million paid
+$650 billion and server spending growing 36.9% year over
+                                                                commercial seats and no competitor approaching
+year.¹⁰ Even non-AI portions of this growth, including
+                                                                meaningful scale. In developer tooling GitHub dominates
+software growing 14.7% and IT services growing 8.7%,
+                                                                with over 180 million developers. In enterprise
+benefit Microsoft's P&B and MPC segments directly. This
+                                                                applications Microsoft competes against Salesforce, SAP,
+illustrates the breadth of Microsoft's exposure to the
+                                                                Oracle, and ServiceNow depending on the workload. No
+overall IT spending cycle, reinforcing our thesis that
+                                                                single competitor contests Microsoft across all of these
+Microsoft grows with or without AI acceleration.
+
+
+
+
+                                                           Page 7
+dimensions simultaneously, which is the structural             conclusion is that Microsoft competes in a structurally
+foundation of its superior margin profile relative to peers.   attractive industry where the forces of competition are
+                                                               most intense in the market where Microsoft is currently
+Porter's Five Forces                                           growing fastest.
+
+Threat of New Entrants - Low                                   Life Cycle, Growth Prospects, and Disruption
+Building a hyperscale data center network requires tens of                         Risk
+billions in annual capital expenditure, years of
+                                                               Gartner estimates only 25 to 30% of enterprise workloads
+construction lead time, and access to scarce power and
+                                                               have migrated to the cloud, sustaining double-digit
+land. The five largest hyperscalers committed an
+                                                               industry growth for years independent of AI spending
+estimated $660 to $690 billion in combined infrastructure
+                                                               levels.⁸ Enterprise software markets are more mature but
+spend in 2026 alone, a figure new entrants cannot
+                                                               are being reinvigorated by AI-driven ARPU expansion as
+approach.¹¹ Barriers to entry are prohibitively high and
+                                                               vendors embed agentic capabilities into existing seat
+rising.
+                                                               licenses. The most credible disruption risk is AI-native
+Supplier Bargaining Power - Moderate and Rising                competitors building vertical point solutions that bypass
+                                                               the horizontal enterprise software layer.
+Nvidia's near-monopoly on AI accelerators gives it
+significant pricing power, reflected in the gross margin       Peer Comparisons
+pressure all hyperscalers are experiencing. Microsoft is
+partially mitigating this through its Maia 200 custom
+silicon program, which delivers over 30% improved total
+cost of ownership versus third-party hardware, but Nvidia
+retains meaningful near-term leverage.³
+
+Buyer Bargaining Power - Low
+
+Large enterprises standardized on Microsoft 365, Azure,
+and GitHub face practical migration costs that exceed any
+pricing concession a competitor could offer. The
+behavioral and contractual switching costs described in
+the additional company analysis section structurally limit
+buyer leverage across Microsoft's most important               Peer Group Selection
+customer segments.
+                                                               Microsoft's revenue diversity means no single company is
+Threat of Substitutes - Low to Moderate                        a perfect comparable. We use a tiered peer group. Amazon
+Google Workspace remains the most credible substitute          and Alphabet as primary hyperscaler peers, and Salesforce
+for Microsoft 365 but has made limited inroads in large        and Oracle as enterprise software peers. Each captures a
+enterprise precisely because of behavioral switching costs.    different dimension of Microsoft's business and together
+AI-native startups building vertical point solutions           they provide a complete picture of how Microsoft is valued
+represent a longer-dated substitution risk that Microsoft is   relative to the markets it competes in.
+addressing by embedding AI into existing products rather       Valuation and Profitability
+than offering it as a standalone layer.
+                                                               Microsoft's 45.6% operating margin is the highest among
+Competitive Rivalry - Moderate                                 all scaled peers and reflects the structural advantage of its
+AWS, Azure, and Google Cloud compete aggressively on           software-heavy revenue mix. Amazon's consolidated
+price and performance for new cloud workloads. Rivalry is      11.2% operating margin is heavily diluted by its low-margin
+moderate in productivity and developer tooling given           retail and logistics business, making direct comparisons
+Microsoft's dominant installed base positions. The overall     misleading. AWS alone carries a 35.4% TTM operating
+
+                                                          Page 8
+margin, more comparable but still below Microsoft's             rate of approximately $70 billion versus Azure's estimated
+blended figure despite AWS being a pure-play cloud              $135 billion plus. Google Cloud's Q4 operating margin of
+business. Alphabet's 32.9% operating margin reflects the        30.1% demonstrates the business is maturing, though it
+drag of its Other Bets segment and Waymo investments,           remains well below Azure's estimated 42% segment
+which included a $2.1 billion employee compensation             operating margin. AWS retains the largest installed base
+charge in Q4 2025 alone. The margin gap between                 and deepest enterprise relationships built over fifteen
+Microsoft and all peers is structural rather than cyclical,     years, making it the benchmark against which Azure's
+driven by the high incremental margins on software seat         share gains are measured. At current growth differentials
+additions and operating leverage embedded in the                Azure is closing the gap with AWS meaningfully each
+Microsoft 365 and Azure businesses. Salesforce's 75.3%          quarter, and the enterprise software integration
+gross margin is the highest in the peer group, reflecting its   advantage Microsoft holds over both AWS and Google
+pure software model with minimal infrastructure cost,           Cloud provides a structural tailwind to continued share
+though its 21.5% operating margin reveals the heavy sales       gain that neither competitor can easily replicate.
+and marketing spend required to grow a CRM business
+without Microsoft's installed base distribution advantage.      Growth and Capital Allocation
+
+Microsoft trades at 25.1x trailing earnings and 22.1x
+forward earnings. On a forward basis this represents a
+discount to Amazon at 25.9x and Alphabet at 26.2x despite
+Microsoft generating superior margins across every
+profitability metric. Oracle at 19.4x forward earnings is the
+only peer trading at a lower multiple, though Oracle's
+negative free cash flow and aggressive debt-funded cloud
+buildout make that discount warranted. Salesforce at
+15.0x forward earnings reflects the market's skepticism
+about its AI monetization trajectory relative to peers. This
+is also shown in its 23% drop in stock price TYD. Microsoft's
+forward multiple discount to Amazon and Alphabet
+despite superior margin quality is the central mispricing
+                                                                The capital allocation table reveals the starkest
+our thesis exploits.
+                                                                differentiation in the peer group. Amazon is spending
+Cloud Infrastructure                                            $131.8 billion in capex against $139.5 billion in operating
+                                                                cash flow, leaving only $11.2 billion in free cash flow and
+                                                                committing to approximately $200 billion in 2026 capex
+                                                                per CEO Andy Jassy's guidance. Alphabet is spending $91.4
+                                                                billion in capex with $175 to $185 billion guided for 2026.
+                                                                Both are front-loading infrastructure investment at a pace
+                                                                that leaves minimal near-term free cash flow. Microsoft's
+                                                                $71.6 billion in free cash flow on $64.6 billion of capex
+                                                                demonstrates that despite its own aggressive buildout, its
+                                                                software revenue base generates enough operating cash
+                                                                flow to fund infrastructure investment and still return
+                                                                capital to shareholders simultaneously, a balance neither
+                                                                Amazon nor Alphabet is currently achieving. Oracle's
+                                                                negative free cash flow reflects the same infrastructure
+Azure is growing at 39% in Q2 FY2026, nearly double AWS's       buildout dynamic but from a far weaker starting balance
+full year growth rate of 20%, from a base now only              sheet, making its investment cycle considerably more
+modestly smaller than AWS's $128.7 billion. Google Cloud        financially strained than Microsoft's. Salesforce's minimal
+is growing fastest among the three at 48% in Q4 2025 but        capex and $14.4 billion free cash flow with a 6.74%
+from a significantly smaller base with an annualized run        buyback yield illustrates the cash generation potential of a
+
+                                                           Page 9
+pure software model, which is directionally where              GDP Growth
+Microsoft's free cash flow profile trends as its own capex
+cycle normalizes in FY2028 and beyond.                         Real GDP grew 2.3% in Q4 2025, decelerating from 4.4% in
+                                                               Q3 2025, with the Henry Fund consensus expecting growth
+Stock Performance                                              to moderate further to approximately 3.95% over six
+                                                               months and 2.60% over two years as prior monetary
+Microsoft has underperformed meaningfully relative to
+                                                               tightening continues filtering through the economy.
+peers over the past two years, returning approximately
+                                                               Microsoft's revenue mix is meaningfully insulated from a
+12% in 2024 and approximately 15% in 2025, trailing
+                                                               moderate slowdown. P&B's $120 billion subscription base
+Alphabet and the broader S&P 500. This
+                                                               represents largely non-discretionary enterprise spending
+underperformance is entirely attributable to the capital
+                                                               that has historically proven resilient through downturns,
+expenditure and margin compression narrative rather
+                                                               as mission-critical productivity software is among the last
+than any deterioration in revenue or earnings growth,
+                                                               costs enterprises cut. Azure consumption carries more
+which has remained at approximately 15% annually
+                                                               cyclical sensitivity but the $625 billion contracted backlog
+throughout this period. Among the peer group, Microsoft
+                                                               provides a significant buffer. The most direct recession
+now offers the most compelling combination of earnings
+                                                               impact would fall on LinkedIn Talent Solutions, already
+growth, margin quality, and relative valuation. At 22.1x
+                                                               under pressure from a soft hiring market, and MPC
+forward earnings it trades at a discount to Amazon at 25.9x
+                                                               hardware, neither of which is material enough to impair
+and Alphabet at 26.2x despite generating higher margins
+                                                               our core thesis.
+than either. The convergence of a depressed relative
+valuation, an upcoming pricing-driven growth catalyst in
+FY2027, and a free cash flow recovery story anchored to
+                                                               Inflation
+capex normalization makes Microsoft the most                   CPI inflation currently sits at 2.30%, with the Henry Fund
+asymmetric risk reward in the peer group at current            consensus expecting it to remain near 3.06% over six
+prices.⁹                                                       months before moderating toward 2.92% over two years,
+                                                               staying modestly above the Fed's 2% target throughout
+               ECONOMIC OUTLOOK                                the forecast horizon. This persistent but contained
+                                                               inflation environment is broadly constructive for
+Interest Rates and Federal Reserve Policy                      Microsoft. Data center construction costs and power
+                                                               contracts benefit from inflation remaining stable rather
+The 10-year Treasury yield currently sits at 4.26%, with the
+                                                               than re-accelerating, supporting our capex normalization
+Fed Funds rate at 3.50% following rate cuts in the second
+                                                               timeline. The July 2026 M365 price increase of 10 to 33%
+half of 2025. The Henry Fund consensus expects the 10-
+                                                               is itself an inflationary pass-through that expands P&B
+year yield to decline to approximately 4.20% over the next
+                                                               revenue faster than cost in FY2027 independent of the
+six months and toward 3.96% over two years, reflecting
+                                                               macro environment. The primary risk is a re-acceleration
+gradual Fed easing as inflation moderates. Recession
+                                                               above consensus, which would delay Fed cuts and keep
+probability is placed at 20% over the next twelve months.
+                                                               the discount rate environment unfavorable for long-
+For Microsoft this outlook is constructive in two ways.        duration assets including Microsoft.
+First, our WACC of 9.19% is anchored to the 10 year
+treasury, meaning even a modest decline toward the                                  VALUATION
+Henry Fund consensus of 3.96% adds approximately $10 o
+$15 to our DCF implied price, a macro tailwind not             Revenue Growth Assumptions
+embedded in our base case. Second, elevated rates have
+disproportionately penalized long-duration growth assets
+and are a partial explanation for Microsoft's two years of
+relative underperformance. Rate normalization represents
+a re-rating catalyst independent of fundamental business
+performance.
+
+
+                                                         Page 10
+Revenue growth assumptions are grounded in                    WACC, CV Growth, and CV ROIC
+management guidance as a primary anchor, cross-
+referenced against FactSet consensus estimates, with
+analyst deviations in segments where our thesis differs
+from consensus. Our primary differentiated assumptions
+are IC acceleration in FY2027-2028 driven by supply
+constraint resolution, and P&B acceleration in FY2027
+driven by the M365 pricing action. Our total company
+revenue CAGR of approximately 19% through FY2032 is
+driven by Intelligent Cloud growing from 26% in FY2026
+toward 31% in FY2027 before decelerating to 20% by
+FY2032, grounded in Azure's 39% Q2 FY2026 growth and
+the non-OpenAI RPO growing 28% organically.³ P&B
+accelerates from 11% in FY2026 to 13% in FY2027 on the
+M365 pricing tailwind. The revenue multiplier and             The CV growth and WACC sensitivity table is the most
+depreciation years sensitivity table shows that at 6 year     important long-term valuation driver. At our base case of
+depreciation and base case revenue our model implies          2.50% CV growth and 9.19% WACC the model implies
+$473. Compressing depreciation life to 3 years drives the     $473. The model is considerably more sensitive to CV
+implied price to $402, while extending to 9 years at a 1.07   growth than WACC, with a 50 basis point increase in CV
+revenue multiplier pushes it to $552, illustrating that the   growth adding approximately $30 versus $20 for a 25 basis
+depreciation assumption is nearly as impactful as revenue     point WACC reduction. Even at the most conservative
+itself.                                                       combination of 1.75% CV growth and 9.94% WACC the
+                                                              model implies $389, suggesting meaningful downside
+Operating Expense and Margin Assumptions                      protection at current levels. The CV ROIC table
+                                                              corroborates this, showing our base case implies
+We hold ex-depreciation product costs flat at 15.8% and       approximately 40% CV ROIC, consistent with Microsoft's
+service costs at 20.0% of their respective revenue bases      historical returns and durable competitive positioning.
+throughout the forecast. The COGS sensitivity table
+reveals an important asymmetry, a 450 basis point             Valuation Model Results
+improvement in service COGS adds approximately $45 to
+our implied price while the same improvement in product       Our DCF and Economic Profit models converge on $473.46.
+COGS adds only approximately $10. This confirms service       Our DDM of $424.67 is around the current price but we do
+cost efficiency is the dominant margin driver and validates   not rely on it as a primary valuation given Microsoft's low
+our focus on depreciation normalization rather than           payout ratio during an aggressive reinvestment cycle
+product cost improvement as the primary margin recovery       makes it structurally ill-suited. Our relative valuation using
+mechanism.                                                    forward P/E implies $453, reflecting Microsoft's discount
+                                                              to peers despite superior margins. We anchor our
+                                                              recommendation on the DCF.
+
+                                                              Differentiation from Consensus
+                                                              Microsoft trades at approximately $430 while our DCF
+                                                              implies $473, and the gap comes down to one core
+                                                              disagreement. The market is treating the current capex
+                                                              cycle as persistent while we model it as transitional. We
+                                                              believe the market is anchoring on this compressed free
+                                                              cash flow rather than the $102.7 billion we forecast by
+                                                              FY2029 as the capex mix normalizes. Additionally, the
+                                                              market appears to be valuing Microsoft primarily as an AI
+                                                              infrastructure story, meaning any doubt about AI
+
+                                                        Page 11
+monetization timelines gets reflected in the stock. We are
+separately valuing P&B's $120 billion subscription base
+growing through the July 2026 pricing increase as a
+durable earnings floor that justifies a price above $430
+regardless of how the AI debate resolves. The most
+legitimate explanation for the remaining gap between our
+intrinsic value and the current price is OpenAI
+concentration risk. Approximately 45% of the $625 billion
+RPO is attributable to a single cash-flow negative
+counterparty, and the market may be applying a haircut to
+that backlog that our model does not fully capture. We
+view this as a known and monitored risk rather than a
+thesis-breaker.
+                                                                  Bear Case Risks
+                  KEYS TO MONITOR
+                                                                  The most critical negative monitor is capex normalization
+Bull Case Catalysts                                               failing to materialize on our expected timeline. Our entire
+                                                                  free cash flow recovery thesis depends on capex as a
+The most important positive monitor is Azure supply               percentage of revenue showing a credible declining trend
+constraint resolution translating into re-accelerating            by FY2028. If this normalization does not occur and
+growth. Hood confirmed that allocating all incoming GPU           management provides no clear guidance toward
+capacity entirely to Azure would have produced growth             moderation, we would reduce our target price and place
+above 40%.³ If Azure sustains growth above 40% for two            the BUY rating under review. The capex sensitivity table
+or more consecutive quarters in FY2027 we would revise            confirms that sustained elevated capex materially
+our Intelligent Cloud CAGR upward, pushing our DCF                compresses our implied price, with the most stressed
+implied price significantly higher. This is the single variable   scenario in our sensitivity analysis falling below the current
+most worth monitoring quarterly.                                  price of $430, representing the threshold at which the risk
+                                                                  reward of the investment becomes unfavorable.
+The second catalyst is the July 2026 M365 pricing increase
+flowing through FY2027 results. If P&B segment growth             The second risk is Azure growth decelerating below 30%
+reaches 13% or above in FY2027 as we forecast, it validates       on a sustained basis. Google Cloud growing at 48% in Q4
+the non-AI earnings floor central to our thesis and               2025 is the most credible competitive threat to our share
+demonstrates Microsoft's revenue growth is durable                gain assumption. Two consecutive quarters below 30%
+regardless of how the AI monetization debate resolves.            would push our DCF implied price down and place the
+Failure to achieve this threshold would be more                   recommendation under review pending management
+concerning than an Azure miss because it would call into          commentary.
+question the pricing power assumption underpinning our
+entire P&B forecast.                                              The third and most binary risk is OpenAI financial
+                                                                  deterioration. Any public indication of financial distress
+Third, if paid Copilot seats reach 7 to 10% of the installed      including a down-round financing event or meaningful
+base within the next four quarters, AI monetization is            reduction in Azure consumption would require immediate
+compounding faster than our conservative 3.3%                     reassessment of both Intelligent Cloud revenue and the
+penetration assumption implies, creating upside to both           $135 billion equity stake simultaneously.
+P&B revenue and operating margin forecasts.
+
+
+
+
+                                                            Page 12
+                                                                 ⁵ Microsoft Activision Blizzard acquisition press release or
+                                                                 10-K
+                                                                 6
+                                                                     https://www.srgresearch.com/
+
+                                                                 ⁸ Gartner (AI spending $2.52 trillion, 25-30% workload
+                                                                 migration figure)
+
+                                                                 ⁹ FactSet (consensus target price, peer valuation data)
+
+                                                                 ¹⁰ Gartner (global IT spending $6.15 trillion, data center
+                                                                 and server growth figures)
+
+                                                                 ¹¹ Company earnings releases / press reporting (combined
+                                                                 hyperscaler capex $660-690 billion)
+
+                                                                 www.gartner.com/en/newsroom/press-releases/2026-
+                      DISCLAIMER                                 02-03-gartner-forecasts-worldwide-it-spending-to-grow-
+Henry Fund reports are created by graduate students in           10-point-8-percent-in-2026-totaling-6-point-15-trillion-
+the Applied Securities Management program at the                 dollars. Accessed 28 Feb. 2026.
+University of Iowa’s Tippie College of Business. These
+                                                                 www.gartner.com/en/newsroom/press-releases/2026-1-
+reports provide potential employers and other interested
+                                                                 15-gartner-says-worldwide-ai-spending-will-total-2-point-
+parties an example of the analytical skills, investment
+                                                                 5-trillion-dollars-in-2026. Accessed 28 Feb. 2026.
+knowledge, and communication abilities of our students.
+Henry Fund analysts are not registered investment                “Technology:         Hyperscaler      Capex       2026
+advisors, brokers or licensed financial professionals. The       Estimates.” CreditSights,      25      Nov.      2025,
+investment opinion contained in this report does not             know.creditsights.com/insights/technology-hyperscaler-
+represent an offer or solicitation to buy or sell any of the     capex-2026-estimates/. Accessed 28 Feb. 2026.
+aforementioned securities. Unless otherwise noted, facts
+and figures included in this report are from publicly            Patience, Nick. “AI Capex 2026: The $690B Infrastructure
+available sources. This report is not a complete                 Sprint.” Futurum,           12         Feb.        2026,
+compilation of data, and its accuracy is not guaranteed.         futurumgroup.com/insights/ai-capex-2026-the-690b-
+From time to time, the University of Iowa, its faculty, staff,   infrastructure-sprint/. Accessed 28 Feb. 2026.
+students, or the Henry Fund may hold an investment
+position in the companies mentioned in this report.              Quarton, Shaun. “2026 IT Spending and Budget Forecasts:
+                                                                 Where      Organizations     Are      Investing.” Splunk,
+                      REFERENCES                                 www.splunk.com/en_us/blog/learn/it-tech-
+                                                                 spending.html. Accessed 28 Feb. 2026.
+¹ Microsoft 10-K / Annual Report (balance sheet, cash
+figures, AAA rating, geographic revenue)                         www.gartner.com/en/newsroom/press-releases/2025-
+                                                                 09-17-gartner-says-worldwide-ai-spending-will-total-1-
+² Microsoft M365 pricing announcement (July 2026 price           point-5-trillion-in-2025. Accessed 28 Feb. 2026.
+increase)
+                                                                 www.gartner.com/en/newsroom/press-releases/2026-
+³ Microsoft Q2 FY2026 Earnings Call Transcript (Azure            02-03-gartner-forecasts-worldwide-it-spending-to-grow-
+growth, RPO, Copilot seats, Hood commentary, GPU                 10-point-8-percent-in-2026-totaling-6-point-15-trillion-
+contracts, Maia 200, OpenAI restructuring)                       dollars. Accessed 28 Feb. 2026.
+
+⁴ Synergy Research Group (cloud market share figures,            Kifleswing. “Microsoft Raises Xbox Prices in U.S. Due to
+AWS 30%, Azure 21%, GCP 12%)                                     Economic Environment.” CNBC, 19 Sept. 2025,
+                                                                 www.cnbc.com/2025/09/19/microsoft-xbox-prices-
+
+
+                                                           Page 13
+tariffs-macroeconomic-conditions.html. Accessed 28 Feb.
+2026.
+
+Williams, Isaiah. “A New Next-Gen Xbox Console Could
+Launch in 2027 – but Microsoft Has Already Dug Itself a
+Hole.” TechRadar,          4         Feb.         2026,
+www.techradar.com/gaming/xbox/microsofts-next-gen-
+xbox-console-may-land-in-2027-according-to-amd-but-
+the-console-wars-are-over. Accessed 28 Feb. 2026.
+
+Group, Synergy Research. “Market Intelligence.” Synergy
+Research Group | Strategic Market Intelligence for
+Emerging IT & Cloud, www.srgresearch.com/. Accessed 28
+Feb. 2026.
+
+
+
+
+                                                     Page 14
+                                                             Beta                                                                                                Revenue Multiplier
+                   $ 473.46      0.71      0.81      0.91        1.01       1.11       1.21      1.31                      $ 473.46    0.90       0.93       0.97      1.00        1.04     1.07       1.11
+                   3.5000%     744.99    663.45    596.75     541.22      494.29     454.14    419.42                        3.0       327.49     351.60     376.70    402.83     430.03    458.33     487.79
+
+
+
+
+                                                                                                        Deprec Years AMT
+                   3.7500%     702.08    628.51    567.77     516.81      473.46     436.17    403.77                        4.0       362.81     386.91     412.01    438.14     465.34    493.65     523.11
+
+
+Risk Free Rate
+                   4.0000%     663.45    596.75    541.22     494.29      454.14     419.42    389.12                        5.0       384.00     408.10     433.20    459.33     486.53    514.84     544.30
+                    4.25%      628.51    567.77    516.81     473.46      436.17     403.77    375.38                        6.0       398.13     422.23     447.33    473.46     500.66    528.97     558.43
+                   4.5000%     596.75    541.22    494.29     454.14      419.42     389.12    362.47                        7.0       408.22     432.32     457.42    483.55     510.75    539.06     568.52
+                   4.7500%     567.77    516.81    473.46     436.17      403.77     375.38    350.31                        8.0       415.78     439.89     464.99    491.12     518.32    546.63     576.08
+                   5.0000%     541.22    494.29    454.14     419.42      389.12     362.47    338.84                        9.0       421.67     445.78     470.87    497.01     524.21    552.51     581.97
+
+
+
+                                                       CapEx multiplier                                                                                               Tax Rate
+                   $ 473.46    45%       55%       65%        75%         85%        95%       105%                        $ 473.46    0.14       0.16       0.18       0.20     0.22       0.24       0.26
+                    10.5%      508.63    504.77    499.99     494.02      486.52     476.98    464.75                       3.65%      656.58     641.33     626.07    610.81    595.53     580.24     564.94
+
+
+
+
+2027 CapEx Inc
+                    12.0%      504.47    499.96    494.36     487.34      478.45     467.07    452.35                       4.10%      599.87     585.87     571.86    557.84    543.81     529.78     515.73
+                    13.5%      500.26    495.08    488.62     480.48      470.12     456.77    439.33                       4.55%      551.38     538.46     525.52    512.57    499.62     486.66     473.69
+                    15.0%      496.01    490.13    482.77     473.46      461.54     446.06    425.66   ERP                 5.00%      509.49     497.49     485.48    473.46    461.44     449.41     437.37
+                    16.5%      491.70    485.10    476.80     466.26      452.68     434.93    411.33                       5.45%      472.94     461.75     450.55    439.35    428.14     416.92     405.70
+                    18.0%      487.34    479.99    470.72     458.89      443.55     423.37    396.29                       5.90%      440.79     430.32     419.84    409.35    398.86     388.36     377.86
+                    19.5%      482.93    474.80    464.52     451.33      434.14     411.35    380.53                       6.35%      412.31     402.47     392.63    382.78    372.92     363.06     353.19
+
+
+                                                            WACC                                                                                                      CV ROIC
+                   $ 473.46   8.44%     8.69%     8.94%      9.19%        9.44%      9.69%     9.94%                       $ 473.46    31%        36%        41%       46%       51%        56%        61%
+                    1.75%      499.74    477.94    457.70     438.88      421.33     404.92    389.57                       1.00%      305.31     340.75     375.82    410.63    445.26     479.76     514.15
+
+
+
+
+CV Growth NOPLAT
+                    2.00%      513.90    490.81    469.44     449.61      431.15     413.94    397.86                       1.50%      321.33     357.71     393.49    428.85    463.93     498.79     533.49
+
+
+                                                                                                        CV of NOPLAT
+                    2.25%      529.20    504.68    482.05     461.10      441.66     423.57    406.70                       2.00%      339.58     377.03     413.61    449.61    485.19     520.47     555.52
+                    2.50%      545.79    519.68    495.65     473.46      452.92     433.86    416.13                       2.50%      360.57     399.24     436.74    473.46    509.62     545.38     580.83
+                    2.75%      563.84    535.93    510.33     486.78      465.03     444.90    426.21                       3.00%      384.93     425.03     463.61    501.17    538.01     574.32     610.24
+                    3.00%      583.55    553.62    526.26     501.17      478.07     456.76    437.02                       3.50%      413.59     455.35     495.19    533.74    571.38     608.35     644.81
+                    3.25%      605.16    572.93    543.59     516.77      492.17     469.54    448.64                       4.00%      447.76     491.51     532.86    572.59    611.18     648.92     686.04
+
+
+
+
+                                                      Azure Rev Multiplier                                                                                          Service COGS%
+                   $ 473.46   85.00%    90.00%    95.00%     100.00% 105.00%        110.00%   115.00%                      $ 473.46   -24.52%    -23.02%    -21.52% -20.02% -18.52%        -17.02%    -15.52%
+                    60.00%     398.50    426.01    455.36      486.66      520.02    555.55    593.37                       -20.27%     420.82     435.51     450.20     464.89   479.58     494.26     508.95
+
+
+
+
+CapEx Multiplier                                                                                        Product COGS%
+                    65.00%     394.61    422.12    451.47      482.77      516.13    551.66    589.48                       -18.77%     423.68     438.37     453.06     467.75   482.43     497.12     511.81
+                    70.00%     390.24    417.74    447.09      478.40      511.76    547.29    585.11                       -17.27%     426.54     441.23     455.92     470.60   485.29     499.98     514.67
+                    75.00%     385.30    412.81    442.16      473.46      506.82    542.35    580.17                       -15.77%     429.40     444.09     458.77     473.46   488.15     502.84     517.52
+                    80.00%     379.72    407.22    436.58      467.88      501.24    536.77    574.59                       -14.27%     432.26     446.94     461.63     476.32   491.01     505.69     520.38
+                    85.00%     373.38    400.89    430.24      461.54      494.90    530.43    568.25                       -12.77%     435.11     449.80     464.49     479.18   493.86     508.55     523.24
+                    90.00%     366.16    393.67    423.02      454.32      487.68    523.21    561.03                       -11.27%     437.97     452.66     467.35     482.03   496.72     511.41     526.10
+Microsoft Corporation
+Revenue Decomposition
+
+Fiscal Years Ending Jun. 30                                  2020                    2021         2022         2023         2024         2025        2026E        2027E        2028E        2029E        2030E        2031E        2032E
+Total Revenue                                                  143,015.00      168,088.00   198,270.00   211,915.00   245,122.00   281,724.00   321,028.33   380,763.48   453,687.60   548,920.84   656,813.05   767,411.15   877,160.69
+Growth                                                                             17.53%       17.96%        6.88%       15.67%       14.93%       13.95%       18.61%       19.15%       20.99%       19.66%       16.84%       14.30%
+
+Product                                                         68,041.00       71,074.00    72,732.00    64,699.00    64,773.00    63,946.00    58,620.89    66,518.64    76,354.15    91,958.61   108,379.59   125,029.23   141,249.13
+Growth                                                                              4.46%        2.33%      -11.04%        0.11%       -1.28%       -8.33%       13.47%       14.79%       20.44%       17.86%       15.36%       12.97%
+Service and other                                               74,974.00       97,014.00   125,538.00   147,216.00   180,349.00   217,778.00   262,407.44   314,244.84   377,333.45   456,962.23   548,433.46   642,381.92   735,911.56
+Growth                                                                            29.40%       29.40%       17.27%       22.51%       20.75%       20.49%       19.75%       20.08%       21.10%       20.02%       17.13%       14.56%
+
+
+
+Productivity and Business Processes                             46,398.00       53,915.00    63,364.00    94,151.00   106,820.00   120,810.00   133,739.28   150,693.71   165,897.84   180,001.68   193,153.89   203,271.20   213,765.68
+Growth                                                                             16.20%       17.53%       48.59%       13.46%       13.10%       10.70%       12.68%       10.09%        8.50%        7.31%        5.24%        5.16%
+    - Microsoft 365 Commercial Products and Cloud Services               -           -            -       66,949.00    76,969.00    87,767.00    96,543.70   109,094.38   118,912.88   128,425.91   137,415.72   144,286.50   151,500.83
+Growth                                                                                                                    14.97%       14.03%       10.00%       13.00%        9.00%        8.00%        7.00%        5.00%        5.00%
+    - Microsoft 365 Consumer Products and Cloud Services                 -           -            -        6,417.00     6,648.00     7,404.00     8,366.52     9,621.50    11,064.72    12,171.19    13,023.18    13,674.34    14,358.05
+Growth                                                                                                                     3.60%       11.37%       13.00%       15.00%       15.00%       10.00%        7.00%        5.00%        5.00%
+    - Dynamics Products and Cloud Services                               -           -            -        5,796.00     6,831.00     7,827.00     9,235.86    10,621.24    12,214.42    13,802.30    15,320.55    16,546.20    17,704.43
+Growth                                                                                                                    17.86%       14.58%       18.00%       15.00%       15.00%       13.00%       11.00%        8.00%        7.00%
+    - LinkedIn                                                      8,077.00    10,289.00    13,816.00    14,989.00    16,372.00    17,812.00    19,593.20    21,356.59    23,705.81    25,602.28    27,394.44    28,764.16    30,202.37
+Growth                                                                             27.39%       34.28%        8.49%        9.23%        8.80%       10.00%        9.00%       11.00%        8.00%        7.00%        5.00%        5.00%
+    - Office products and cloud services                        35,316.00       39,872.00    44,862.00          -           -            -            -            -            -            -            -            -            -
+Growth                                                                             12.90%       12.52%       0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%        0.00%
+
+Intelligent Cloud                                               48,398.00       60,080.00    75,251.00    72,944.00    87,464.00   106,265.00   134,067.20   175,968.96   231,604.68   303,274.08   391,896.00   487,887.34   583,893.78
+Growth                                                                             24.14%       25.25%       -3.07%       19.91%       21.50%       26.16%       31.25%       31.62%       30.94%       29.22%       24.49%       19.68%
+     - Server Products and Cloud Services (Azure)               41,379.00       52,589.00    67,321.00    65,007.00    79,828.00    98,435.00   125,996.80   167,575.74   222,875.74   294,195.98   382,454.77   478,068.46   573,682.15
+Growth                                                                             27.09%       28.01%       -3.44%       22.80%       23.31%       28.00%       33.00%       33.00%       32.00%       30.00%       25.00%       20.00%
+     - Enterprise and partner services                              6,409.00     6,943.00     7,407.00     7,900.00     7,594.00     7,760.00     8,070.40     8,393.22     8,728.94     9,078.10     9,441.23     9,818.88    10,211.63
+Growth                                                                              8.33%        6.68%        6.66%       -3.87%        2.19%        4.00%        4.00%        4.00%        4.00%        4.00%        4.00%        4.00%
+
+More Personal Computing                                         48,251.00       54,093.00    59,655.00    44,820.00    50,838.00    54,649.00    53,221.85    54,100.81    56,185.08    65,645.09    71,763.17    76,252.61    79,501.22
+Growth                                                                             12.11%       10.28%      -24.87%       13.43%        7.50%       -2.61%        1.65%        3.85%       16.84%        9.32%        6.26%        4.26%
+    - Windows and Devices                                       27,967.00       29,279.00    31,752.00    17,147.00    17,026.00    17,314.00    15,928.88    15,610.30    14,985.89    15,585.33    16,052.89    16,534.47    17,030.51
+Growth                                                                              4.69%        8.45%      -46.00%       -0.71%        1.69%       -8.00%       -2.00%       -4.00%        4.00%        3.00%        3.00%        3.00%
+    - Search and News Advertising                                   8,524.00     9,267.00    11,591.00    12,125.00    12,306.00    13,878.00    15,404.58    17,253.13    19,323.51    21,642.33    24,455.83    26,901.41    29,322.54
+Growth                                                                              8.72%       25.08%        4.61%        1.49%       12.77%       11.00%       12.00%       12.00%       12.00%       13.00%       10.00%        9.00%
+    - Gaming                                                    11,575.00       15,370.00    16,230.00    15,466.00    21,503.00    23,455.00    21,813.15    21,158.76    21,793.52    28,331.57    31,164.73    32,722.97    33,050.20
+Growth                                                                             32.79%        5.60%       -4.71%       39.03%        9.08%       -7.00%       -3.00%        3.00%       30.00%       10.00%        5.00%        1.00%
+    - Other                                                         3,768.00     4,479.00     5,291.00       119.00        45.00        72.00        75.24        78.63        82.16        85.86        89.73        93.76        97.98
+Growth                                                                             18.87%       18.13%      -97.75%      -62.18%       60.00%        4.50%        4.50%        4.50%        4.50%        4.50%        4.50%        4.50%
+Microsoft Corporation
+Income Statement
+
+Fiscal Years Ending Jun. 30                      2016          2017          2018          2019          2020          2021          2022          2023          2024          2025          2026E          2027E          2028E          2029E          2030E          2031E          2032E
+Revenues
+   Product                                 67,336.00     63,811.00      64,497.00     66,069.00     68,041.00     71,074.00     72,732.00     64,699.00     64,773.00     63,946.00      58,620.89      66,518.64      76,354.15      91,958.61     108,379.59     125,029.23     141,249.13
+   Service and other                       23,818.00     32,760.00      45,863.00     59,774.00     74,974.00     97,014.00    125,538.00    147,216.00    180,349.00    217,778.00     262,407.44     314,244.84     377,333.45     456,962.23     548,433.46     642,381.92     735,911.56
+Total revenue                              91,154.00     96,571.00     110,360.00    125,843.00    143,015.00    168,088.00    198,270.00    211,915.00    245,122.00    281,724.00     321,028.33     380,763.48     453,687.60     548,920.84     656,813.05     767,411.15     877,160.69
+Cost of revenue
+   Product                                 (17,217.80)   (14,297.20)   (14,393.90)   (15,104.80)   (14,737.40)   (17,050.40)   (17,618.00)   (16,417.90)   (13,043.30)   (10,085.70)     (9,245.81)    (10,491.46)    (12,042.74)    (14,503.91)    (17,093.86)    (19,719.88)    (22,278.12)
+   Service and other                        (8,940.20)   (11,185.80)   (13,698.10)   (16,123.20)   (18,544.60)   (23,495.60)   (30,572.00)   (35,584.10)   (38,783.70)   (43,592.30)    (52,525.71)    (62,901.92)    (75,530.28)    (91,469.45)   (109,779.11)   (128,584.64)   (147,306.33)
+   Depreciation, amortization, and other    (6,622.00)    (8,778.00)   (10,261.00)   (11,682.00)   (12,796.00)   (11,686.00)   (14,460.00)   (13,861.00)   (22,287.00)   (34,153.00)    (42,295.69)    (61,079.03)    (79,363.43)    (99,190.58)   (120,272.41)   (121,858.21)   (131,115.53)
+Total cost of revenue                      (32,780.00)   (34,261.00)   (38,353.00)   (42,910.00)   (46,078.00)   (52,232.00)   (62,650.00)   (65,863.00)   (74,114.00)   (87,831.00)   (104,067.21)   (134,472.41)   (166,936.45)   (205,163.94)   (247,145.38)   (270,162.72)   (300,699.97)
+Gross margin                                58,374.00     62,310.00     72,007.00     82,933.00     96,937.00    115,856.00    135,620.00    146,052.00    171,008.00    193,893.00    216,961.12     246,291.07     286,751.15      343,756.91     409,667.67     497,248.43     576,460.72
+   Research and development                (11,988.00)   (13,037.00)   (14,726.00)   (16,876.00)   (19,269.00)   (20,716.00)   (24,512.00)   (27,195.00)   (29,510.00)   (32,488.00)   (36,280.11)    (42,170.29)    (50,246.77)     (60,794.04)    (72,743.31)    (84,992.26)    (97,147.23)
+   Sales and marketing                     (14,635.00)   (15,461.00)   (17,469.00)   (18,213.00)   (19,598.00)   (20,117.00)   (21,825.00)   (22,759.00)   (24,456.00)   (25,654.00)   (27,771.43)    (31,292.03)    (35,420.85)     (40,713.21)    (46,279.75)    (51,368.98)    (55,779.63)
+   General and administrative               (4,563.00)    (4,481.00)    (4,754.00)    (4,885.00)    (5,111.00)    (5,107.00)    (5,900.00)    (7,575.00)    (7,609.00)    (7,223.00)    (7,407.64)     (7,907.41)     (8,479.66)      (9,233.65)     (9,943.70)    (10,456.27)    (10,756.49)
+Total operating expenses                   (31,186.00)   (32,979.00)   (36,949.00)   (39,974.00)   (43,978.00)   (45,940.00)   (52,237.00)   (57,529.00)   (61,575.00)   (65,365.00)   (71,459.17)    (81,369.73)    (94,147.28)    (110,740.91)   (128,966.77)   (146,817.52)   (163,683.35)
+Operating income / loss                     27,188.00     29,331.00     35,058.00     42,959.00     52,959.00     69,916.00     83,383.00     88,523.00    109,433.00    128,528.00    145,501.94     164,921.34     192,603.87      233,016.00     280,700.90     350,430.91     412,777.36
+Other income / expense, net                   (439.00)       876.00      1,416.00        729.00         77.00      1,186.00        333.00        788.00     (1,646.00)    (4,901.00)     8,000.00         500.00         500.00          500.00         500.00         500.00         500.00
+Income / loss before income taxes           26,749.00     30,207.00     36,474.00     43,688.00     53,036.00     71,102.00     83,716.00     89,311.00    107,787.00    123,627.00    153,501.94     165,421.34     193,103.87      233,516.00     281,200.90     350,930.91     413,277.36
+Provision for income taxes                  (5,100.00)    (4,412.00)   (19,903.00)    (4,448.00)    (8,755.00)    (9,831.00)   (10,978.00)   (16,950.00)   (19,651.00)   (21,795.00)   (30,700.39)    (33,084.27)    (38,620.77)     (46,703.20)    (56,240.18)    (70,186.18)    (82,655.47)
+Net income / loss                          21,649.00     25,795.00      16,571.00     39,240.00     44,281.00     61,271.00     72,738.00     72,361.00     88,136.00    101,832.00    122,801.56     132,337.07     154,483.10     186,812.80     224,960.72     280,744.73     330,621.89
+
+
+
+Basic Earnings Per Share (EPS)                   2.59          3.29           2.15          5.11         5.82          8.12          9.70           9.72        11.86         13.70         16.60           18.06         21.31          26.17          32.21          41.36          50.43
+                                                           27.03%         -34.65%      137.67%        13.89%        39.52%        19.46%          0.21%       22.02%        15.51%         21.17%           8.77%        18.00%         22.83%         23.08%         28.40%         21.93%
+Total Shares Outstanding                    7,925.00      7,746.00       7,700.00      7,673.00      7,610.00      7,547.00      7,496.00      7,446.00      7,431.00      7,433.00       7,362.33       7,296.89       7,204.53       7,072.12       6,895.48       6,679.72       6,431.76
+Weighted Average Shares Outsanding                        7,835.50       7,723.00      7,686.50      7,641.50      7,578.50      7,521.50      7,471.00      7,438.50      7,432.00       7,397.66       7,329.61       7,250.71       7,138.32       6,983.80       6,787.60       6,555.74
+Annual Dividend Per Share (DPS)                  1.47          1.59           1.72          1.89         2.09          2.30          2.54           2.79         3.08          3.40           3.75            4.13          4.55           5.02           5.53           6.10           6.72
+              Growth %                                       8.16%          8.18%         9.88%       10.58%        10.05%        10.43%          9.84%       10.39%        10.39%         10.22%         10.22%         10.22%         10.22%         10.22%         10.22%         10.22%
+Microsoft Corporation
+Balance Sheet
+
+Fiscal Years Ending Jun. 30                                                                     2016         2017         2018         2019         2020         2021         2022         2023         2024          2025        2026E         2027E           2028E           2029E           2030E           2031E           2032E
+Assets:
+    Current Assets:
+            Cash and cash equivalents                                                       6,510.00     7,663.00    11,946.00    11,356.00    13,576.00    14,224.00    13,931.00    34,704.00    18,315.00     30,242.00     51,042.99     75,271.57       90,219.66      127,445.38      172,673.00      239,615.31      318,566.74
+            Short-term investments including securities loaned                            106,730.00   125,318.00   121,822.00   122,463.00   122,951.00   116,110.00    90,826.00    76,558.00    57,228.00     64,323.00     67,056.73     69,906.64       72,877.67       75,974.97       79,203.91       82,570.07       86,079.30
+        Total cash, cash equivalents, and short-term investments                          113,240.00   132,981.00   133,768.00   133,819.00   136,527.00   130,334.00   104,757.00   111,262.00    75,543.00     94,565.00    118,099.72    145,178.21      163,097.33      203,420.36      251,876.91      322,185.38      404,646.05
+            Accounts receivable, net of allowance for doubtful accounts                    18,277.00    22,431.00    26,481.00    29,524.00    32,011.00    38,043.00    44,261.00    48,688.00    56,924.00     69,905.00     74,562.10     88,436.20      105,373.57      127,492.46      152,551.53      178,239.06      203,729.51
+            Inventories                                                                     2,251.00     2,181.00     2,662.00     2,063.00     1,895.00     2,636.00     3,742.00     2,500.00     1,246.00        938.00      1,561.33      1,561.33        1,561.33        1,561.33        1,561.33        1,561.33        1,561.33
+            Other current assets                                                            5,892.00     5,103.00     6,751.00    10,146.00    11,482.00    13,393.00    16,924.00    21,807.00    26,021.00     25,723.00     29,196.86     34,629.65       41,261.95       49,923.21       59,735.79       69,794.46       79,775.95
+        Total current assets                                                              139,660.00   162,696.00   169,662.00   175,552.00   181,915.00   184,406.00   169,684.00   184,257.00   159,734.00    191,131.00    223,420.01    269,805.40      311,294.18      382,397.36      465,725.55      571,780.23      689,712.84
+            Property and equipment, net of accumulated depreciation                        18,356.00    23,734.00    29,460.00    36,477.00    44,151.00    59,715.00    74,398.00    95,641.00   135,591.00    204,966.00    285,170.31    364,966.28      442,326.29      513,082.69      573,511.72      640,931.21      705,830.84
+            Operating lease right-of-use assets                                             6,300.00     6,555.00     6,686.00     7,379.00     8,753.00    11,088.00    13,148.00    14,346.00    18,961.00     24,823.00     34,536.37     44,200.30       53,569.20       62,138.36       69,456.79       77,621.83       85,481.68
+            Equity and other investments                                                   10,431.00     6,023.00     1,862.00     2,649.00     2,965.00     5,984.00     6,891.00     9,879.00    14,600.00     15,405.00     16,829.96     18,386.73       20,087.51       21,945.60       23,975.57       26,193.31       28,616.19
+            Goodwill                                                                       17,872.00    35,122.00    35,683.00    42,026.00    43,351.00    49,711.00    67,524.00    67,886.00   119,220.00    119,509.00    119,509.00    119,509.00      119,509.00      119,509.00      119,509.00      119,509.00      119,509.00
+            Intangible assets, net                                                          3,733.00    10,106.00     8,053.00     7,750.00     7,038.00     7,800.00    11,298.00     9,366.00    27,597.00     22,604.00     18,010.00     15,109.00       13,075.00       11,224.00        9,842.00        8,748.44        7,654.89
+            Other long-term assets                                                          3,416.00     6,076.00     7,442.00    14,723.00    13,138.00    15,075.00    21,897.00    30,601.00    36,460.00     40,565.00     39,011.52     46,270.56       55,132.34       66,705.13       79,816.24       93,256.17      106,592.99
+Total assets                                                                              193,468.00   250,312.00   258,848.00   286,556.00   301,311.00   333,779.00   364,840.00   411,976.00   512,163.00    619,003.00    736,487.18    878,247.27    1,014,993.52    1,177,002.15    1,341,836.87    1,538,040.19    1,743,398.44
+                                                                                            6,300.00
+Liabilities and stockholders' equity
+    Current liabilities:
+         Accounts payable                                                                   6,898.00     7,390.00     8,617.00     9,382.00    12,530.00    15,163.00    19,000.00    18,095.00    21,996.00     27,724.00     29,276.83     34,724.49      41,374.96       50,059.94       59,899.39       69,985.61       79,994.44
+         Short-term debt                                                                   12,904.00     9,072.00          -            -            -            -            -            -       6,693.00           -               -             -              -               -               -               -               -
+         Current portion of long-term debt                                                       -       1,049.00     3,998.00     5,516.00     3,749.00     8,072.00     2,749.00     5,247.00     2,249.00      2,999.00      3,000.00      9,250.00              -        2,054.00               -        3,490.20        3,490.20
+         Accrued compensation                                                               5,264.00     5,819.00     6,103.00     6,830.00     7,874.00    10,057.00    10,661.00    11,009.00    12,564.00     13,709.00     17,149.67     20,340.79      24,236.47       29,323.93       35,087.64       40,995.91       46,858.85
+         Income taxes                                                                         580.00       718.00     2,121.00     5,665.00     2,130.00     2,174.00     4,067.00     4,152.00     5,017.00      7,211.00      8,768.05      9,448.89      11,030.12       13,338.46       16,062.23       20,045.22       23,606.46
+         Short-term unearned revenue                                                       27,468.00    24,013.00    28,905.00    32,676.00    36,000.00    41,525.00    45,538.00    50,901.00    57,582.00     64,555.00     76,655.76     90,919.43     108,332.39      131,072.36      156,835.07      183,243.90      209,450.10
+         Other current liabilities                                                          5,949.00     7,684.00     8,744.00     9,351.00    10,027.00    11,666.00    13,067.00    14,745.00    19,185.00     25,020.00     23,653.26     28,054.53      33,427.55       40,444.30       48,393.77       56,542.60       64,628.91
+    Total current liabilities                                                              59,357.00    55,745.00    58,488.00    69,420.00    72,310.00    88,657.00    95,082.00   104,149.00   125,286.00    141,218.00    158,503.56    192,738.12     218,401.48      266,293.00      316,278.10      374,303.43      428,028.95
+         Long-term debt                                                                    40,557.00    76,073.00    72,242.00    66,662.00    59,578.00    50,074.00    47,032.00    41,990.00    42,688.00     40,152.00     46,745.55     54,760.90      63,067.22       71,577.10       79,734.00       88,549.27       97,169.89
+         Long-term income taxes                                                                  -      13,485.00    30,265.00    29,612.00    29,432.00    27,190.00    26,069.00    25,560.00    27,931.00     25,986.00     25,986.00     25,986.00      25,986.00       25,986.00       25,986.00       25,986.00       25,986.00
+         Other long-term liabilities excluding long-term income taxes                            -       3,549.00     5,211.00     7,581.00    10,632.00    13,427.00    15,526.00    17,981.00    27,064.00     45,186.00     59,426.81     76,055.54      92,176.64      106,921.60      119,514.45      133,564.03      147,088.51
+         Long-term unearned revenue                                                         6,441.00     2,643.00     3,815.00     4,530.00     3,180.00     2,616.00     2,870.00     2,912.00     2,602.00      2,710.00      4,110.08      4,874.86       5,808.50        7,027.76        8,409.09        9,825.06       11,230.17
+         Deferred income taxes                                                              1,476.00     5,734.00       541.00       233.00       204.00       198.00       230.00       433.00     2,618.00      2,835.00      4,928.69      7,184.95       9,818.79       13,003.83       16,839.27       21,625.78       27,262.68
+         Operating lease liabilities                                                             -       5,372.00     5,568.00     6,188.00     7,671.00     9,629.00    11,489.00    12,728.00    15,497.00     17,437.00     28,218.79     36,114.93      43,770.02       50,771.66       56,751.37       63,422.81       69,844.89
+Total liabilities                                                                         107,831.00   162,601.00   176,130.00   184,226.00   183,007.00   191,791.00   198,298.00   205,753.00   243,686.00    275,524.00    327,919.48    397,715.30     459,028.65      541,580.96      623,512.27      717,276.38      806,611.08
+Stockholders' Equity
+         Common stock and paid-in capital                                                  68,178.00    69,315.00    71,223.00  78,520.00  80,552.00        83,111.00    86,939.00  93,718.00     100,923.00    109,095.00    109,095.50    109,096.00      109,096.50      109,097.00      109,097.50      109,098.00      109,098.50
+         Retained earnings / deficit                                                        2,282.00    17,769.00    13,682.00  24,150.00  34,566.00        57,055.00    84,281.00 118,848.00     173,144.00    237,731.00    302,819.20    374,782.97      450,215.36      529,671.19      612,574.11      715,012.81      831,035.85
+         Accumulated other comprehensive income                                             1,537.00       627.00    (2,187.00)   (340.00)  3,186.00         1,822.00    (4,678.00) (6,343.00)     (5,590.00)    (3,347.00)    (3,347.00)    (3,347.00)      (3,347.00)      (3,347.00)      (3,347.00)      (3,347.00)      (3,347.00)
+         Retained earnings / deficit , including accumulated other comprehensive income     3,819.00    18,396.00    11,495.00  23,810.00  37,752.00        58,877.00    79,603.00 112,505.00     167,554.00    234,384.00    299,472.20    480,531.97      555,964.86      635,421.19      718,324.61      820,763.81      936,787.35
+Total stockholders' equity                                                                 71,997.00    87,711.00    82,718.00 102,330.00 118,304.00       141,988.00   166,542.00 206,223.00     268,477.00    343,479.00    408,567.70    480,531.97      555,964.86      635,421.19      718,324.61      820,763.81      936,787.35
+Total liabilities and stockholders' equity                                                179,828.00   250,312.00   258,848.00   286,556.00   301,311.00   333,779.00   364,840.00   411,976.00   512,163.00    619,003.00    736,487.18    878,247.27    1,014,993.52    1,177,002.15    1,341,836.87    1,538,040.19    1,743,398.44
+Microsoft Corporation
+Historical Cash Flow Statement
+
+Fiscal Years Ending Jun. 30                                                                                     2016         2017           2018           2019           2020           2021           2022          2023          2024         2025
+
+    Net income / loss                                                                                      20,539.00    25,489.00     16,571.00     39,240.00      44,281.00      61,271.00      72,738.00      72,361.00     88,136.00    101,832.00
+Adjustments to reconclie net income to net cash from operations
+    Depreciation, Amortization & Other                                                                      6,622.00     8,778.00     10,261.00     11,682.00      12,796.00      11,686.00      14,460.00      13,861.00     22,287.00     34,153.00
+    Stock-based compensation expense                                                                        2,668.00     3,266.00      3,940.00      4,652.00       5,289.00       6,118.00       7,502.00       9,611.00     10,734.00     11,974.00
+    Net recognized losses / gains on investments and derivatives                                             (223.00)   (2,073.00)    (2,212.00)      (792.00)       (219.00)     (1,249.00)       (409.00)        196.00        305.00        609.00
+    Deferred income taxes                                                                                   2,479.00      (829.00)    (5,143.00)    (6,463.00)         11.00        (150.00)     (5,702.00)     (6,059.00)    (4,738.00)    (7,056.00)
+Changes in operating assets and liabilities
+    Accounts receivable                                                                                       562.00    (1,216.00)     (3,862.00)     (2,812.00)     (2,577.00)     (6,481.00)     (6,834.00)     (4,087.00)   (7,191.00) (10,581.00)
+    Inventories                                                                                               600.00        50.00        (465.00)        597.00         168.00        (737.00)     (1,123.00)      1,242.00     1,284.00       309.00
+    Other current assets excluding inventories                                                             (1,212.00)    1,028.00        (952.00)     (1,718.00)     (2,330.00)       (932.00)       (709.00)     (1,991.00)   (1,648.00)   (3,044.00)
+    Other long-term assets                                                                                 (1,110.00)     (917.00)       (285.00)     (1,834.00)     (1,037.00)     (3,459.00)     (2,805.00)     (2,833.00)   (6,817.00)   (2,950.00)
+    Accounts payable                                                                                           88.00        81.00       1,148.00         232.00       3,018.00       2,798.00       2,943.00      (2,721.00)    3,545.00       569.00
+    Other current liabilities excluding accounts payable                                                     (179.00)      356.00         798.00       1,419.00       1,346.00       4,149.00       2,344.00       2,272.00     4,867.00     5,922.00
+    Other long-term liabilities                                                                              (406.00)     (118.00)        (20.00)        591.00       1,348.00       1,402.00         825.00         553.00       749.00      (975.00)
+    Unearned revenue                                                                                        2,565.00     3,820.00       5,922.00       4,462.00       2,212.00       4,633.00       5,109.00       5,535.00     5,348.00     5,438.00
+    Income taxes                                                                                             (298.00)    1,792.00      18,183.00       2,929.00      (3,631.00)     (2,309.00)        696.00        (358.00)    1,687.00       (38.00)
+Changes in operating assets and liabilities                                                                   610.00     4,876.00      20,467.00       3,866.00      (1,483.00)       (936.00)        446.00      (2,388.00)    1,824.00    (5,350.00)
+Net cash from operations                                                                                   33,325.00    39,507.00      43,884.00      52,185.00      60,675.00      76,740.00      89,035.00      87,582.00 118,548.00 136,162.00
+Adjustments to reconcile net income / loss to net cash from operations                                     12,786.00    14,018.00      27,313.00      12,945.00      16,394.00      15,469.00      16,297.00      15,221.00    30,412.00    34,330.00
+Net cash from / used in financing                                                                          (8,393.00)    8,408.00     (33,590.00)   (36,887.00)    (46,031.00)    (48,486.00)    (58,876.00)    (43,935.00) (37,757.00) (51,699.00)
+    Proceeds from issuance / repayments of short-term debt, maturities of 90 days or less, net              7,195.00    (4,963.00)     (7,324.00)   -              -              -                      -              -       5,250.00    (5,746.00)
+    Proceeds from issuance of debt                                                                         13,884.00    44,344.00       7,183.00    -              -              -                      -              -      24,395.00          -
+    Cash premium on debt exchange                                                                      -            -                        -              -        (3,417.00)     (1,754.00)   -              -            -            -
+    Repayments of debt                                                                                   (2,796.00)    (7,922.00)     (10,060.00)     (4,000.00)     (5,518.00)     (3,750.00)     (9,023.00)     (2,750.00) (29,070.00)    (3,216.00)
+    Common stock issued                                                                                     668.00        772.00        1,002.00       1,142.00       1,343.00       1,693.00       1,841.00       1,866.00     2,002.00     2,056.00
+    Common stock repurchased                                                                            (15,969.00) (11,788.00)       (10,721.00)   (19,543.00)    (22,968.00)    (27,385.00)    (32,696.00)    (22,245.00) (17,254.00) (18,420.00)
+    Common stock cash dividends paid                                                                    (11,006.00) (11,845.00)       (12,699.00)   (13,811.00)    (15,137.00)    (16,521.00)    (18,135.00)    (19,800.00) (21,771.00) (24,082.00)
+    Other                                                                                                  (369.00)      (190.00)        (971.00)       (675.00)       (334.00)       (769.00)       (863.00)     (1,006.00)   (1,309.00)   (2,291.00)
+Net cash from / used in investing                                                                       (23,950.00) (46,781.00)        (6,061.00)   (15,773.00)    (12,223.00)    (27,577.00)    (30,311.00)    (22,680.00) (96,970.00) (72,599.00)
+    Additions to property and equipment                                                                  (8,343.00)    (8,129.00)     (11,632.00)   (13,925.00)    (15,441.00)    (20,622.00)    (23,886.00)    (28,107.00) (44,477.00) (64,551.00)
+    Acquisition of companies, net of cash acquired, and purchases of intangible and other assets         (1,393.00) (25,944.00)          (888.00)     (2,388.00)     (2,521.00)     (8,909.00)   (22,038.00)      (1,670.00) (69,132.00)    (5,978.00)
+    Purchases of investments                                                                           (129,758.00) (176,905.00)     (137,380.00)   (57,697.00)    (77,190.00)    (62,924.00)    (26,456.00)    (37,651.00) (17,732.00) (29,775.00)
+    Maturities of investments                                                                            22,054.00     28,044.00       26,360.00      20,043.00      66,449.00      51,792.00      16,451.00      33,510.00    24,775.00    16,079.00
+    Sales of investments                                                                                 93,287.00    136,350.00      117,577.00      38,194.00      17,721.00      14,008.00      28,443.00      14,354.00    10,894.00     9,309.00
+    Securities lending payable                                                                              203.00       (197.00)         (98.00)           -        (1,241.00)       (922.00)     (2,825.00)     (3,116.00)   (1,298.00)    2,317.00
+Net change in cash and cash equivalents before effect of exchange rates on cash and cash equivalents        982.00      1,134.00        4,233.00        (475.00)      2,421.00         677.00        (152.00)     20,967.00 (16,179.00)     11,864.00
+Effect of foreign exchange rates on cash and cash equivalents                                               (67.00)        19.00           50.00        (115.00)       (201.00)        (29.00)       (141.00)       (194.00)     (210.00)       63.00
+Net change in cash and cash equivalents                                                                     915.00      1,153.00        4,283.00        (590.00)      2,220.00         648.00        (293.00)     20,773.00 (16,389.00)     11,927.00
+Cash and cash equivalents, beginning of period                                                            5,595.00      6,510.00        7,663.00      11,946.00      11,356.00      13,576.00      14,224.00      13,931.00    34,704.00    18,315.00
+Cash and cash equivalents, end of period                                                                  6,510.00      7,663.00       11,946.00      11,356.00      13,576.00      14,224.00      13,931.00      34,704.00    18,315.00    30,242.00
+Microsoft Corporation
+Forecasted Cash Flow Statement
+
+Fiscal Years Ending Jun. 30                                                    2026E          2027E          2028E          2029E          2030E          2031E          2032E
+Operating Cash Flows
+Net Income                                                               122,801.56     132,337.07     154,483.10     186,812.80     224,960.72     280,744.73     330,621.89
+Depreciation                                                              42,295.69      61,079.03      79,363.43      99,190.58     120,272.41     121,858.21     131,115.53
+Change in Short-term investments including securities loaned              (2,733.73)     (2,849.91)     (2,971.03)     (3,097.30)     (3,228.94)     (3,366.17)     (3,509.23)
+Change in Accounts receivable, net of allowance for doubtful accounts     (4,657.10)    (13,874.10)    (16,937.37)    (22,118.89)    (25,059.07)    (25,687.54)    (25,490.45)
+Change in Inventories                                                       (623.33)           -              -              -              -              -              -
+Change in Other current assets                                            (3,473.86)     (5,432.79)     (6,632.30)     (8,661.27)     (9,812.57)    (10,058.67)     (9,981.49)
+Change in Accounts payable                                                 1,552.83       5,447.67       6,650.46       8,684.99       9,839.45      10,086.22      10,008.83
+Change in Accrued compensation                                             3,440.67       3,191.11       3,895.68       5,087.46       5,763.72       5,908.27       5,862.94
+Change in Short-term unearned revenue                                     12,100.76      14,263.67      17,412.96      22,739.98      25,762.71      26,408.82      26,206.20
+Change in Other current liabilities                                       (1,366.74)      4,401.27       5,373.02       7,016.75       7,949.46       8,148.83       8,086.31
+Change in Other long-term liabilities excluding long-term income taxes    14,240.81      16,628.73      16,121.10      14,744.97      12,592.84      14,049.59      13,524.47
+Change in Long-term unearned revenue                                       1,400.08         764.78         933.64       1,219.26       1,381.33       1,415.97       1,405.11
+Cash Provided or used from Operating Activities                          184,977.63     215,956.53     257,692.69     311,619.32     370,422.06     429,508.26     487,850.11
+
+Investing Cash Flows
+Change in Property and equipment                                         (122,500.00)   (140,875.00)   (156,723.44)   (169,946.98)   (180,701.43)   (189,277.69)   (196,015.17)
+Change in Operating lease right-of-use assets                              (9,713.37)     (9,663.92)     (9,368.91)     (8,569.16)     (7,318.43)     (8,165.03)     (7,859.86)
+Change in Equity and other investments                                     (1,424.96)     (1,556.77)     (1,700.77)     (1,858.09)     (2,029.97)     (2,217.74)     (2,422.88)
+Change in Goodwill                                                               -              -              -              -              -              -              -
+Change in Intangible assets, net                                            4,594.00       2,901.00       2,034.00       1,851.00       1,382.00       1,093.56       1,093.56
+Change in Other long-term assets                                            1,553.48      (7,259.04)     (8,861.77)    (11,572.79)    (13,111.11)    (13,439.93)    (13,336.82)
+Change in Income taxes                                                      1,557.05         680.84       1,581.23       2,308.35       2,723.77       3,982.99       3,561.24
+Change in Long-term income taxes                                                 -              -              -              -              -              -              -
+Change in Deferred income taxes                                             2,093.69       2,256.26       2,633.84       3,185.04       3,835.44       4,786.52       5,636.89
+Change in Operating lease liabilities                                      10,781.79       7,896.14       7,655.09       7,001.64       5,979.70       6,671.44       6,422.09
+Cash Provided or used from Investing Activities                          (113,058.33)   (145,620.49)   (162,750.73)   (177,601.00)   (189,240.04)   (196,565.90)   (202,920.95)
+
+Financing Cash Flows
+Change in Short-term debt                                                        -              -              -              -              -              -              -
+Change in Current portion of long-term debt                                     1.00       6,250.00      (9,250.00)      2,054.00      (2,054.00)      3,490.20            -
+Change in Long-term debt                                                    6,593.55       8,015.35       8,306.32       8,509.88       8,156.90       8,815.27       8,620.62
+Change in Common stock and paid-in capital                                      0.50           0.50           0.50           0.50           0.50           0.50           0.50
+Change in Accumulated other comprehensive income                                 -              -              -              -              -              -              -
+Share Buybacks                                                            (30,121.94)    (30,231.00)    (46,246.89)    (71,863.51)   (103,912.31)   (137,575.79)   (171,370.50)
+Dividends Paid                                                            (27,591.41)    (30,142.30)    (32,803.81)    (35,493.46)    (38,145.49)    (40,730.24)    (43,228.35)
+Cash Provided or used from Financing Activites                            (51,118.31)    (46,107.45)    (79,993.88)    (96,792.60)   (135,954.40)   (166,000.05)   (205,977.72)
+
+Change in Cash                                                            20,800.99      24,228.59      14,948.08      37,225.73      45,227.61      66,942.31      78,951.44
+Cash at Beginning of Period                                               30,242.00      51,042.99      75,271.57      90,219.66     127,445.38     172,673.00     239,615.31
+Cash at End of Period                                                     51,042.99      75,271.57      90,219.66     127,445.38     172,673.00     239,615.31     318,566.74
+Microsoft Corporation
+Common Size Income Statement
+
+Fiscal Years Ending Jun. 30                    2016      2017      2018      2019      2020      2021      2022      2023      2024      2025     2026E     2027E     2028E     2029E     2030E     2031E     2032E
+Revenues
+    Product                                  73.87%    66.08%    58.44%    52.50%    47.58%    42.28%    36.68%    30.53%    26.42%    22.70%    18.26%    17.47%    16.83%    16.75%    16.50%    16.29%    16.10%
+    Service and other                        26.13%    33.92%    41.56%    47.50%    52.42%    57.72%    63.32%    69.47%    73.58%    77.30%    81.74%    82.53%    83.17%    83.25%    83.50%    83.71%    83.90%
+Total revenue                               100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%
+Cost of revenue
+    Product                                 -18.89%   -14.80%   -13.04%   -12.00%   -10.30%   -10.14%    -8.89%    -7.75%    -5.32%    -3.58%    -2.88%    -2.76%    -2.65%    -2.64%    -2.60%    -2.57%    -2.54%
+    Service and other                        -9.81%   -11.58%   -12.41%   -12.81%   -12.97%   -13.98%   -15.42%   -16.79%   -15.82%   -15.47%   -16.36%   -16.52%   -16.65%   -16.66%   -16.71%   -16.76%   -16.79%
+    Depreciation, amortization, and other    -7.26%    -9.09%    -9.30%    -9.28%    -8.95%    -6.95%    -7.29%    -6.54%    -9.09%   -12.12%   -13.18%   -16.04%   -17.49%   -18.07%   -18.31%   -15.88%   -14.95%
+Total cost of revenue                       -35.96%   -35.48%   -34.75%   -34.10%   -32.22%   -31.07%   -31.60%   -31.08%   -30.24%   -31.18%   -32.42%   -35.32%   -36.80%   -37.38%   -37.63%   -35.20%   -34.28%
+Gross margin                                 64.04%    64.52%    65.25%    65.90%    67.78%    68.93%    68.40%    68.92%    69.76%    68.82%    67.58%    64.68%    63.20%    62.62%    62.37%    64.80%    65.72%
+    Research and development                -13.15%   -13.50%   -13.34%   -13.41%   -13.47%   -12.32%   -12.36%   -12.83%   -12.04%   -11.53%   -11.30%   -11.08%   -11.08%   -11.08%   -11.08%   -11.08%   -11.08%
+    Sales and marketing                     -16.06%   -16.01%   -15.83%   -14.47%   -13.70%   -11.97%   -11.01%   -10.74%    -9.98%    -9.11%    -8.65%    -8.22%    -7.81%    -7.42%    -7.05%    -6.69%    -6.36%
+    General and administrative               -5.01%    -4.64%    -4.31%    -3.88%    -3.57%    -3.04%    -2.98%    -3.57%    -3.10%    -2.56%    -2.31%    -2.08%    -1.87%    -1.68%    -1.51%    -1.36%    -1.23%
+Total operating expenses                    -34.21%   -34.15%   -33.48%   -31.76%   -30.75%   -27.33%   -26.35%   -27.15%   -25.12%   -23.20%   -22.26%   -21.37%   -20.75%   -20.17%   -19.64%   -19.13%   -18.66%
+Operating income / loss                      29.83%    30.37%    31.77%    34.14%    37.03%    41.59%    42.06%    41.77%    44.64%    45.62%    45.32%    43.31%    42.45%    42.45%    42.74%    45.66%    47.06%
+Other income / expense, net                  -0.48%     0.91%     1.28%     0.58%     0.05%     0.71%     0.17%     0.37%    -0.67%    -1.74%     2.49%     0.13%     0.11%     0.09%     0.08%     0.07%     0.06%
+Income / loss before income taxes            29.34%    31.28%    33.05%    34.72%    37.08%    42.30%    42.22%    42.14%    43.97%    43.88%    47.82%    43.44%    42.56%    42.54%    42.81%    45.73%    47.12%
+Provision for income taxes                   -5.59%    -4.57%   -18.03%    -3.53%    -6.12%    -5.85%    -5.54%    -8.00%    -8.02%    -7.74%    -9.56%    -8.69%    -8.51%    -8.51%    -8.56%    -9.15%    -9.42%
+Net income / loss                           23.75%    26.71%    15.02%    31.18%    30.96%    36.45%    36.69%    34.15%    35.96%    36.15%    38.25%    34.76%    34.05%    34.03%    34.25%    36.58%    37.69%
+Microsoft Corporation
+Common Size Balance Sheet
+
+Fiscal Years Ending Jun. 30                                                                     2016      2017      2018      2019      2020      2021      2022      2023      2024      2025     2026E     2027E     2028E     2029E     2030E     2031E     2032E
+Assets:
+     Current Assets:
+               Cash and cash equivalents                                                       7.14%     7.94%    10.82%     9.02%     9.49%     8.46%    7.03%    16.38%     7.47%    10.73%    15.90%     19.77%   19.89%    23.22%    26.29%    31.22%    36.32%
+               Short-term investments including securities loaned                            117.09%   129.77%   110.39%    97.31%    85.97%    69.08%   45.81%    36.13%    23.35%    22.83%    20.89%     18.36%   16.06%    13.84%    12.06%    10.76%     9.81%
+          Total cash, cash equivalents, and short-term investments                           124.23%   137.70%   121.21%   106.34%    95.46%    77.54%   52.84%    52.50%    30.82%    33.57%    36.79%     38.13%   35.95%    37.06%    38.35%    41.98%    46.13%
+               Accounts receivable, net of allowance for doubtful accounts                    20.05%    23.23%    24.00%    23.46%    22.38%    22.63%   22.32%    22.98%    23.22%    24.81%    23.23%     23.23%   23.23%    23.23%    23.23%    23.23%    23.23%
+               Inventories                                                                     2.47%     2.26%     2.41%     1.64%     1.33%     1.57%    1.89%     1.18%     0.51%     0.33%     0.49%      0.41%    0.34%     0.28%     0.24%     0.20%     0.18%
+               Other current assets                                                            6.46%     5.28%     6.12%     8.06%     8.03%     7.97%    8.54%    10.29%    10.62%     9.13%     9.09%      9.09%    9.09%     9.09%     9.09%     9.09%     9.09%
+          Total current assets                                                               153.21%   168.47%   153.74%   139.50%   127.20%   109.71%   85.58%    86.95%    65.17%    67.84%    69.60%     70.86%   68.61%    69.66%    70.91%    74.51%    78.63%
+               Property and equipment, net of accumulated depreciation                        20.14%    24.58%    26.69%    28.99%    30.87%    35.53%   37.52%    45.13%    55.32%    72.75%    88.83%     95.85%   97.50%    93.47%    87.32%    83.52%    80.47%
+               Operating lease right-of-use assets                                             6.91%     6.79%     6.06%     5.86%     6.12%     6.60%    6.63%     6.77%     7.74%     8.81%    10.76%     11.61%   11.81%    11.32%    10.57%    10.11%     9.75%
+               Equity and other investments                                                   11.44%     6.24%     1.69%     2.11%     2.07%     3.56%    3.48%     4.66%     5.96%     5.47%     5.24%      4.83%    4.43%     4.00%     3.65%     3.41%     3.26%
+               Goodwill                                                                       19.61%    36.37%    32.33%    33.40%    30.31%    29.57%   34.06%    32.03%    48.64%    42.42%    37.23%     31.39%   26.34%    21.77%    18.20%    15.57%    13.62%
+               Intangible assets, net                                                          4.10%    10.46%     7.30%     6.16%     4.92%     4.64%    5.70%     4.42%    11.26%     8.02%     5.61%      3.97%    2.88%     2.04%     1.50%     1.14%     0.87%
+               Other long-term assets                                                          3.75%     6.29%     6.74%    11.70%     9.19%     8.97%   11.04%    14.44%    14.87%    14.40%    12.15%     12.15%   12.15%    12.15%    12.15%    12.15%    12.15%
+Total assets                                                                                 212.24%   259.20%   234.55%   227.71%   210.68%   198.57%   184.01%   194.41%   208.94%   219.72%   229.42%   230.65%   223.72%   214.42%   204.30%   200.42%   198.75%
+
+Liabilities and stockholders' equity
+      Current liabilities:
+            Accounts payable                                                                   7.57%     7.65%     7.81%     7.46%     8.76%     9.02%     9.58%    8.54%      8.97%     9.84%     9.12%     9.12%     9.12%     9.12%     9.12%     9.12%     9.12%
+            Short-term debt                                                                   14.16%     9.39%     0.00%     0.00%     0.00%     0.00%     0.00%    0.00%      2.73%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%
+            Current portion of long-term debt                                                  0.00%     1.09%     3.62%     4.38%     2.62%     4.80%     1.39%    2.48%      0.92%     1.06%     0.93%     2.43%     0.00%     0.37%     0.00%     0.45%     0.40%
+            Accrued compensation                                                               5.77%     6.03%     5.53%     5.43%     5.51%     5.98%     5.38%    5.20%      5.13%     4.87%     5.34%     5.34%     5.34%     5.34%     5.34%     5.34%     5.34%
+            Income taxes                                                                       0.64%     0.74%     1.92%     4.50%     1.49%     1.29%     2.05%    1.96%      2.05%     2.56%     2.73%     2.48%     2.43%     2.43%     2.45%     2.61%     2.69%
+            Short-term unearned revenue                                                       30.13%    24.87%    26.19%    25.97%    25.17%    24.70%    22.97%   24.02%     23.49%    22.91%    23.88%    23.88%    23.88%    23.88%    23.88%    23.88%    23.88%
+            Other current liabilities                                                          6.53%     7.96%     7.92%     7.43%     7.01%     6.94%     6.59%    6.96%      7.83%     8.88%     7.37%     7.37%     7.37%     7.37%     7.37%     7.37%     7.37%
+     Total current liabilities                                                                65.12%    57.72%    53.00%    55.16%    50.56%    52.74%    47.96%   49.15%     51.11%    50.13%    49.37%    50.62%    48.14%    48.51%    48.15%    48.77%    48.80%
+            Long-term debt                                                                    44.49%    78.77%    65.46%    52.97%    41.66%    29.79%    23.72%   19.81%     17.42%    14.25%    14.56%     6.82%    13.90%    13.04%    12.14%    11.54%    11.08%
+            Long-term income taxes                                                             0.00%    13.96%    27.42%    23.53%    20.58%    16.18%    13.15%   12.06%     11.39%     9.22%     8.09%     6.82%     5.73%     4.73%     3.96%     3.39%     2.96%
+            Other long-term liabilities excluding long-term income taxes                       0.00%     3.68%     4.72%     6.02%     7.43%     7.99%     7.83%    8.49%     11.04%    16.04%    18.51%    19.97%    20.32%    19.48%    18.20%    17.40%    16.77%
+            Long-term unearned revenue                                                         7.07%     2.74%     3.46%     3.60%     2.22%     1.56%     1.45%    1.37%      1.06%     0.96%     1.28%     1.28%     1.28%     1.28%     1.28%     1.28%     1.28%
+            Deferred income taxes                                                              1.62%     5.94%     0.49%     0.19%     0.14%     0.12%     0.12%    0.20%      1.07%     1.01%     1.54%     1.89%     2.16%     2.37%     2.56%     2.82%     3.11%
+            Operating lease liabilities                                                        0.00%     5.56%     5.05%     4.92%     5.36%     5.73%     5.79%    6.01%      6.32%     6.19%     8.79%     9.48%     9.65%     9.25%     8.64%     8.26%     7.96%
+Total liabilities                                                                            118.30%   168.37%   159.60%   146.39%   127.96%   114.10%   100.01%   97.09%     99.41%    97.80%   102.15%   104.45%   101.18%    98.66%    94.93%    93.47%    91.96%
+Stockholders' Equity                                                                           0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%    0.00%      0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%
+            Common stock and paid-in capital                                                  74.79%    71.78%    64.54%    62.40%    56.32%    49.44%    43.85%   44.22%     41.17%    38.72%    33.98%    28.65%    24.05%    19.87%    16.61%    14.22%    12.44%
+            Retained earnings / deficit                                                        2.50%    18.40%    12.40%    19.19%    24.17%    33.94%    42.51%   56.08%     70.64%    84.38%    94.33%    98.43%    99.23%    96.49%    93.26%    93.17%    94.74%
+            Accumulated other comprehensive income                                             1.69%     0.65%    -1.98%    -0.27%     2.23%     1.08%    -2.36%   -2.99%     -2.28%    -1.19%    -1.04%    -0.88%    -0.74%    -0.61%    -0.51%    -0.44%    -0.38%
+            Retained earnings / deficit , including accumulated other comprehensive income     4.19%    19.05%    10.42%    18.92%    26.40%    35.03%    40.15%   53.09%     68.36%    83.20%    93.29%   126.20%   122.54%   115.76%   109.37%   106.95%   106.80%
+Total stockholders' equity                                                                    78.98%    90.83%    74.95%    81.32%    82.72%    84.47%    84.00%   97.31%    109.53%   121.92%   127.27%   126.20%   122.54%   115.76%   109.37%   106.95%   106.80%
+Total liabilities and stockholders' equity                                                   197.28%   259.20%   234.55%   227.71%   210.68%   198.57%   184.01%   194.41%   208.94%   219.72%   229.42%   230.65%   223.72%   214.42%   204.30%   200.42%   198.75%
+Microsoft Corporation
+Common Size Balance Sheet
+
+Fiscal Years Ending Jun. 30                                                                     2016      2017      2018      2019      2020      2021      2022      2023      2024      2025     2026E     2027E     2028E     2029E     2030E     2031E     2032E
+Assets:
+     Current Assets:
+               Cash and cash equivalents                                                      3.36%     3.06%     4.62%     3.96%     4.51%     4.26%     3.82%     8.42%     3.58%     4.89%     6.93%      8.57%    8.89%    10.83%    12.87%    15.58%    18.27%
+               Short-term investments including securities loaned                            55.17%    50.06%    47.06%    42.74%    40.81%    34.79%    24.89%    18.58%    11.17%    10.39%     9.10%      7.96%    7.18%     6.45%     5.90%     5.37%     4.94%
+          Total cash, cash equivalents, and short-term investments                           58.53%    53.13%    51.68%    46.70%    45.31%    39.05%    28.71%    27.01%    14.75%    15.28%    16.04%     16.53%   16.07%    17.28%    18.77%    20.95%    23.21%
+               Accounts receivable, net of allowance for doubtful accounts                    9.45%     8.96%    10.23%    10.30%    10.62%    11.40%    12.13%    11.82%    11.11%    11.29%    10.12%     10.07%   10.38%    10.83%    11.37%    11.59%    11.69%
+               Inventories                                                                    1.16%     0.87%     1.03%     0.72%     0.63%     0.79%     1.03%     0.61%     0.24%     0.15%     0.21%      0.18%    0.15%     0.13%     0.12%     0.10%     0.09%
+               Other current assets                                                           3.05%     2.04%     2.61%     3.54%     3.81%     4.01%     4.64%     5.29%     5.08%     4.16%     3.96%      3.94%    4.07%     4.24%     4.45%     4.54%     4.58%
+          Total current assets                                                               72.19%    65.00%    65.55%    61.26%    60.37%    55.25%    46.51%    44.73%    31.19%    30.88%    30.34%     30.72%   30.67%    32.49%    34.71%    37.18%    39.56%
+               Property and equipment, net of accumulated depreciation                        9.49%     9.48%    11.38%    12.73%    14.65%    17.89%    20.39%    23.22%    26.47%    33.11%    38.72%     41.56%   43.58%    43.59%    42.74%    41.67%    40.49%
+               Operating lease right-of-use assets                                            3.26%     2.62%     2.58%     2.58%     2.90%     3.32%     3.60%     3.48%     3.70%     4.01%     4.69%      5.03%    5.28%     5.28%     5.18%     5.05%     4.90%
+               Equity and other investments                                                   5.39%     2.41%     0.72%     0.92%     0.98%     1.79%     1.89%     2.40%     2.85%     2.49%     2.29%      2.09%    1.98%     1.86%     1.79%     1.70%     1.64%
+               Goodwill                                                                       9.24%    14.03%    13.79%    14.67%    14.39%    14.89%    18.51%    16.48%    23.28%    19.31%    16.23%     13.61%   11.77%    10.15%     8.91%     7.77%     6.85%
+               Intangible assets, net                                                         1.93%     4.04%     3.11%     2.70%     2.34%     2.34%     3.10%     2.27%     5.39%     3.65%     2.45%      1.72%    1.29%     0.95%     0.73%     0.57%     0.44%
+               Other long-term assets                                                         1.77%     2.43%     2.88%     5.14%     4.36%     4.52%     6.00%     7.43%     7.12%     6.55%     5.30%      5.27%    5.43%     5.67%     5.95%     6.06%     6.11%
+Total assets                                                                                 100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%
+
+Liabilities and stockholders' equity
+      Current liabilities:
+            Accounts payable                                                                  3.57%     2.95%     3.33%     3.27%     4.16%     4.54%     5.21%     4.39%     4.29%     4.48%     3.98%      3.95%    4.08%     4.25%     4.46%     4.55%     4.59%
+            Short-term debt                                                                   6.67%     3.62%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     1.31%     0.00%     0.00%      0.00%    0.00%     0.00%     0.00%     0.00%     0.00%
+            Current portion of long-term debt                                                 0.00%     0.42%     1.54%     1.92%     1.24%     2.42%     0.75%     1.27%     0.44%     0.48%     0.41%      1.05%    0.00%     0.17%     0.00%     0.23%     0.20%
+            Accrued compensation                                                              2.72%     2.32%     2.36%     2.38%     2.61%     3.01%     2.92%     2.67%     2.45%     2.21%     2.33%      2.32%    2.39%     2.49%     2.61%     2.67%     2.69%
+            Income taxes                                                                      0.30%     0.29%     0.82%     1.98%     0.71%     0.65%     1.11%     1.01%     0.98%     1.16%     1.19%      1.08%    1.09%     1.13%     1.20%     1.30%     1.35%
+            Short-term unearned revenue                                                      14.20%     9.59%    11.17%    11.40%    11.95%    12.44%    12.48%    12.36%    11.24%    10.43%    10.41%     10.35%   10.67%    11.14%    11.69%    11.91%    12.01%
+            Other current liabilities                                                         3.07%     3.07%     3.38%     3.26%     3.33%     3.50%     3.58%     3.58%     3.75%     4.04%     3.21%      3.19%    3.29%     3.44%     3.61%     3.68%     3.71%
+     Total current liabilities                                                               30.68%    22.27%    22.60%    24.23%    24.00%    26.56%    26.06%    25.28%    24.46%    22.81%    21.52%     21.95%   21.52%    22.62%    23.57%    24.34%    24.55%
+            Long-term debt                                                                   20.96%    30.39%    27.91%    23.26%    19.77%    15.00%    12.89%    10.19%     8.33%     6.49%     6.35%      6.24%    6.21%     6.08%     5.94%     5.76%     5.57%
+            Long-term income taxes                                                            0.00%     5.39%    11.69%    10.33%     9.77%     8.15%     7.15%     6.20%     5.45%     4.20%     3.53%      2.96%    2.56%     2.21%     1.94%     1.69%     1.49%
+            Other long-term liabilities excluding long-term income taxes                      0.00%     1.42%     2.01%     2.65%     3.53%     4.02%     4.26%     4.36%     5.28%     7.30%     8.07%      8.66%    9.08%     9.08%     8.91%     8.68%     8.44%
+            Long-term unearned revenue                                                        3.33%     1.06%     1.47%     1.58%     1.06%     0.78%     0.79%     0.71%     0.51%     0.44%     0.56%      0.56%    0.57%     0.60%     0.63%     0.64%     0.64%
+            Deferred income taxes                                                             0.76%     2.29%     0.21%     0.08%     0.07%     0.06%     0.06%     0.11%     0.51%     0.46%     0.67%      0.82%    0.97%     1.10%     1.25%     1.41%     1.56%
+            Operating lease liabilities                                                       0.00%     2.15%     2.15%     2.16%     2.55%     2.88%     3.15%     3.09%     3.03%     2.82%     3.83%      4.11%    4.31%     4.31%     4.23%     4.12%     4.01%
+Total liabilities                                                                            55.74%    64.96%    68.04%    64.29%    60.74%    57.46%    54.35%    49.94%    47.58%    44.51%    44.52%     45.29%   45.22%    46.01%    46.47%    46.64%    46.27%
+Stockholders' Equity                                                                          0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%     0.00%      0.00%    0.00%     0.00%     0.00%     0.00%     0.00%
+            Common stock and paid-in capital                                                 35.24%    27.69%    27.52%    27.40%    26.73%    24.90%    23.83%    22.75%    19.71%    17.62%    14.81%     12.42%   10.75%     9.27%     8.13%     7.09%     6.26%
+            Retained earnings / deficit                                                       1.18%     7.10%     5.29%     8.43%    11.47%    17.09%    23.10%    28.85%    33.81%    38.41%    41.12%     42.67%   44.36%    45.00%    45.65%    46.49%    47.67%
+            Accumulated other comprehensive income                                            0.79%     0.25%    -0.84%    -0.12%     1.06%     0.55%    -1.28%    -1.54%    -1.09%    -0.54%    -0.45%     -0.38%   -0.33%    -0.28%    -0.25%    -0.22%    -0.19%
+            Retained earnings / deficit , including accumulated other comprehensive income    1.97%     7.35%     4.44%     8.31%    12.53%    17.64%    21.82%    27.31%    32.71%    37.86%    40.66%     54.71%   54.78%    53.99%    53.53%    53.36%    53.73%
+Total stockholders' equity                                                                   37.21%    35.04%    31.96%    35.71%    39.26%    42.54%    45.65%    50.06%    52.42%    55.49%    55.48%     54.71%   54.78%    53.99%    53.53%    53.36%    53.73%
+Total liabilities and stockholders' equity                                                   92.95%    100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%   100.00%
+Microsoft Corporation
+Value Driver Estimation
+
+Fiscal Years Ending Jun. 30                 2016          2017          2018          2019          2020          2021          2022          2023          2024          2025          2026E          2027E          2028E          2029E          2030E          2031E          2032E
+
+NOPLAT:
+EBIT                                  27,188.00     29,608.83      35,347.08     43,253.85     53,284.41     70,302.01     83,871.98     89,102.83    110,065.66    129,364.18    146,596.64     166,444.39     194,553.11     235,378.40     283,441.20     353,493.95     416,200.48
+- ADJ TAXES                           (5,202.73)    (4,272.03)    (19,674.23)    (4,313.85)    (8,801.20)    (9,673.40)   (11,010.91)   (16,906.70)   (20,131.80)   (22,999.81)   (29,319.33)    (33,288.88)    (38,910.62)    (47,075.68)    (56,688.24)    (70,698.79)    (83,240.10)
++ Change in Deferred Taxes             2,479.00       (829.00)     (5,143.00)    (6,463.00)        11.00       (150.00)    (5,702.00)    (6,059.00)    (4,738.00)    (7,056.00)     2,093.69       2,256.26       2,633.84       3,185.04       3,835.44       4,786.52       5,636.89
+NOPLAT                                24,464.27     24,507.80      10,529.84     32,477.00     44,494.21     60,478.61     67,159.07     66,137.13     85,195.86     99,308.37    119,371.00     135,411.78     158,276.32     191,487.76     230,588.40     287,581.68     338,597.28
+
+
+
+
+EBIT
+Revenue                                91,154.00     96,571.00    110,360.00    125,843.00    143,015.00    168,088.00    198,270.00    211,915.00    245,122.00    281,724.00     321,028.33     380,763.48     453,687.60     548,920.84     656,813.05     767,411.15     877,160.69
+COGS                                  (32,780.00)   (34,261.00)   (38,353.00)   (42,910.00)   (46,078.00)   (52,232.00)   (62,650.00)   (65,863.00)   (74,114.00)   (87,831.00)   (104,067.21)   (134,472.41)   (166,936.45)   (205,163.94)   (247,145.38)   (270,162.72)   (300,699.97)
+SG&A + R&D                            (31,186.00)   (32,979.00)   (36,949.00)   (39,974.00)   (43,978.00)   (45,940.00)   (52,237.00)   (57,529.00)   (61,575.00)   (65,365.00)    (71,459.17)    (81,369.73)    (94,147.28)   (110,740.91)   (128,966.77)   (146,817.52)   (163,683.35)
+Implied Interest on Leases                              277.83        289.08        294.85        325.41        386.01        488.98        579.83        632.66        836.18       1,094.69       1,523.05       1,949.23       2,362.40       2,740.30       3,063.04       3,423.12
+EBIT                                  27,188.00      29,608.83     35,347.08     43,253.85     53,284.41     70,302.01     83,871.98     89,102.83    110,065.66    129,364.18     146,596.64     166,444.39     194,553.11     235,378.40     283,441.20     353,493.95     416,200.48
+
+Tax Rate                                    0.23          0.23          0.20          0.31          0.19          0.20          0.21          0.21          0.21          0.21           0.20           0.20           0.20           0.20           0.20           0.20           0.20
+Cost of Debt                                0.04          0.04          0.04          0.04          0.04          0.04          0.04          0.04          0.04          0.04           0.04           0.04           0.04           0.04           0.04           0.04           0.04
+ADJ TAXES
+Provision for income taxes             5,100.00      4,412.00      19,903.00      4,448.00      8,755.00      9,831.00     10,978.00     16,950.00     19,651.00     21,795.00     30,700.39      33,084.27      38,620.77      46,703.20      56,240.18      70,186.18      82,655.47
+Tax on Other income / expense, net       102.73       (204.98)       (287.45)      (225.26)       (14.32)      (233.64)       (70.26)      (163.90)       347.31      1,029.21     (1,600.00)       (100.00)       (100.00)       (100.00)       (100.00)       (100.00)       (100.00)
+Tax on Implied interest on Leases           -           65.01          58.68         91.11         60.53         76.04        103.17        120.60        133.49        175.60        218.94         304.61         389.85         472.48         548.06         612.61         684.62
+ADJ TAXES                              5,202.73      4,272.03      19,674.23      4,313.85      8,801.20      9,673.40     11,010.91     16,906.70     20,131.80     22,999.81     29,319.33      33,288.88      38,910.62      47,075.68      56,688.24      70,698.79      83,240.10
+
+Change in Deferred Taxes               2,479.00       (829.00)     (5,143.00)    (6,463.00)        11.00       (150.00)    (5,702.00)    (6,059.00)    (4,738.00)    (7,056.00)      2,093.69       2,256.26       2,633.84       3,185.04       3,835.44       4,786.52       5,636.89
+
+
+
+
+Invested Capital (IC):
+Operating Working Capital             (13,334.27)   (9,123.65)    (10,841.80)   (13,328.92)   (13,124.37)   (14,702.67)   (13,475.00)   (11,017.26)   (14,930.05)   (21,858.29)   (27,626.93)    (32,107.44)    (38,327.28)    (46,693.30)    (56,279.95)    (67,297.94)    (77,840.21)
+Net PPE                                18,356.00    23,734.00      29,460.00     36,477.00     44,151.00     59,715.00     74,398.00     95,641.00    135,591.00    204,966.00    285,170.31     364,966.28     442,326.29     513,082.69     573,511.72     640,931.21     705,830.84
+Other Operating Working Capital           708.00    19,839.00      18,235.00     24,629.00     24,375.00     29,012.00     41,413.00     50,203.00     75,801.00     79,420.00     77,734.44      91,041.07     106,599.13     124,470.57     143,387.52     161,636.35     180,639.54
+Invested Capital (IC):                  5,729.73    34,449.35      36,853.20     47,777.08     55,401.63     74,024.33    102,336.00    134,826.74    196,461.95    262,527.71    335,277.82     423,899.91     510,598.14     590,859.97     660,619.28     735,269.62     808,630.17
+
+
+Operating Assets
+Normal Cash                            6,404.73      6,785.35       7,754.20      8,842.08     10,048.63     11,810.33     13,931.00     14,889.74     17,222.95     19,794.71     22,556.34      26,753.50      31,877.35      38,568.70      46,149.51      53,920.44      61,631.74
+Accounts receivable                   18,277.00     22,431.00      26,481.00     29,524.00     32,011.00     38,043.00     44,261.00     48,688.00     56,924.00     69,905.00     74,562.10      88,436.20     105,373.57     127,492.46     152,551.53     178,239.06     203,729.51
+Inventories                            2,251.00      2,181.00       2,662.00      2,063.00      1,895.00      2,636.00      3,742.00      2,500.00      1,246.00        938.00      1,561.33       1,561.33       1,561.33       1,561.33       1,561.33       1,561.33       1,561.33
+Other Current Assets                   5,892.00      5,103.00       6,751.00     10,146.00     11,482.00     13,393.00     16,924.00     21,807.00     26,021.00     25,723.00     29,196.86      34,629.65      41,261.95      49,923.21      59,735.79      69,794.46      79,775.95
+Operating Assets                      32,824.73     36,500.35      43,648.20     50,575.08     55,436.63     65,882.33     78,858.00     87,884.74    101,413.95    116,360.71    127,876.64     151,380.68     180,074.20     217,545.71     259,998.15     303,515.29     346,698.54
+
+Operating Liabilities
+Accounts Payable                       6,898.00      7,390.00       8,617.00      9,382.00     12,530.00     15,163.00     19,000.00     18,095.00     21,996.00     27,724.00     29,276.83      34,724.49      41,374.96      50,059.94      59,899.39      69,985.61      79,994.44
+Accrued Compensation                   5,264.00      5,819.00       6,103.00      6,830.00      7,874.00     10,057.00     10,661.00     11,009.00     12,564.00     13,709.00     17,149.67      20,340.79      24,236.47      29,323.93      35,087.64      40,995.91      46,858.85
+Income Taxes                             580.00        718.00       2,121.00      5,665.00      2,130.00      2,174.00      4,067.00      4,152.00      5,017.00      7,211.00      8,768.05       9,448.89      11,030.12      13,338.46      16,062.23      20,045.22      23,606.46
+Short-term Unearned Revenue           27,468.00     24,013.00      28,905.00     32,676.00     36,000.00     41,525.00     45,538.00     50,901.00     57,582.00     64,555.00     76,655.76      90,919.43     108,332.39     131,072.36     156,835.07     183,243.90     209,450.10
+Other Current Liabilities              5,949.00      7,684.00       8,744.00      9,351.00     10,027.00     11,666.00     13,067.00     14,745.00     19,185.00     25,020.00     23,653.26      28,054.53      33,427.55      40,444.30      48,393.77      56,542.60      64,628.91
+Operating Liabilities                 46,159.00     45,624.00      54,490.00     63,904.00     68,561.00     80,585.00     92,333.00     98,902.00    116,344.00    138,219.00    155,503.56     183,488.12     218,401.48     264,239.00     316,278.10     370,813.23     424,538.75
+
+
+PPE                                   18,356.00     23,734.00      29,460.00     36,477.00     44,151.00     59,715.00     74,398.00     95,641.00    135,591.00    204,966.00    285,170.31     364,966.28     442,326.29     513,082.69     573,511.72     640,931.21     705,830.84
+
+Long-Term Operating Assets
+Intangible Assets                      3,733.00     10,106.00       8,053.00      7,750.00      7,038.00      7,800.00     11,298.00      9,366.00     27,597.00     22,604.00     18,010.00      15,109.00      13,075.00      11,224.00       9,842.00       8,748.44       7,654.89
+Other Long-term Assets                 3,416.00      6,076.00       7,442.00     14,723.00     13,138.00     15,075.00     21,897.00     30,601.00     36,460.00     40,565.00     39,011.52      46,270.56      55,132.34      66,705.13      79,816.24      93,256.17     106,592.99
+Operating lease right-of-use assets                  6,300.00       6,555.00      6,686.00      7,379.00      8,753.00     11,088.00     13,148.00     14,346.00     18,961.00     24,823.00      34,536.37      44,200.30      53,569.20      62,138.36      69,456.79      77,621.83
+Long-Term Operating Assets             7,149.00     22,482.00      22,050.00     29,159.00     27,555.00     31,628.00     44,283.00     53,115.00     78,403.00     82,130.00     81,844.52      95,915.94     112,407.63     131,498.33     151,796.60     171,461.41     191,869.71
+
+Long-Term Operating Liabilities
+Long-term Unearned Revenue             6,441.00      2,643.00       3,815.00      4,530.00      3,180.00      2,616.00      2,870.00      2,912.00      2,602.00      2,710.00       4,110.08       4,874.86       5,808.50       7,027.76       8,409.09       9,825.06     11,230.17
+Long-Term Operating Liabilities        6,441.00      2,643.00       3,815.00      4,530.00      3,180.00      2,616.00      2,870.00      2,912.00      2,602.00      2,710.00       4,110.08       4,874.86       5,808.50       7,027.76       8,409.09       9,825.06     11,230.17
+
+
+Free Cash Flow (FCF):
+    NOPLAT                            24,464.27     24,507.80      10,529.84     32,477.00     44,494.21     60,478.61     67,159.07     66,137.13     85,195.86     99,308.37    119,371.00     135,411.78     158,276.32     191,487.76     230,588.40     287,581.68     338,597.28
+    Change in IC                                    28,719.61       2,403.85     10,923.88      7,624.55     18,622.70     28,311.67     32,490.74     61,635.22     66,065.76     72,750.11      88,622.10      86,698.23      80,261.83      69,759.31      74,650.33      73,360.55
+    FCF                               24,464.27     (4,211.81)      8,125.99     21,553.13     36,869.66     41,855.91     38,847.40     33,646.39     23,560.65     33,242.61     46,620.89      46,789.68      71,578.10     111,225.93     160,829.09     212,931.35     265,236.73
+
+Return on Invested Capital (ROIC):
+    NOPLAT                            24,464.27     24,507.80      10,529.84     32,477.00     44,494.21     60,478.61     67,159.07     66,137.13     85,195.86     99,308.37    119,371.00     135,411.78     158,276.32     191,487.76     230,588.40     287,581.68     338,597.28
+    Beginning IC                                     5,729.73      34,449.35     36,853.20     47,777.08     55,401.63     74,024.33    102,336.00    134,826.74    196,461.95    262,527.71     335,277.82     423,899.91     510,598.14     590,859.97     660,619.28     735,269.62
+    ROIC                                                 428%            31%           88%           93%          109%           91%           65%           63%           51%           45%            40%            37%            38%            39%            44%            46%
+
+Economic Profit (EP):
+    Beginning IC                                      5,729.73      34,449.35     36,853.20     47,777.08     55,401.63     74,024.33    102,336.00    134,826.74    196,461.95    262,527.71     335,277.82     423,899.91     510,598.14     590,859.97     660,619.28     735,269.62
+    x (ROIC - WACC)                        (0.09)         4.19           0.21          0.79          0.84          1.00          0.82          0.55          0.54          0.41          0.36           0.31           0.28           0.28           0.30           0.34           0.37
+    EP                                          -    23,981.14       7,363.37     29,089.57     40,102.69     55,386.26     60,354.99     56,730.73     72,803.02     81,250.21     95,240.28     104,594.11     119,312.79     144,555.20     176,278.43     226,859.65     271,013.63
+Microsoft Corporation
+Weighted Average Cost of Capital (WACC) Estimation
+
+
+
+
+Cost of Equity:                                              ASSUMPTIONS:
+    Risk-Free Rate                                   4.25%   10 year treasury
+    Beta                                              1.01   factset
+    Equity Risk Premium                              5.00%   henry fund
+    Cost of Equity                                   9.30%
+
+Cost of Debt:
+    Risk-Free Rate                                   4.25%
+    Implied Default Premium                          0.16%
+    Pre-Tax Cost of Debt                             4.41%   YTM on 10 year bond
+    Marginal Tax Rate                                  20%
+    After-Tax Cost of Debt                           3.53%
+
+
+
+
+Market Value of Common Equity:                                       MV Weights
+   Total Shares Outstanding                    7,433.00
+   Current Stock Price                          $426.21
+   MV of Equity                            3,168,018.93                    98.12%
+
+Market Value of Debt:
+   Short-Term Debt                                 -
+   Current Portion of LTD                     2,999.00
+   Long-Term Debt                            40,152.00
+   PV of Operating Leases                    17,437.00
+   MV of Total Debt                          60,588.00                      1.88%
+
+
+Market Value of the Firm                   3,228,606.93                  100.00%
+
+
+                                         Estimated WACC                     9.19%
+Fiscal Years Ending Jun. 30                                   2026E        2027E        2028E        2029E        2030E        2031E          2032E
+
+DCF Model:
+ Free Cash Flow (FCF)                                     46,620.89     46,789.68    71,578.10   111,225.93   160,829.09   212,931.35     265,236.73
+ Continuing Value (CV)                                                                                                                  4,785,276.78
+ PV of FCF                                                42,696.38     39,243.79    54,980.85    78,243.42   103,613.61   125,632.57   2,823,382.44
+
+  Value of Operating Assets:                           3,267,793.06
+  Non-Operating Adjustments
+  Excess Cash                                             10,447.29
+  Short-term investments including securities loaned      64,323.00
+  Equity and other investments                            15,405.00
+  Short-term Debt                                               -
+  Current portion of LT Debt                              (2,999.00)
+  Long-term Debt                                         (40,152.00)
+  Operating lease liabilities                            (17,437.00)
+  Value of Equity                                      3,297,380.35
+  Shares Outstanding                                       7,433.00
+  Intrinsic Value of Last FYE                                443.61
+  Implied Price as of Today                                  473.46
+
+EP Model:
+  Economic Profit (EP)                                    95,240.28    104,594.11   119,312.79   144,555.20   176,278.43   226,859.65     271,013.63
+  Continuing Value (CV)                                                                                                                 4,050,007.16
+  PV of EP                                                87,223.02     87,725.95    91,647.01   101,689.35   113,566.80   133,850.47   2,389,562.74
+
+  Total PV of EP                                        3,005,265.35
+  Invested Capital (last FYE)                             262,527.71
+  Value of Operating Assets:                           3,267,793.06
+  Non-Operating Adjustments
+  Excess Cash                                             10,447.29
+  Short-term investments including securities loaned      64,323.00
+  Equity and other investments                            15,405.00
+  Short-term Debt                                               -
+  Current portion of LT Debt                              (2,999.00)
+  Long-term Debt                                         (40,152.00)
+  Operating lease liabilities                            (17,437.00)
+  Value of Equity                                      3,297,380.35
+  Shares Outstanding                                       7,433.00
+  Intrinsic Value of Last FYE                                443.61
+  Implied Price as of Today                                  473.46
+Fiscal Years Ending                   2026E   2027E   2028E   2029E   2030E   2031E    2032E
+
+EPS                              $    16.60 $ 18.06 $ 21.31 $ 26.17 $ 32.21 $ 41.36 $ 50.43
+
+Key Assumptions
+ CV growth of EPS                     2.50%
+ CV Year ROE                         40.28%
+ Cost of Equity                       9.30%
+
+Future Cash Flows
+  P/E Multiple (CV Year)                                                                            13.79
+  EPS (CV Year)                                                                                $    50.43
+  Future Stock Price                                                                           $   695.62
+  Dividends Per Share                  3.75    4.13    4.55    5.02    5.53    6.10    6.72
+  Discounted Cash Flows                3.43    3.46    3.49    3.52    3.55    3.58    3.61        373.28
+
+Intrinsic Value as of Last FYE   $   397.90
+Implied Price as of Today        $   424.67
+Microsoft Corporation
+Relative Valuation Models
+
+                                                 EPS       EPS                      Est. 5yr
+Ticker Company                   Price         2026E    2027E     P/E 26    P/E 27   EPS gr.   PEG 26   PEG 27           EV     EBITDAEV/EBITDA
+GOOGL Alphabet Inc. Class A     303.33         11.42     13.36    26.55     22.70      14.5      1.84     1.57   3,768,143     219,616    17.16
+AMZN Amazon.com, Inc.           204.79          7.77      9.42    26.36     21.74      18.6      1.42     1.17   2,545,693     205,901    12.36
+AAPL   Apple Inc.               264.35          8.46      9.29    31.26     28.46      11.2      2.79     2.54   3,890,780     160,669    24.22
+META Meta Platforms Inc Class A 643.22         29.74     34.48    21.63     18.65      19.2      1.13     0.97   1,701,724     142,548    11.94
+NVDA NVIDIA Corporation         187.98          4.68      7.77    40.13     24.18      42.1      0.95     0.57   3,504,606     135,309    25.90
+TSLA   Tesla, Inc.              411.32          1.99      2.62   207.21    157.02      65.9      3.14     2.38   1,557,611      15,513   100.41
+                                                     Average      29.19     23.15 Average        1.62     1.36             Average        18.32
+ORCL    Oracle Corporation       156.17         7.38      7.90    21.17     19.78      48.2      0.44     0.41    572,676       36,606    15.64
+CRM     Salesforce, Inc.         187.79        11.76     13.15    15.97     14.28      34.6      0.46     0.41    330,854       17,112    19.34
+SAP     SAP SE Sponsored ADR     205.20         8.53     10.00    24.05     20.51      17.9      1.34     1.15    283,995       15,733    18.05
+                                                     Average      20.40     18.19 Average        0.75     0.66            Average         17.68
+
+MSFT    Microsoft Corporation   $426.21        16.60     18.06     25.7      23.6       17.6     1.5      1.3     3730785     188892.33   19.75
+
+Implied Relative Value:
+         PEERS
+  P/E (EPS26)                             $   338.60
+  P/E (EPS27)                             $   328.42
+  PEG (EPS26)                             $   218.07
+  PEG (EPS27)                             $   208.07
+EV/EBITDA (2026)                          $   445.13
+Average                                   $   307.66
+         MAG 7
+  P/E (EPS26)                             $   484.53
+  P/E (EPS27)                             $   417.96
+  PEG (EPS26)                             $   473.38
+  PEG (EPS27)                             $   432.55
+EV/EBITDA (2026)                          $   461.36
+Average                                   $   453.95
+Microsoft Corporation
+Key Management Ratios
+
+Fiscal Years Ending Jun. 30                                2016        2017        2018        2019        2020       2021       2022       2023       2024       2025      2026E      2027E      2028E       2029E       2030E       2031E       2032E
+
+Liquidity Ratios:
+     Current Ratio                                         235%        292%        290%        253%        252%       208%       178%       177%       127%       135%       141%       140%       143%        144%        147%        153%        161%
+     Quick Ratio                                           222%        279%        274%        235%        233%       190%       157%       154%       106%       116%       122%       121%       123%        124%        128%        134%        142%
+     Operating Cash Flow                                    56%         71%         75%         75%         84%        87%        94%        84%        95%        96%       117%       112%       118%        117%        117%        115%        114%
+     Working capital                                 $   80,303 $   106,951 $   111,174 $   106,132 $   109,605 $   95,749 $   74,602 $   80,108 $   34,448 $   49,913 $   64,916 $   77,067 $   92,893 $   116,104 $   149,447 $   197,477 $   261,684
+
+Asset-Management Ratios:
+TATO                                                       47%         39%         43%         44%         47%        50%        54%        51%        48%        46%        44%        43%        45%         47%         49%         50%         50%
+Fixed Asset TO                                            497%        407%        375%        345%        324%       281%       266%       222%       181%       137%       113%       104%       103%        107%        115%        120%        124%
+AR TO                                                     499%        431%        417%        426%        447%       442%       448%       435%       431%       403%       431%       431%       431%        431%        431%        431%        431%
+DSO                                                       73.18       84.78       87.58       85.63       81.70      82.61      81.48      83.86      84.76      90.57      84.77      84.77      84.77       84.77       84.77       84.77       84.77
+AP TO                                                     475%        464%        445%        457%        368%       344%       330%       364%       337%       317%       355%       387%       403%        410%        413%        386%        376%
+Financial Leverage Ratios:
+     Debt to Equity                                        74%         98%         92%         71%         54%        41%        30%        23%        19%        13%        12%        13%        11%         12%         11%         11%         11%
+     Equity Multiplier                                    269%        285%        313%        280%        255%       235%       219%       200%       191%       180%       180%       183%       183%        185%        187%        187%        186%
+Profitability Ratios:
+     Return on Equity (NI/Beg TSE)                                     36%         19%         47%         43%        52%        51%        43%        43%        38%        36%        32%        32%         34%         35%         39%         40%
+     Gross Margin                                          64%         65%         65%         66%         68%        69%        68%        69%        70%        69%        68%        65%        63%         63%         62%         65%         66%
+     Operating Margin                                      30%         30%         32%         34%         37%        42%        42%        42%        45%        46%        45%        43%        42%         42%         43%         46%         47%
+     Net Profit Margin                                     24%         27%         15%         31%         31%        36%        37%        34%        36%        36%        38%        35%        34%         34%         34%         37%         38%
+     Return on Assets                                                  12%          7%         14%         15%        19%        21%        19%        19%        18%        18%        16%        16%         17%         18%         19%         20%
+Payout Policy Ratios:
+     Dividend Payout Ratio (Dividend/EPS)                  57%         48%         80%         37%         36%        28%        26%        29%        26%        25%        23%        23%        21%         19%         17%         15%         13%
+     Total Payout Ratio ((Divs. + Repurchases)/NI)        125%         92%        141%         85%         86%        72%        70%        58%        44%        42%        47%        46%        51%         57%         63%         64%         65%
+Share Repurchase Ratio                                     74%         46%         65%         50%         52%        45%        45%        31%        20%        18%        25%        23%        30%         38%         46%         49%         52%
+

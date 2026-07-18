@@ -1,0 +1,13 @@
+peer_set,company_id,ticker,pe,forward_pe,ev_ebitda,pbv,price,market_cap,source,source_url,as_of_date,confidence,note
+US_Tech_Cloud,MSFT,MSFT,23.89,21.65,16.41,7.19,401.10,2980000000000,StockAnalysis/S&P Global Market Intelligence,https://stockanalysis.com/stocks/msft/statistics/,2026-07-17,medium,"Target company included for context; ratios current as of Jul 17 checked page"
+US_Tech_Cloud,AMZN,AMZN,29.89,29.87,17.84,6.08,249.89,2690000000000,StockAnalysis/S&P Global Market Intelligence,https://stockanalysis.com/stocks/amzn/statistics/,2026-07-17,medium,"Cloud peer and target company for AMZN fixture"
+US_Tech_Cloud,GOOGL,GOOGL,27.04,28.01,26.62,8.97,354.46,4330000000000,StockAnalysis/S&P Global Market Intelligence,https://stockanalysis.com/stocks/googl/statistics/,2026-07-17,medium,"Mega-cap cloud/AI peer"
+US_Tech_Cloud,ORCL,ORCL,21.31,15.44,16.18,9.53,124.21,357780000000,StockAnalysis/S&P Global Market Intelligence,https://stockanalysis.com/stocks/orcl/statistics/,2026-07-17,medium,"Cloud/software peer"
+US_Tech_Cloud,CRM,CRM,20.05,12.40,13.35,4.13,172.68,141420000000,StockAnalysis/S&P Global Market Intelligence,https://stockanalysis.com/stocks/crm/statistics/,2026-07-17,medium,"Enterprise software peer"
+US_Tech_Cloud,NVDA,NVDA,31.76,20.80,30.11,25.70,207.40,5020000000000,StockAnalysis/S&P Global Market Intelligence,https://stockanalysis.com/stocks/nvda/statistics/,2026-07-17,medium,"AI infrastructure peer"
+Thai_Energy,PTT,PTT,11.85,,5.56,0.93,38.75,1106816.10,SET factsheet,https://www.set.or.th/en/market/product/stock/quote/PTT/factsheet,2026-07-16,high,"Target company; market cap in M.Baht"
+Thai_Energy,PTT,PTTEP,10.26,,2.99,1.07,143.50,569692.90,SET factsheet,https://www.set.or.th/en/market/product/stock/quote/PTTEP/factsheet,2026-07-16,high,"E&P peer; market cap in M.Baht"
+Thai_Energy,PTT,TOP,4.39,,4.51,0.69,60.00,134030.13,SET factsheet,https://www.set.or.th/en/market/product/stock/quote/TOP/factsheet,2026-07-16,high,"Refining peer; market cap in M.Baht"
+Thai_Energy,PTT,OR,16.58,,6.45,1.33,12.90,154800.00,SET factsheet,https://www.set.or.th/en/market/product/stock/quote/OR/factsheet,2026-07-16,high,"Oil retail peer; market cap in M.Baht"
+Thai_Energy,PTT,PTTGC,,,12.32,0.56,36.75,165700.21,SET factsheet,https://www.set.or.th/en/market/product/stock/quote/PTTGC/factsheet,2026-07-16,high,"Petrochemical peer; P/E unavailable on SET factsheet"
+Thai_Energy,PTT,GPSC,21.01,,11.10,1.38,52.00,146625.93,SET factsheet,https://www.set.or.th/en/market/product/stock/quote/GPSC/factsheet,2026-07-16,high,"Power/utilities peer; market cap in M.Baht"

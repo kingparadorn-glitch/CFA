@@ -1,0 +1,4 @@
+company_id,ticker,company_name,market,currency,default_period,report_date,role,fixture_target,primary_story
+MSFT,MSFT,Microsoft Corporation,US/NASDAQ,USD,FY2026-Q3,2026-04-29,golden_anchor,07_implementation/data/raw/MSFT_FY26Q3_golden.json,"Azure growth, Microsoft Cloud, AI run-rate, capex/gross margin pressure"
+AMZN,AMZN,Amazon.com Inc.,US/NASDAQ,USD,FY2026-Q1,2026-04-30,cloud_peer,07_implementation/data/raw/AMZN_FY26Q1_golden.json,"AWS growth, AWS operating margin, retail margin, guidance"
+PTT,PTT,PTT Public Company Limited,Thailand/SET,THB,1Q2026,,thai_demo,07_implementation/data/raw/PTT_1Q2026_demo.json,"Core vs reported earnings, GRM, stock gain/loss, SOTP, IAA consensus gate"

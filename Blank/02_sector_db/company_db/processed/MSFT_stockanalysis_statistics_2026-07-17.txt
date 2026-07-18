@@ -1,0 +1,328 @@
+Microsoft Corporation (MSFT)
+
+NASDAQ: MSFT · Real-Time Price · USD
+
+[] Full Chart
+
+[] Watchlist
+
+[] Alerts
+
+[] Compare
+
+394.40
+
+-6.70 (-1.67%)
+
+Jul 17, 2026, 1:09 PM EDT - Market open
+
+- Overview
+
+- Financials
+
+- Forecast
+
+- Statistics
+
+- Metrics
+
+- Dividends
+
+- History
+
+- Profile
+
+- Chart []
+
+- Statistics
+- Market Cap
+- Revenue
+
+Microsoft Statistics
+
+Total Valuation
+
+Microsoft has a market cap or net worth of $2.93 trillion. The
+enterprise value is $2.97 trillion.
+
+  ------------------ -------
+  Market Cap         2.93T
+  Enterprise Value   2.97T
+  ------------------ -------
+
+Important Dates
+
+The next confirmed earnings date is Wednesday, July 29, 2026, after
+market close.
+
+  ------------------ --------------
+  Earnings Date      Jul 29, 2026
+  Ex-Dividend Date   Aug 20, 2026
+  ------------------ --------------
+
+Share Statistics
+
+Microsoft has 7.43 billion shares outstanding. The number of shares has
+decreased by -0.13% in one year.
+
+  --------------------------- --------
+  Current Share Class         7.43B
+  Shares Outstanding          7.43B
+  Shares Change (YoY)         -0.13%
+  Shares Change (QoQ)         -0.20%
+  Owned by Insiders (%)       0.03%
+  Owned by Institutions (%)   74.40%
+  Float                       7.42B
+  --------------------------- --------
+
+Valuation Ratios
+
+The trailing PE ratio is 23.89 and the forward PE ratio is 21.65.
+Microsoft's PEG ratio is 1.33.
+
+  ------------- -------
+  PE Ratio      23.89
+  Forward PE    21.65
+  PS Ratio      9.17
+  Forward PS    7.92
+  PB Ratio      7.19
+  P/TBV Ratio   10.60
+  P/FCF Ratio   40.03
+  P/OCF Ratio   17.15
+  PEG Ratio     1.33
+  ------------- -------
+
+Financial Ratio History
+
+Enterprise Valuation
+
+The stock's EV/EBITDA ratio is 16.08, with an EV/FCF ratio of 40.67.
+
+  --------------- -------
+  EV / Earnings   23.69
+  EV / Sales      9.32
+  EV / EBITDA     16.08
+  EV / EBIT       19.91
+  EV / FCF        40.67
+  --------------- -------
+
+Financial Position
+
+The company has a current ratio of 1.28, with a Debt / Equity ratio of
+0.30.
+
+  ------------------- -------
+  Current Ratio       1.28
+  Quick Ratio         1.14
+  Debt / Equity       0.30
+  Debt / EBITDA       0.66
+  Debt / FCF          1.72
+  Interest Coverage   52.10
+  ------------------- -------
+
+Financial Efficiency
+
+Return on equity (ROE) is 34.01% and return on invested capital (ROIC)
+is 27.24%.
+
+  ----------------------------------------- ----------
+  Return on Equity (ROE)                    34.01%
+  Return on Assets (ROA)                    14.81%
+  Return on Invested Capital (ROIC)         27.24%
+  Return on Capital Employed (ROCE)         26.72%
+  Weighted Average Cost of Capital (WACC)   10.11%
+  Revenue Per Employee                      $1.40M
+  Profits Per Employee                      $549,193
+  Employee Count                            228,000
+  Asset Turnover                            0.51
+  Inventory Turnover                        97.59
+  ----------------------------------------- ----------
+
+Taxes
+
+In the past 12 months, Microsoft has paid $29.29 billion in taxes.
+
+  -------------------- --------
+  Income Tax           29.29B
+  Effective Tax Rate   18.96%
+  -------------------- --------
+
+Stock Price Statistics
+
+The stock price has decreased by -22.40% in the last 52 weeks. The beta
+is 1.13, so Microsoft's price volatility has been higher than the market
+average.
+
+  ------------------------------- ------------
+  Beta (5Y)                       1.13
+  52-Week Price Change            -22.40%
+  50-Day Moving Average           401.48
+  200-Day Moving Average          439.34
+  Relative Strength Index (RSI)   51.06
+  Average Volume (20 Days)        45,678,445
+  ------------------------------- ------------
+
+Short Selling Information
+
+The latest short interest is 89.06 million, so 1.20% of the outstanding
+shares have been sold short.
+
+  ----------------------------- --------
+  Short Interest                89.06M
+  Short Previous Month          95.19M
+  Short % of Shares Out         1.20%
+  Short % of Float              1.20%
+  Short Ratio (days to cover)   1.84
+  ----------------------------- --------
+
+Income Statement
+
+In the last 12 months, Microsoft had revenue of $318.27 billion and
+earned $125.22 billion in profits. Earnings per share was $16.79.
+
+  -------------------------- ---------
+  Revenue                    318.27B
+  Gross Profit               217.41B
+  Operating Income           148.96B
+  Pretax Income              154.50B
+  Net Income                 125.22B
+  EBITDA                     184.46B
+  EBIT                       148.96B
+  Earnings Per Share (EPS)   $16.79
+  -------------------------- ---------
+
+Full Income Statement
+
+Balance Sheet
+
+The company has $78.23 billion in cash and $125.43 billion in debt, with
+a net cash position of -$47.20 billion or -$6.35 per share.
+
+  ------------------------- ---------
+  Cash & Cash Equivalents   78.23B
+  Total Debt                125.43B
+  Net Cash                  -47.20B
+  Net Cash Per Share        -$6.35
+  Equity (Book Value)       414.37B
+  Book Value Per Share      55.78
+  Working Capital           38.67B
+  ------------------------- ---------
+
+Full Balance Sheet
+
+Cash Flow
+
+In the last 12 months, operating cash flow was $170.14 billion and
+capital expenditures -$97.23 billion, giving a free cash flow of $72.92
+billion.
+
+  ----------------------------- ---------
+  Operating Cash Flow           170.14B
+  Capital Expenditures          -97.23B
+  Depreciation & Amortization   35.50B
+  Net Borrowing                 -3.00B
+  Free Cash Flow                72.92B
+  FCF Per Share                 $9.82
+  ----------------------------- ---------
+
+Full Cash Flow Statement
+
+Margins
+
+Gross margin is 68.31%, with operating and profit margins of 46.80% and
+39.34%.
+
+  ------------------ --------
+  Gross Margin       68.31%
+  Operating Margin   46.80%
+  Pretax Margin      48.54%
+  Profit Margin      39.34%
+  EBITDA Margin      57.96%
+  EBIT Margin        46.80%
+  FCF Margin         22.91%
+  ------------------ --------
+
+Dividends & Yields
+
+This stock pays an annual dividend of $3.64, which amounts to a dividend
+yield of 0.92%.
+
+  -------------------------- --------
+  Dividend Per Share         $3.64
+  Dividend Yield             0.92%
+  Dividend Growth (YoY)      9.64%
+  Years of Dividend Growth   20
+  Payout Ratio               21.68%
+  Buyback Yield              0.13%
+  Shareholder Yield          1.06%
+  Earnings Yield             4.29%
+  FCF Yield                  2.50%
+  -------------------------- --------
+
+Dividend Details
+
+Analyst Forecast
+
+The average price target for Microsoft is $558.77, which is 41.68%
+higher than the current price. The consensus rating is "Strong Buy".
+
+  ------------------------------ ------------
+  Price Target                   $558.77
+  Price Target Difference        41.68%
+  Analyst Consensus              Strong Buy
+  Analyst Count                  56
+  Revenue Growth Forecast (3Y)   17.32%
+  EPS Growth Forecast (3Y)       18.08%
+  ------------------------------ ------------
+
+Stock Forecasts
+
+Fair Value
+
+There are several formulas that can be used to estimate the intrinsic
+value of a stock.
+
++-----------------------------------+-----------------------------------+
+| Lynch Fair Value                  | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+| Lynch Upside                      | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+| Graham Number                     | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+| Graham Upside                     | [] Upgrade                        |
++-----------------------------------+-----------------------------------+
+
+Stock Splits
+
+The last stock split was on February 18, 2003. It was a forward split
+with a ratio of 2:1.
+
+  ----------------- --------------
+  Last Split Date   Feb 18, 2003
+  Split Type        Forward
+  Split Ratio       2:1
+  ----------------- --------------
+
+Scores
+
+Microsoft has an Altman Z-Score of 9.28 and a Piotroski F-Score of 5.
+
+  ------------------- ------
+  Altman Z-Score      9.28
+  Piotroski F-Score   5
+  ------------------- ------
+
+[] Data Source: S&P Global Market Intelligence Last updated: Jul 17,
+2026 []
+
+Financial statistics are provided by S&P Global Market Intelligence.
+Financial numbers update within hours after each earnings release, while
+price-based statistics and ratios update throughout each trading day.
+
+Update frequency:
+    Daily
+
+Last checked:
+    Jul 17, 2026
+
+Data Sources [] Report a data error
