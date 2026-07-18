@@ -50,7 +50,7 @@
 
 ---
 
-## 3. Sector — Private Equity (flagship)
+## 3. Sector — Private Equity (reference only, not in use — flagship is now Equity Research, see §6 / `research/equity_research_deep_dive.md`)
 
 ### 3A. Workflow เต็ม (7 ขั้น) — วงจรชีวิตดีล PE
 

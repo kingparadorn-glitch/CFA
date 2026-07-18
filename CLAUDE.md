@@ -32,27 +32,30 @@ Full competition timeline (from the rules PDF):
   competition; team composition is locked (no swapping members after confirmed registration).
 - Full rules: `AI × Finance Hackathon_รายละเอียดสำหรับผู้เข้าแข่งขัน.pdf`.
 
-## Our architecture concept — `CFA AI jaa.md`
+## Our architecture concept — `research/ai_architecture_design.md` + `research/equity_research_deep_dive.md`
 
-Core idea: a **generic agent engine + human-in-the-loop**, with a Private Equity workflow
-as the flagship worked example.
+Core idea: a **generic agent engine + human-in-the-loop**, with **Equity Research
+(sell-side)** as the flagship worked example.
 
 - **Engine (fixed, built once)**: grounding/citation, maker-checker debate, numeric
   verification vs. source, precision/recall eval against a gold set, human-in-loop gating
   with state (so re-runs are incremental, not from scratch).
-- **Sector plug (varies per finance vertical, this is what we still need to define)**:
-  workflow steps, the quant/math framework the sector actually uses (DCF, Beneish, Monte
-  Carlo, VaR, etc.), input data, and where a human must gate the process.
+- **Sector plug (Equity Research, decided)**: workflow steps, the quant/math framework the
+  sector actually uses (comps/multiples primary, DCF cross-check), input data, and where a
+  human must gate the process — fully specified in `research/equity_research_deep_dive.md`.
 - 3-layer structure: Task Map (finance-defined) → Agent Orchestration (engine) →
   Human-Loop + State (engine).
-- PE flagship flow: Sourcing/Screen → Financial DD (+ forensic checks) → Valuation (DCF,
-  comps, Monte Carlo) → Risk/Scenario → IC Memo, with human gates after DD, after
-  Valuation, and at final IC memo review.
-- Open gaps noted in the doc: which 2nd/3rd sector to build besides PE, which quant
-  models per sector, and which public company to use as a data proxy for the demo.
+- ER flagship flow (demo = P1 Coverage Initiation + P2 Earnings Update Cycle): Ingest &
+  Primer → Financial Modeling → Valuation & Rating → Draft Report → Compliance Review +
+  Sign-off (hard gate, licensed analyst) → Publish.
+- Open gaps: which public company to use as a data proxy for the demo (candidate: MTC —
+  see `research/equity_research_deep_dive.md` §20).
 
-**Immediate next step**: fill in the "sector plug" template (§7 of `CFA AI jaa.md`) for
-whichever finance vertical we're pursuing, then turn that into the ≤10-slide deck.
+**Immediate next step**: turn the Equity Research pipeline spec into the ≤10-slide deck.
+
+> Note: `CFA AI jaa.md` and the Private Equity sections of the research files describe an
+> earlier direction (PE as flagship) that the team has since moved on from. They're kept
+> as reference but should not be treated as current.
 
 ## Grading criteria — how the slide deck gets scored (100 pts, cuts to 5 finalists)
 
